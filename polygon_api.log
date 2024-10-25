@@ -1,0 +1,1317 @@
+2024-10-24 15:56:26,273 - polygon_api_logger - INFO - Starting the program
+2024-10-24 15:56:26,277 - polygon_api_logger - INFO - Loaded 3 tickers from input_tickers.csv
+2024-10-24 15:56:26,278 - polygon_api_logger - INFO - Processing ticker: MCFT
+2024-10-24 15:56:29,207 - polygon_api_logger - INFO - Successfully fetched historical data for MCFT
+2024-10-24 15:56:29,395 - polygon_api_logger - INFO - Processed MCFT: Closing Price=16.23, 200 SMA=20.107999999999997, Gap=-19.285856375571896, RSI=nan
+2024-10-24 15:56:59,401 - polygon_api_logger - INFO - Processing ticker: DBRG
+2024-10-24 15:56:59,614 - polygon_api_logger - INFO - Successfully fetched historical data for DBRG
+2024-10-24 15:56:59,832 - polygon_api_logger - INFO - Processed DBRG: Closing Price=15.82, 200 SMA=15.587850000000008, Gap=1.4893009619671203, RSI=nan
+2024-10-24 15:57:29,835 - polygon_api_logger - INFO - Processing ticker: EH
+2024-10-24 15:57:30,012 - polygon_api_logger - INFO - Successfully fetched historical data for EH
+2024-10-24 15:57:30,214 - polygon_api_logger - INFO - Processed EH: Closing Price=16.75, 200 SMA=14.494524999999989, Gap=15.560875571983305, RSI=nan
+2024-10-24 15:58:00,231 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-24 15:58:00,232 - polygon_api_logger - INFO - Program completed
+2024-10-24 15:59:39,636 - polygon_api_logger - INFO - Starting the program
+2024-10-24 15:59:39,640 - polygon_api_logger - INFO - Loaded 3 tickers from input_tickers.csv
+2024-10-24 15:59:39,641 - polygon_api_logger - INFO - Processing ticker: MCFT
+2024-10-24 15:59:39,933 - polygon_api_logger - INFO - Successfully fetched historical data for MCFT
+2024-10-24 15:59:40,156 - polygon_api_logger - INFO - Processed MCFT: Closing Price=16.23, 200 SMA=20.107999999999997, Gap=-19.285856375571896, RSI=26.30
+2024-10-24 16:00:10,162 - polygon_api_logger - INFO - Processing ticker: DBRG
+2024-10-24 16:00:10,385 - polygon_api_logger - INFO - Successfully fetched historical data for DBRG
+2024-10-24 16:00:10,623 - polygon_api_logger - INFO - Processed DBRG: Closing Price=15.82, 200 SMA=15.587850000000008, Gap=1.4893009619671203, RSI=75.00
+2024-10-24 16:00:40,629 - polygon_api_logger - INFO - Processing ticker: EH
+2024-10-24 16:00:40,823 - polygon_api_logger - INFO - Successfully fetched historical data for EH
+2024-10-24 16:00:41,075 - polygon_api_logger - INFO - Processed EH: Closing Price=16.75, 200 SMA=14.494524999999989, Gap=15.560875571983305, RSI=56.20
+2024-10-24 16:01:11,092 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-24 16:01:11,093 - polygon_api_logger - INFO - Program completed
+2024-10-24 16:18:44,340 - polygon_api_logger - INFO - Starting the program
+2024-10-24 16:18:44,344 - polygon_api_logger - INFO - Loaded 3 tickers from input_tickers.csv
+2024-10-24 16:18:44,345 - polygon_api_logger - INFO - Processing ticker: MCFT
+2024-10-24 16:18:47,796 - polygon_api_logger - INFO - Successfully fetched historical data for MCFT
+2024-10-24 16:18:48,023 - polygon_api_logger - INFO - Processed MCFT: Closing Price=16.23, 200 SMA=20.107999999999997, Gap=-19.29, RSI=26.30, Action=Might buy call
+2024-10-24 16:19:18,029 - polygon_api_logger - INFO - Processing ticker: DBRG
+2024-10-24 16:19:18,205 - polygon_api_logger - INFO - Successfully fetched historical data for DBRG
+2024-10-24 16:19:18,412 - polygon_api_logger - INFO - Processed DBRG: Closing Price=15.82, 200 SMA=15.587850000000008, Gap=1.49, RSI=75.00, Action=Monitor
+2024-10-24 16:19:48,418 - polygon_api_logger - INFO - Processing ticker: EH
+2024-10-24 16:19:48,592 - polygon_api_logger - INFO - Successfully fetched historical data for EH
+2024-10-24 16:19:48,826 - polygon_api_logger - INFO - Processed EH: Closing Price=16.75, 200 SMA=14.494524999999989, Gap=15.56, RSI=56.20, Action=No Action
+2024-10-24 16:20:18,841 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-24 16:20:18,841 - polygon_api_logger - INFO - Program completed
+2024-10-24 16:36:50,118 - polygon_api_logger - INFO - Starting the program
+2024-10-24 16:36:50,122 - polygon_api_logger - INFO - Loaded 373 tickers from input_tickers.csv
+2024-10-24 16:36:50,123 - polygon_api_logger - INFO - Processing ticker: ULTA
+2024-10-24 16:36:50,305 - polygon_api_logger - INFO - Successfully fetched historical data for ULTA
+2024-10-24 16:36:50,492 - polygon_api_logger - INFO - Processed ULTA: Closing Price=367.02, 200 SMA=425.1040250000001, Gap=-13.66, RSI=45.21, Action=No Action
+2024-10-24 16:37:00,490 - polygon_api_logger - INFO - Starting the program
+2024-10-24 16:37:00,491 - polygon_api_logger - INFO - Loaded 373 tickers from input_tickers.csv
+2024-10-24 16:37:00,491 - polygon_api_logger - INFO - Processing ticker: ULTA
+2024-10-24 16:37:00,690 - polygon_api_logger - INFO - Successfully fetched historical data for ULTA
+2024-10-24 16:37:00,912 - polygon_api_logger - INFO - Processed ULTA: Closing Price=367.02, 200 SMA=425.1040250000001, Gap=-13.66, RSI=45.21, Action=No Action
+2024-10-24 16:37:30,918 - polygon_api_logger - INFO - Processing ticker: CHTR
+2024-10-24 16:37:31,103 - polygon_api_logger - INFO - Successfully fetched historical data for CHTR
+2024-10-24 16:37:31,327 - polygon_api_logger - INFO - Processed CHTR: Closing Price=332.22, 200 SMA=309.97500000000014, Gap=7.18, RSI=57.89, Action=No Action
+2024-10-24 16:38:01,330 - polygon_api_logger - INFO - Processing ticker: WST
+2024-10-24 16:38:01,495 - polygon_api_logger - INFO - Successfully fetched historical data for WST
+2024-10-24 16:38:01,688 - polygon_api_logger - INFO - Processed WST: Closing Price=286.44, 200 SMA=338.34755000000007, Gap=-15.34, RSI=35.70, Action=No Action
+2024-10-24 16:38:31,693 - polygon_api_logger - INFO - Processing ticker: RH
+2024-10-24 16:38:31,879 - polygon_api_logger - INFO - Successfully fetched historical data for RH
+2024-10-24 16:38:32,105 - polygon_api_logger - INFO - Processed RH: Closing Price=325.92, 200 SMA=275.6471500000001, Gap=18.24, RSI=45.63, Action=No Action
+2024-10-24 16:39:02,109 - polygon_api_logger - INFO - Processing ticker: CRWD
+2024-10-24 16:39:02,293 - polygon_api_logger - INFO - Successfully fetched historical data for CRWD
+2024-10-24 16:39:02,495 - polygon_api_logger - INFO - Processed CRWD: Closing Price=299.3, 200 SMA=308.3348249999998, Gap=-2.93, RSI=59.26, Action=No Action
+2024-10-24 16:39:32,501 - polygon_api_logger - INFO - Processing ticker: SAM
+2024-10-24 16:39:32,676 - polygon_api_logger - INFO - Successfully fetched historical data for SAM
+2024-10-24 16:39:32,904 - polygon_api_logger - INFO - Processed SAM: Closing Price=301.51, 200 SMA=296.9601999999999, Gap=1.53, RSI=66.51, Action=No Action
+2024-10-24 16:40:02,910 - polygon_api_logger - INFO - Processing ticker: LULU
+2024-10-24 16:40:03,096 - polygon_api_logger - INFO - Successfully fetched historical data for LULU
+2024-10-24 16:40:03,287 - polygon_api_logger - INFO - Processed LULU: Closing Price=293.14, 200 SMA=342.65812499999925, Gap=-14.45, RSI=72.13, Action=Buy Put
+2024-10-24 16:40:33,293 - polygon_api_logger - INFO - Processing ticker: MDB
+2024-10-24 16:40:33,494 - polygon_api_logger - INFO - Successfully fetched historical data for MDB
+2024-10-24 16:40:33,725 - polygon_api_logger - INFO - Processed MDB: Closing Price=260.96, 200 SMA=320.9563999999999, Gap=-18.69, RSI=54.38, Action=No Action
+2024-10-24 16:41:03,732 - polygon_api_logger - INFO - Processing ticker: PODD
+2024-10-24 16:41:03,945 - polygon_api_logger - INFO - Successfully fetched historical data for PODD
+2024-10-24 16:41:04,304 - polygon_api_logger - INFO - Processed PODD: Closing Price=234.84, 200 SMA=194.07037500000038, Gap=21.01, RSI=60.42, Action=No Action
+2024-10-24 16:41:34,310 - polygon_api_logger - INFO - Processing ticker: ALGN
+2024-10-24 16:41:34,513 - polygon_api_logger - INFO - Successfully fetched historical data for ALGN
+2024-10-24 16:41:34,697 - polygon_api_logger - INFO - Processed ALGN: Closing Price=207.66, 200 SMA=265.2753499999997, Gap=-21.72, RSI=17.74, Action=Might buy call
+2024-10-24 16:42:04,703 - polygon_api_logger - INFO - Processing ticker: INSP
+2024-10-24 16:42:04,907 - polygon_api_logger - INFO - Successfully fetched historical data for INSP
+2024-10-24 16:42:05,101 - polygon_api_logger - INFO - Processed INSP: Closing Price=192.47, 200 SMA=187.90120000000016, Gap=2.43, RSI=39.20, Action=No Action
+2024-10-24 16:42:35,104 - polygon_api_logger - INFO - Processing ticker: EPAM
+2024-10-24 16:42:35,321 - polygon_api_logger - INFO - Successfully fetched historical data for EPAM
+2024-10-24 16:42:35,533 - polygon_api_logger - INFO - Processed EPAM: Closing Price=193.16, 200 SMA=230.50360000000035, Gap=-16.20, RSI=45.98, Action=No Action
+2024-10-24 16:43:05,539 - polygon_api_logger - INFO - Processing ticker: NICE
+2024-10-24 16:43:05,719 - polygon_api_logger - INFO - Successfully fetched historical data for NICE
+2024-10-24 16:43:05,908 - polygon_api_logger - INFO - Processed NICE: Closing Price=175.5, 200 SMA=198.6804000000001, Gap=-11.67, RSI=65.32, Action=No Action
+2024-10-24 16:43:35,913 - polygon_api_logger - INFO - Processing ticker: PAYC
+2024-10-24 16:43:36,093 - polygon_api_logger - INFO - Successfully fetched historical data for PAYC
+2024-10-24 16:43:36,317 - polygon_api_logger - INFO - Processed PAYC: Closing Price=164.39, 200 SMA=172.58214999999993, Gap=-4.75, RSI=45.89, Action=No Action
+2024-10-24 16:44:06,321 - polygon_api_logger - INFO - Processing ticker: BA
+2024-10-24 16:44:09,681 - polygon_api_logger - INFO - Successfully fetched historical data for BA
+2024-10-24 16:44:09,873 - polygon_api_logger - INFO - Processed BA: Closing Price=157.06, 200 SMA=180.6645499999998, Gap=-13.07, RSI=59.23, Action=No Action
+2024-10-24 16:44:39,871 - polygon_api_logger - INFO - Processing ticker: AMD
+2024-10-24 16:44:40,165 - polygon_api_logger - INFO - Successfully fetched historical data for AMD
+2024-10-24 16:44:40,468 - polygon_api_logger - INFO - Processed AMD: Closing Price=152.91, 200 SMA=162.9164500000002, Gap=-6.14, RSI=37.98, Action=No Action
+2024-10-24 16:45:10,473 - polygon_api_logger - INFO - Processing ticker: ILMN
+2024-10-24 16:45:10,651 - polygon_api_logger - INFO - Successfully fetched historical data for ILMN
+2024-10-24 16:45:10,850 - polygon_api_logger - INFO - Processed ILMN: Closing Price=142.94, 200 SMA=126.5398250000001, Gap=12.96, RSI=61.97, Action=No Action
+2024-10-24 16:45:40,856 - polygon_api_logger - INFO - Processing ticker: VST
+2024-10-24 16:45:41,039 - polygon_api_logger - INFO - Successfully fetched historical data for VST
+2024-10-24 16:45:41,428 - polygon_api_logger - INFO - Processed VST: Closing Price=126.11, 200 SMA=78.58420000000001, Gap=60.48, RSI=44.65, Action=No Action
+2024-10-24 16:46:11,434 - polygon_api_logger - INFO - Processing ticker: WHR
+2024-10-24 16:46:11,608 - polygon_api_logger - INFO - Successfully fetched historical data for WHR
+2024-10-24 16:46:11,924 - polygon_api_logger - INFO - Processed WHR: Closing Price=99.28, 200 SMA=102.71085000000008, Gap=-3.34, RSI=36.63, Action=No Action
+2024-10-24 16:46:41,930 - polygon_api_logger - INFO - Processing ticker: VRT
+2024-10-24 16:46:42,155 - polygon_api_logger - INFO - Successfully fetched historical data for VRT
+2024-10-24 16:46:42,370 - polygon_api_logger - INFO - Processed VRT: Closing Price=108.36, 200 SMA=82.40819999999998, Gap=31.49, RSI=59.64, Action=No Action
+2024-10-24 16:47:12,381 - polygon_api_logger - INFO - Processing ticker: MU
+2024-10-24 16:47:12,579 - polygon_api_logger - INFO - Successfully fetched historical data for MU
+2024-10-24 16:47:12,767 - polygon_api_logger - INFO - Processed MU: Closing Price=105.05, 200 SMA=107.64385000000006, Gap=-2.41, RSI=55.83, Action=No Action
+2024-10-24 16:47:42,777 - polygon_api_logger - INFO - Processing ticker: FND
+2024-10-24 16:47:42,982 - polygon_api_logger - INFO - Successfully fetched historical data for FND
+2024-10-24 16:47:43,254 - polygon_api_logger - INFO - Processed FND: Closing Price=103.81, 200 SMA=111.02909999999986, Gap=-6.50, RSI=22.41, Action=Might buy call
+2024-10-24 16:48:13,260 - polygon_api_logger - INFO - Processing ticker: ALB
+2024-10-24 16:48:13,469 - polygon_api_logger - INFO - Successfully fetched historical data for ALB
+2024-10-24 16:48:13,670 - polygon_api_logger - INFO - Processed ALB: Closing Price=93.96, 200 SMA=108.25930000000011, Gap=-13.21, RSI=49.53, Action=No Action
+2024-10-24 16:48:43,676 - polygon_api_logger - INFO - Processing ticker: KRUS
+2024-10-24 16:48:43,855 - polygon_api_logger - INFO - Successfully fetched historical data for KRUS
+2024-10-24 16:48:44,058 - polygon_api_logger - INFO - Processed KRUS: Closing Price=93.21, 200 SMA=86.87462499999997, Gap=7.29, RSI=76.27, Action=Monitor
+2024-10-24 16:49:14,063 - polygon_api_logger - INFO - Processing ticker: PVH
+2024-10-24 16:49:14,344 - polygon_api_logger - INFO - Successfully fetched historical data for PVH
+2024-10-24 16:49:14,920 - polygon_api_logger - INFO - Processed PVH: Closing Price=92.86, 200 SMA=111.77555000000012, Gap=-16.92, RSI=44.50, Action=No Action
+2024-10-24 16:49:44,925 - polygon_api_logger - INFO - Processing ticker: ACLS
+2024-10-24 16:49:45,120 - polygon_api_logger - INFO - Successfully fetched historical data for ACLS
+2024-10-24 16:49:45,336 - polygon_api_logger - INFO - Processed ACLS: Closing Price=90.04, 200 SMA=115.35980000000018, Gap=-21.95, RSI=31.42, Action=No Action
+2024-10-24 16:50:15,342 - polygon_api_logger - INFO - Processing ticker: NET
+2024-10-24 16:50:18,650 - polygon_api_logger - INFO - Successfully fetched historical data for NET
+2024-10-24 16:50:18,848 - polygon_api_logger - INFO - Processed NET: Closing Price=87.64, 200 SMA=84.21560000000007, Gap=4.07, RSI=65.09, Action=No Action
+2024-10-24 16:50:48,854 - polygon_api_logger - INFO - Processing ticker: FIVE
+2024-10-24 16:50:49,332 - polygon_api_logger - INFO - Successfully fetched historical data for FIVE
+2024-10-24 16:50:49,565 - polygon_api_logger - INFO - Processed FIVE: Closing Price=88.44, 200 SMA=132.0594999999999, Gap=-33.03, RSI=47.42, Action=No Action
+2024-10-24 16:51:19,571 - polygon_api_logger - INFO - Processing ticker: ATKR
+2024-10-24 16:51:22,872 - polygon_api_logger - INFO - Successfully fetched historical data for ATKR
+2024-10-24 16:51:23,088 - polygon_api_logger - INFO - Processed ATKR: Closing Price=85.71, 200 SMA=137.13095000000004, Gap=-37.50, RSI=58.10, Action=No Action
+2024-10-24 16:51:53,094 - polygon_api_logger - INFO - Processing ticker: CAR
+2024-10-24 16:51:53,276 - polygon_api_logger - INFO - Successfully fetched historical data for CAR
+2024-10-24 16:51:53,499 - polygon_api_logger - INFO - Processed CAR: Closing Price=78.55, 200 SMA=109.12352500000074, Gap=-28.02, RSI=40.13, Action=No Action
+2024-10-24 16:52:23,506 - polygon_api_logger - INFO - Processing ticker: ENPH
+2024-10-24 16:52:23,743 - polygon_api_logger - INFO - Successfully fetched historical data for ENPH
+2024-10-24 16:52:23,961 - polygon_api_logger - INFO - Processed ENPH: Closing Price=78.47, 200 SMA=113.41149999999982, Gap=-30.81, RSI=16.24, Action=Might buy call
+2024-10-24 16:52:53,967 - polygon_api_logger - INFO - Processing ticker: LBRDK
+2024-10-24 16:52:54,150 - polygon_api_logger - INFO - Successfully fetched historical data for LBRDK
+2024-10-24 16:52:54,339 - polygon_api_logger - INFO - Processed LBRDK: Closing Price=81.32, 200 SMA=60.96615000000006, Gap=33.39, RSI=65.87, Action=No Action
+2024-10-24 16:53:24,346 - polygon_api_logger - INFO - Processing ticker: LBRDA
+2024-10-24 16:53:24,557 - polygon_api_logger - INFO - Successfully fetched historical data for LBRDA
+2024-10-24 16:53:24,783 - polygon_api_logger - INFO - Processed LBRDA: Closing Price=80.65, 200 SMA=60.62810000000004, Gap=33.02, RSI=65.05, Action=No Action
+2024-10-24 16:53:54,789 - polygon_api_logger - INFO - Processing ticker: SHOP
+2024-10-24 16:53:58,109 - polygon_api_logger - INFO - Successfully fetched historical data for SHOP
+2024-10-24 16:53:58,574 - polygon_api_logger - INFO - Processed SHOP: Closing Price=79.66, 200 SMA=72.16755, Gap=10.38, RSI=54.69, Action=No Action
+2024-10-24 16:54:28,580 - polygon_api_logger - INFO - Processing ticker: NKE
+2024-10-24 16:54:28,784 - polygon_api_logger - INFO - Successfully fetched historical data for NKE
+2024-10-24 16:54:28,973 - polygon_api_logger - INFO - Processed NKE: Closing Price=80.05, 200 SMA=89.8126500000001, Gap=-10.87, RSI=40.23, Action=No Action
+2024-10-24 16:54:58,979 - polygon_api_logger - INFO - Processing ticker: WK
+2024-10-24 16:55:02,304 - polygon_api_logger - INFO - Successfully fetched historical data for WK
+2024-10-24 16:55:02,501 - polygon_api_logger - INFO - Processed WK: Closing Price=78.67, 200 SMA=80.68759999999997, Gap=-2.50, RSI=53.40, Action=No Action
+2024-10-24 16:55:32,505 - polygon_api_logger - INFO - Processing ticker: VAC
+2024-10-24 16:55:32,711 - polygon_api_logger - INFO - Successfully fetched historical data for VAC
+2024-10-24 16:55:32,956 - polygon_api_logger - INFO - Processed VAC: Closing Price=75.54, 200 SMA=86.38639999999992, Gap=-12.56, RSI=54.51, Action=No Action
+2024-10-24 16:56:02,962 - polygon_api_logger - INFO - Processing ticker: IPGP
+2024-10-24 16:56:03,146 - polygon_api_logger - INFO - Successfully fetched historical data for IPGP
+2024-10-24 16:56:03,341 - polygon_api_logger - INFO - Processed IPGP: Closing Price=74.76, 200 SMA=83.540175, Gap=-10.51, RSI=60.70, Action=No Action
+2024-10-24 16:56:33,347 - polygon_api_logger - INFO - Processing ticker: ROKU
+2024-10-24 16:56:33,529 - polygon_api_logger - INFO - Successfully fetched historical data for ROKU
+2024-10-24 16:56:33,724 - polygon_api_logger - INFO - Processed ROKU: Closing Price=73.5, 200 SMA=66.99710000000006, Gap=9.71, RSI=45.48, Action=No Action
+2024-10-24 16:57:03,730 - polygon_api_logger - INFO - Processing ticker: VKTX
+2024-10-24 16:57:03,906 - polygon_api_logger - INFO - Successfully fetched historical data for VKTX
+2024-10-24 16:57:04,298 - polygon_api_logger - INFO - Processed VKTX: Closing Price=60.39, 200 SMA=57.986924999999985, Gap=4.14, RSI=41.86, Action=No Action
+2024-10-24 16:57:34,304 - polygon_api_logger - INFO - Processing ticker: PII
+2024-10-24 16:57:37,613 - polygon_api_logger - INFO - Successfully fetched historical data for PII
+2024-10-24 16:57:37,804 - polygon_api_logger - INFO - Processed PII: Closing Price=69.68, 200 SMA=85.23909999999997, Gap=-18.25, RSI=20.79, Action=Might buy call
+2024-10-24 16:58:07,809 - polygon_api_logger - INFO - Processing ticker: EW
+2024-10-24 16:58:08,025 - polygon_api_logger - INFO - Successfully fetched historical data for EW
+2024-10-24 16:58:08,240 - polygon_api_logger - INFO - Processed EW: Closing Price=70.61, 200 SMA=80.68154999999997, Gap=-12.48, RSI=69.91, Action=No Action
+2024-10-24 16:58:38,246 - polygon_api_logger - INFO - Processing ticker: EXAS
+2024-10-24 16:58:38,550 - polygon_api_logger - INFO - Successfully fetched historical data for EXAS
+2024-10-24 16:58:38,746 - polygon_api_logger - INFO - Processed EXAS: Closing Price=70.27, 200 SMA=58.787225000000014, Gap=19.53, RSI=62.34, Action=No Action
+2024-10-24 16:59:08,753 - polygon_api_logger - INFO - Processing ticker: ON
+2024-10-24 16:59:08,964 - polygon_api_logger - INFO - Successfully fetched historical data for ON
+2024-10-24 16:59:09,211 - polygon_api_logger - INFO - Processed ON: Closing Price=67.97, 200 SMA=72.72794999999972, Gap=-6.54, RSI=41.55, Action=No Action
+2024-10-24 16:59:39,217 - polygon_api_logger - INFO - Processing ticker: RHI
+2024-10-24 16:59:39,397 - polygon_api_logger - INFO - Successfully fetched historical data for RHI
+2024-10-24 16:59:39,613 - polygon_api_logger - INFO - Processed RHI: Closing Price=67.57, 200 SMA=70.04535000000004, Gap=-3.53, RSI=56.86, Action=No Action
+2024-10-24 17:00:09,618 - polygon_api_logger - INFO - Processing ticker: APTV
+2024-10-24 17:00:09,821 - polygon_api_logger - INFO - Successfully fetched historical data for APTV
+2024-10-24 17:00:10,041 - polygon_api_logger - INFO - Processed APTV: Closing Price=69.53, 200 SMA=75.0074500000001, Gap=-7.30, RSI=52.44, Action=No Action
+2024-10-24 17:00:40,047 - polygon_api_logger - INFO - Processing ticker: KRRO
+2024-10-24 17:00:40,231 - polygon_api_logger - INFO - Successfully fetched historical data for KRRO
+2024-10-24 17:00:40,417 - polygon_api_logger - INFO - Processed KRRO: Closing Price=67.79, 200 SMA=50.48369999999998, Gap=34.28, RSI=79.10, Action=Monitor
+2024-10-24 17:01:10,423 - polygon_api_logger - INFO - Processing ticker: CRI
+2024-10-24 17:01:10,648 - polygon_api_logger - INFO - Successfully fetched historical data for CRI
+2024-10-24 17:01:10,876 - polygon_api_logger - INFO - Processed CRI: Closing Price=65.55, 200 SMA=70.26399999999991, Gap=-6.71, RSI=51.73, Action=No Action
+2024-10-24 17:01:40,881 - polygon_api_logger - INFO - Processing ticker: OMAB
+2024-10-24 17:01:41,065 - polygon_api_logger - INFO - Successfully fetched historical data for OMAB
+2024-10-24 17:01:41,289 - polygon_api_logger - INFO - Processed OMAB: Closing Price=65.31, 200 SMA=72.69229999999993, Gap=-10.16, RSI=45.01, Action=No Action
+2024-10-24 17:02:11,292 - polygon_api_logger - INFO - Processing ticker: DAY
+2024-10-24 17:02:11,467 - polygon_api_logger - INFO - Successfully fetched historical data for DAY
+2024-10-24 17:05:59,030 - polygon_api_logger - INFO - Starting the program
+2024-10-24 17:05:59,035 - polygon_api_logger - INFO - Loaded 373 tickers from input_tickers.csv
+2024-10-24 17:05:59,036 - polygon_api_logger - INFO - Processing ticker: ULTA
+2024-10-24 17:06:02,407 - polygon_api_logger - INFO - Successfully fetched historical data for ULTA
+2024-10-24 17:06:02,600 - polygon_api_logger - INFO - Processed ULTA: Closing Price=367.02, 200 SMA=425.1040250000001, Gap=-13.66, RSI=45.21, Action=No Action
+2024-10-24 17:06:32,606 - polygon_api_logger - INFO - Processing ticker: CHTR
+2024-10-24 17:06:32,777 - polygon_api_logger - INFO - Successfully fetched historical data for CHTR
+2024-10-24 17:06:32,973 - polygon_api_logger - INFO - Processed CHTR: Closing Price=332.22, 200 SMA=309.97500000000014, Gap=7.18, RSI=57.89, Action=No Action
+2024-10-24 17:07:02,978 - polygon_api_logger - INFO - Processing ticker: WST
+2024-10-24 17:07:03,153 - polygon_api_logger - INFO - Successfully fetched historical data for WST
+2024-10-24 17:07:03,372 - polygon_api_logger - INFO - Processed WST: Closing Price=286.44, 200 SMA=338.34755000000007, Gap=-15.34, RSI=35.70, Action=No Action
+2024-10-24 17:07:33,378 - polygon_api_logger - INFO - Processing ticker: RH
+2024-10-24 17:07:33,575 - polygon_api_logger - INFO - Successfully fetched historical data for RH
+2024-10-24 17:07:33,772 - polygon_api_logger - INFO - Processed RH: Closing Price=325.92, 200 SMA=275.6471500000001, Gap=18.24, RSI=45.63, Action=No Action
+2024-10-24 17:08:03,773 - polygon_api_logger - INFO - Processing ticker: CRWD
+2024-10-24 17:08:03,947 - polygon_api_logger - INFO - Successfully fetched historical data for CRWD
+2024-10-24 17:08:04,136 - polygon_api_logger - INFO - Processed CRWD: Closing Price=299.3, 200 SMA=308.3348249999998, Gap=-2.93, RSI=59.26, Action=No Action
+2024-10-24 17:08:34,142 - polygon_api_logger - INFO - Processing ticker: SAM
+2024-10-24 17:08:34,391 - polygon_api_logger - INFO - Successfully fetched historical data for SAM
+2024-10-24 17:08:34,604 - polygon_api_logger - INFO - Processed SAM: Closing Price=301.51, 200 SMA=296.9601999999999, Gap=1.53, RSI=66.51, Action=No Action
+2024-10-24 17:09:04,611 - polygon_api_logger - INFO - Processing ticker: LULU
+2024-10-24 17:09:04,811 - polygon_api_logger - INFO - Successfully fetched historical data for LULU
+2024-10-24 17:09:05,005 - polygon_api_logger - INFO - Processed LULU: Closing Price=293.14, 200 SMA=342.65812499999925, Gap=-14.45, RSI=72.13, Action=Buy Put
+2024-10-24 17:09:35,010 - polygon_api_logger - INFO - Processing ticker: MDB
+2024-10-24 17:09:35,178 - polygon_api_logger - INFO - Successfully fetched historical data for MDB
+2024-10-24 17:09:35,394 - polygon_api_logger - INFO - Processed MDB: Closing Price=260.96, 200 SMA=320.9563999999999, Gap=-18.69, RSI=54.38, Action=No Action
+2024-10-24 17:10:05,401 - polygon_api_logger - INFO - Processing ticker: PODD
+2024-10-24 17:10:05,607 - polygon_api_logger - INFO - Successfully fetched historical data for PODD
+2024-10-24 17:10:05,794 - polygon_api_logger - INFO - Processed PODD: Closing Price=234.84, 200 SMA=194.07037500000038, Gap=21.01, RSI=60.42, Action=No Action
+2024-10-24 17:10:35,801 - polygon_api_logger - INFO - Processing ticker: ALGN
+2024-10-24 17:10:36,002 - polygon_api_logger - INFO - Successfully fetched historical data for ALGN
+2024-10-24 17:10:36,230 - polygon_api_logger - INFO - Processed ALGN: Closing Price=207.66, 200 SMA=265.2753499999997, Gap=-21.72, RSI=17.74, Action=Might buy call
+2024-10-24 17:11:06,247 - polygon_api_logger - INFO - Processing ticker: INSP
+2024-10-24 17:11:06,441 - polygon_api_logger - INFO - Successfully fetched historical data for INSP
+2024-10-24 17:11:06,639 - polygon_api_logger - INFO - Processed INSP: Closing Price=192.47, 200 SMA=187.90120000000016, Gap=2.43, RSI=39.20, Action=No Action
+2024-10-24 17:11:36,646 - polygon_api_logger - INFO - Processing ticker: EPAM
+2024-10-24 17:11:36,847 - polygon_api_logger - INFO - Successfully fetched historical data for EPAM
+2024-10-24 17:11:37,393 - polygon_api_logger - INFO - Processed EPAM: Closing Price=193.16, 200 SMA=230.50360000000035, Gap=-16.20, RSI=45.98, Action=No Action
+2024-10-24 17:12:07,400 - polygon_api_logger - INFO - Processing ticker: NICE
+2024-10-24 17:12:07,674 - polygon_api_logger - INFO - Successfully fetched historical data for NICE
+2024-10-24 17:12:07,870 - polygon_api_logger - INFO - Processed NICE: Closing Price=175.5, 200 SMA=198.6804000000001, Gap=-11.67, RSI=65.32, Action=No Action
+2024-10-24 17:12:37,876 - polygon_api_logger - INFO - Processing ticker: PAYC
+2024-10-24 17:12:38,048 - polygon_api_logger - INFO - Successfully fetched historical data for PAYC
+2024-10-24 17:12:38,266 - polygon_api_logger - INFO - Processed PAYC: Closing Price=164.39, 200 SMA=172.58214999999993, Gap=-4.75, RSI=45.89, Action=No Action
+2024-10-24 17:13:08,273 - polygon_api_logger - INFO - Processing ticker: BA
+2024-10-24 17:13:08,854 - polygon_api_logger - INFO - Successfully fetched historical data for BA
+2024-10-24 17:13:09,368 - polygon_api_logger - INFO - Processed BA: Closing Price=157.06, 200 SMA=180.6645499999998, Gap=-13.07, RSI=59.23, Action=No Action
+2024-10-24 17:13:39,375 - polygon_api_logger - INFO - Processing ticker: AMD
+2024-10-24 17:13:39,579 - polygon_api_logger - INFO - Successfully fetched historical data for AMD
+2024-10-24 17:13:39,767 - polygon_api_logger - INFO - Processed AMD: Closing Price=152.91, 200 SMA=162.9164500000002, Gap=-6.14, RSI=37.98, Action=No Action
+2024-10-24 17:14:09,770 - polygon_api_logger - INFO - Processing ticker: ILMN
+2024-10-24 17:14:09,950 - polygon_api_logger - INFO - Successfully fetched historical data for ILMN
+2024-10-24 17:14:10,210 - polygon_api_logger - INFO - Processed ILMN: Closing Price=142.94, 200 SMA=126.5398250000001, Gap=12.96, RSI=61.97, Action=No Action
+2024-10-24 17:14:40,216 - polygon_api_logger - INFO - Processing ticker: VST
+2024-10-24 17:14:40,429 - polygon_api_logger - INFO - Successfully fetched historical data for VST
+2024-10-24 17:14:40,666 - polygon_api_logger - INFO - Processed VST: Closing Price=126.11, 200 SMA=78.58420000000001, Gap=60.48, RSI=44.65, Action=No Action
+2024-10-24 17:15:10,672 - polygon_api_logger - INFO - Processing ticker: WHR
+2024-10-24 17:15:10,877 - polygon_api_logger - INFO - Successfully fetched historical data for WHR
+2024-10-24 17:15:11,119 - polygon_api_logger - INFO - Processed WHR: Closing Price=99.28, 200 SMA=102.71085000000008, Gap=-3.34, RSI=36.63, Action=No Action
+2024-10-24 17:15:41,127 - polygon_api_logger - INFO - Processing ticker: VRT
+2024-10-24 17:15:41,333 - polygon_api_logger - INFO - Successfully fetched historical data for VRT
+2024-10-24 17:15:41,524 - polygon_api_logger - INFO - Processed VRT: Closing Price=108.36, 200 SMA=82.40819999999998, Gap=31.49, RSI=59.64, Action=No Action
+2024-10-24 17:16:11,529 - polygon_api_logger - INFO - Processing ticker: MU
+2024-10-24 17:16:11,703 - polygon_api_logger - INFO - Successfully fetched historical data for MU
+2024-10-24 17:16:11,926 - polygon_api_logger - INFO - Processed MU: Closing Price=105.05, 200 SMA=107.64385000000006, Gap=-2.41, RSI=55.83, Action=No Action
+2024-10-24 17:16:41,932 - polygon_api_logger - INFO - Processing ticker: FND
+2024-10-24 17:16:42,180 - polygon_api_logger - INFO - Successfully fetched historical data for FND
+2024-10-24 17:16:42,408 - polygon_api_logger - INFO - Processed FND: Closing Price=103.81, 200 SMA=111.02909999999986, Gap=-6.50, RSI=22.41, Action=Might buy call
+2024-10-24 17:17:12,424 - polygon_api_logger - INFO - Processing ticker: ALB
+2024-10-24 17:17:12,631 - polygon_api_logger - INFO - Successfully fetched historical data for ALB
+2024-10-24 17:17:12,898 - polygon_api_logger - INFO - Processed ALB: Closing Price=93.96, 200 SMA=108.25930000000011, Gap=-13.21, RSI=49.53, Action=No Action
+2024-10-24 17:17:42,904 - polygon_api_logger - INFO - Processing ticker: KRUS
+2024-10-24 17:17:46,230 - polygon_api_logger - INFO - Successfully fetched historical data for KRUS
+2024-10-24 17:17:46,420 - polygon_api_logger - INFO - Processed KRUS: Closing Price=93.21, 200 SMA=86.87462499999997, Gap=7.29, RSI=76.27, Action=Monitor
+2024-10-24 17:18:16,426 - polygon_api_logger - INFO - Processing ticker: PVH
+2024-10-24 17:18:16,634 - polygon_api_logger - INFO - Successfully fetched historical data for PVH
+2024-10-24 17:18:16,826 - polygon_api_logger - INFO - Processed PVH: Closing Price=92.86, 200 SMA=111.77555000000012, Gap=-16.92, RSI=44.50, Action=No Action
+2024-10-24 17:18:46,832 - polygon_api_logger - INFO - Processing ticker: ACLS
+2024-10-24 17:18:47,009 - polygon_api_logger - INFO - Successfully fetched historical data for ACLS
+2024-10-24 17:18:47,230 - polygon_api_logger - INFO - Processed ACLS: Closing Price=90.04, 200 SMA=115.35980000000018, Gap=-21.95, RSI=31.42, Action=No Action
+2024-10-24 17:19:17,235 - polygon_api_logger - INFO - Processing ticker: NET
+2024-10-24 17:19:20,620 - polygon_api_logger - INFO - Successfully fetched historical data for NET
+2024-10-24 17:19:20,828 - polygon_api_logger - INFO - Processed NET: Closing Price=87.64, 200 SMA=84.21560000000007, Gap=4.07, RSI=65.09, Action=No Action
+2024-10-24 17:19:50,835 - polygon_api_logger - INFO - Processing ticker: FIVE
+2024-10-24 17:19:51,047 - polygon_api_logger - INFO - Successfully fetched historical data for FIVE
+2024-10-24 17:19:51,275 - polygon_api_logger - INFO - Processed FIVE: Closing Price=88.44, 200 SMA=132.0594999999999, Gap=-33.03, RSI=47.42, Action=No Action
+2024-10-24 17:20:21,281 - polygon_api_logger - INFO - Processing ticker: ATKR
+2024-10-24 17:20:21,484 - polygon_api_logger - INFO - Successfully fetched historical data for ATKR
+2024-10-24 17:20:21,734 - polygon_api_logger - INFO - Processed ATKR: Closing Price=85.71, 200 SMA=137.13095000000004, Gap=-37.50, RSI=58.10, Action=No Action
+2024-10-24 17:20:51,739 - polygon_api_logger - INFO - Processing ticker: CAR
+2024-10-24 17:20:51,962 - polygon_api_logger - INFO - Successfully fetched historical data for CAR
+2024-10-24 17:20:52,187 - polygon_api_logger - INFO - Processed CAR: Closing Price=78.55, 200 SMA=109.12352500000074, Gap=-28.02, RSI=40.13, Action=No Action
+2024-10-24 17:21:22,191 - polygon_api_logger - INFO - Processing ticker: ENPH
+2024-10-24 17:21:22,417 - polygon_api_logger - INFO - Successfully fetched historical data for ENPH
+2024-10-24 17:21:23,243 - polygon_api_logger - INFO - Processed ENPH: Closing Price=78.47, 200 SMA=113.41149999999982, Gap=-30.81, RSI=16.24, Action=Might buy call
+2024-10-24 17:21:53,249 - polygon_api_logger - INFO - Processing ticker: LBRDK
+2024-10-24 17:21:53,425 - polygon_api_logger - INFO - Successfully fetched historical data for LBRDK
+2024-10-24 17:21:53,636 - polygon_api_logger - INFO - Processed LBRDK: Closing Price=81.32, 200 SMA=60.96615000000006, Gap=33.39, RSI=65.87, Action=No Action
+2024-10-24 17:22:23,643 - polygon_api_logger - INFO - Processing ticker: LBRDA
+2024-10-24 17:22:23,862 - polygon_api_logger - INFO - Successfully fetched historical data for LBRDA
+2024-10-24 17:22:24,268 - polygon_api_logger - INFO - Processed LBRDA: Closing Price=80.65, 200 SMA=60.62810000000004, Gap=33.02, RSI=65.05, Action=No Action
+2024-10-24 17:22:54,275 - polygon_api_logger - INFO - Processing ticker: SHOP
+2024-10-24 17:22:54,445 - polygon_api_logger - INFO - Successfully fetched historical data for SHOP
+2024-10-24 17:22:54,654 - polygon_api_logger - INFO - Processed SHOP: Closing Price=79.66, 200 SMA=72.16755, Gap=10.38, RSI=54.69, Action=No Action
+2024-10-24 17:23:24,658 - polygon_api_logger - INFO - Processing ticker: NKE
+2024-10-24 17:23:24,886 - polygon_api_logger - INFO - Successfully fetched historical data for NKE
+2024-10-24 17:23:25,117 - polygon_api_logger - INFO - Processed NKE: Closing Price=80.05, 200 SMA=89.8126500000001, Gap=-10.87, RSI=40.23, Action=No Action
+2024-10-24 17:23:55,123 - polygon_api_logger - INFO - Processing ticker: WK
+2024-10-24 17:23:55,324 - polygon_api_logger - INFO - Successfully fetched historical data for WK
+2024-10-24 17:23:55,646 - polygon_api_logger - INFO - Processed WK: Closing Price=78.67, 200 SMA=80.68759999999997, Gap=-2.50, RSI=53.40, Action=No Action
+2024-10-24 17:24:25,656 - polygon_api_logger - INFO - Processing ticker: VAC
+2024-10-24 17:24:25,857 - polygon_api_logger - INFO - Successfully fetched historical data for VAC
+2024-10-24 17:24:26,133 - polygon_api_logger - INFO - Processed VAC: Closing Price=75.54, 200 SMA=86.38639999999992, Gap=-12.56, RSI=54.51, Action=No Action
+2024-10-24 17:24:56,142 - polygon_api_logger - INFO - Processing ticker: IPGP
+2024-10-24 17:24:56,341 - polygon_api_logger - INFO - Successfully fetched historical data for IPGP
+2024-10-24 17:24:56,559 - polygon_api_logger - INFO - Processed IPGP: Closing Price=74.76, 200 SMA=83.540175, Gap=-10.51, RSI=60.70, Action=No Action
+2024-10-24 17:25:26,565 - polygon_api_logger - INFO - Processing ticker: ROKU
+2024-10-24 17:25:26,747 - polygon_api_logger - INFO - Successfully fetched historical data for ROKU
+2024-10-24 17:25:26,956 - polygon_api_logger - INFO - Processed ROKU: Closing Price=73.5, 200 SMA=66.99710000000006, Gap=9.71, RSI=45.48, Action=No Action
+2024-10-24 17:25:56,962 - polygon_api_logger - INFO - Processing ticker: VKTX
+2024-10-24 17:25:57,165 - polygon_api_logger - INFO - Successfully fetched historical data for VKTX
+2024-10-24 17:25:57,361 - polygon_api_logger - INFO - Processed VKTX: Closing Price=60.39, 200 SMA=57.986924999999985, Gap=4.14, RSI=41.86, Action=No Action
+2024-10-24 17:26:27,368 - polygon_api_logger - INFO - Processing ticker: PII
+2024-10-24 17:26:27,587 - polygon_api_logger - INFO - Successfully fetched historical data for PII
+2024-10-24 17:26:27,809 - polygon_api_logger - INFO - Processed PII: Closing Price=69.68, 200 SMA=85.23909999999997, Gap=-18.25, RSI=20.79, Action=Might buy call
+2024-10-24 17:26:57,815 - polygon_api_logger - INFO - Processing ticker: EW
+2024-10-24 17:26:58,021 - polygon_api_logger - INFO - Successfully fetched historical data for EW
+2024-10-24 17:26:58,220 - polygon_api_logger - INFO - Processed EW: Closing Price=70.61, 200 SMA=80.68154999999997, Gap=-12.48, RSI=69.91, Action=No Action
+2024-10-24 17:27:28,227 - polygon_api_logger - INFO - Processing ticker: EXAS
+2024-10-24 17:27:28,410 - polygon_api_logger - INFO - Successfully fetched historical data for EXAS
+2024-10-24 17:27:28,817 - polygon_api_logger - INFO - Processed EXAS: Closing Price=70.27, 200 SMA=58.787225000000014, Gap=19.53, RSI=62.34, Action=No Action
+2024-10-24 17:27:58,823 - polygon_api_logger - INFO - Processing ticker: ON
+2024-10-24 17:27:59,060 - polygon_api_logger - INFO - Successfully fetched historical data for ON
+2024-10-24 17:27:59,277 - polygon_api_logger - INFO - Processed ON: Closing Price=67.97, 200 SMA=72.72794999999972, Gap=-6.54, RSI=41.55, Action=No Action
+2024-10-24 17:28:29,283 - polygon_api_logger - INFO - Processing ticker: RHI
+2024-10-24 17:28:29,455 - polygon_api_logger - INFO - Successfully fetched historical data for RHI
+2024-10-24 17:28:29,661 - polygon_api_logger - INFO - Processed RHI: Closing Price=67.57, 200 SMA=70.04535000000004, Gap=-3.53, RSI=56.86, Action=No Action
+2024-10-24 17:28:59,667 - polygon_api_logger - INFO - Processing ticker: APTV
+2024-10-24 17:28:59,874 - polygon_api_logger - INFO - Successfully fetched historical data for APTV
+2024-10-24 17:29:00,120 - polygon_api_logger - INFO - Processed APTV: Closing Price=69.53, 200 SMA=75.0074500000001, Gap=-7.30, RSI=52.44, Action=No Action
+2024-10-24 17:29:30,128 - polygon_api_logger - INFO - Processing ticker: KRRO
+2024-10-24 17:29:30,311 - polygon_api_logger - INFO - Successfully fetched historical data for KRRO
+2024-10-24 17:29:30,540 - polygon_api_logger - INFO - Processed KRRO: Closing Price=67.79, 200 SMA=50.48369999999998, Gap=34.28, RSI=79.10, Action=Monitor
+2024-10-24 17:30:00,542 - polygon_api_logger - INFO - Processing ticker: CRI
+2024-10-24 17:30:00,737 - polygon_api_logger - INFO - Successfully fetched historical data for CRI
+2024-10-24 17:30:00,981 - polygon_api_logger - INFO - Processed CRI: Closing Price=65.55, 200 SMA=70.26399999999991, Gap=-6.71, RSI=51.73, Action=No Action
+2024-10-24 17:30:30,985 - polygon_api_logger - INFO - Processing ticker: OMAB
+2024-10-24 17:30:31,238 - polygon_api_logger - INFO - Successfully fetched historical data for OMAB
+2024-10-24 17:30:31,442 - polygon_api_logger - INFO - Processed OMAB: Closing Price=65.31, 200 SMA=72.69229999999993, Gap=-10.16, RSI=45.01, Action=No Action
+2024-10-24 17:31:01,448 - polygon_api_logger - INFO - Processing ticker: DAY
+2024-10-24 17:31:01,654 - polygon_api_logger - INFO - Successfully fetched historical data for DAY
+2024-10-24 17:31:01,842 - polygon_api_logger - INFO - Processed DAY: Closing Price=64.86, RSI=71.89, Action=Insufficient Data
+2024-10-24 17:31:31,848 - polygon_api_logger - INFO - Processing ticker: ALGT
+2024-10-24 17:31:32,052 - polygon_api_logger - INFO - Successfully fetched historical data for ALGT
+2024-10-24 17:31:32,288 - polygon_api_logger - INFO - Processed ALGT: Closing Price=63.47, 200 SMA=58.24047500000013, Gap=8.98, RSI=70.12, Action=Monitor
+2024-10-24 17:32:02,296 - polygon_api_logger - INFO - Processing ticker: NTNX
+2024-10-24 17:32:02,489 - polygon_api_logger - INFO - Successfully fetched historical data for NTNX
+2024-10-24 17:32:02,721 - polygon_api_logger - INFO - Processed NTNX: Closing Price=60.51, 200 SMA=58.63157500000001, Gap=3.20, RSI=55.04, Action=No Action
+2024-10-24 17:32:32,727 - polygon_api_logger - INFO - Processing ticker: PKX
+2024-10-24 17:32:32,907 - polygon_api_logger - INFO - Successfully fetched historical data for PKX
+2024-10-24 17:32:33,127 - polygon_api_logger - INFO - Processed PKX: Closing Price=60.94, 200 SMA=71.70654999999988, Gap=-15.01, RSI=19.30, Action=Might buy call
+2024-10-24 17:33:03,133 - polygon_api_logger - INFO - Processing ticker: KROS
+2024-10-24 17:33:03,309 - polygon_api_logger - INFO - Successfully fetched historical data for KROS
+2024-10-24 17:33:03,534 - polygon_api_logger - INFO - Processed KROS: Closing Price=57.99, 200 SMA=54.753650000000064, Gap=5.91, RSI=42.78, Action=No Action
+2024-10-24 17:33:33,540 - polygon_api_logger - INFO - Processing ticker: BRKR
+2024-10-24 17:33:33,724 - polygon_api_logger - INFO - Successfully fetched historical data for BRKR
+2024-10-24 17:33:33,962 - polygon_api_logger - INFO - Processed BRKR: Closing Price=59.68, 200 SMA=72.57287500000002, Gap=-17.77, RSI=28.24, Action=Might buy call
+2024-10-24 17:34:03,968 - polygon_api_logger - INFO - Processing ticker: AMBA
+2024-10-24 17:34:04,140 - polygon_api_logger - INFO - Successfully fetched historical data for AMBA
+2024-10-24 17:34:04,330 - polygon_api_logger - INFO - Processed AMBA: Closing Price=57.88, 200 SMA=52.78157499999994, Gap=9.66, RSI=53.09, Action=No Action
+2024-10-24 17:34:34,336 - polygon_api_logger - INFO - Processing ticker: BILL
+2024-10-24 17:34:34,530 - polygon_api_logger - INFO - Successfully fetched historical data for BILL
+2024-10-24 17:34:34,781 - polygon_api_logger - INFO - Processed BILL: Closing Price=55.31, 200 SMA=58.40299999999991, Gap=-5.30, RSI=62.59, Action=No Action
+2024-10-24 17:35:04,787 - polygon_api_logger - INFO - Processing ticker: LSCC
+2024-10-24 17:35:04,960 - polygon_api_logger - INFO - Successfully fetched historical data for LSCC
+2024-10-24 17:35:05,180 - polygon_api_logger - INFO - Processed LSCC: Closing Price=53.07, 200 SMA=62.71539999999982, Gap=-15.38, RSI=55.10, Action=No Action
+2024-10-24 17:35:35,183 - polygon_api_logger - INFO - Processing ticker: JANX
+2024-10-24 17:35:35,386 - polygon_api_logger - INFO - Successfully fetched historical data for JANX
+2024-10-24 17:35:35,628 - polygon_api_logger - INFO - Processed JANX: Closing Price=51.75, 200 SMA=39.16602499999998, Gap=32.13, RSI=70.51, Action=Monitor
+2024-10-24 17:36:05,633 - polygon_api_logger - INFO - Processing ticker: LVS
+2024-10-24 17:36:05,834 - polygon_api_logger - INFO - Successfully fetched historical data for LVS
+2024-10-24 17:36:06,041 - polygon_api_logger - INFO - Processed LVS: Closing Price=51.04, 200 SMA=46.635850000000076, Gap=9.44, RSI=45.27, Action=No Action
+2024-10-24 17:36:36,047 - polygon_api_logger - INFO - Processing ticker: UPST
+2024-10-24 17:36:36,254 - polygon_api_logger - INFO - Successfully fetched historical data for UPST
+2024-10-24 17:36:36,475 - polygon_api_logger - INFO - Processed UPST: Closing Price=49.75, 200 SMA=30.357424999999974, Gap=63.88, RSI=71.53, Action=Monitor
+2024-10-24 17:37:06,482 - polygon_api_logger - INFO - Processing ticker: PZZA
+2024-10-24 17:37:06,668 - polygon_api_logger - INFO - Successfully fetched historical data for PZZA
+2024-10-24 17:37:06,883 - polygon_api_logger - INFO - Processed PZZA: Closing Price=51.57, 200 SMA=56.58280000000005, Gap=-8.86, RSI=47.02, Action=No Action
+2024-10-24 17:37:36,889 - polygon_api_logger - INFO - Processing ticker: ETSY
+2024-10-24 17:37:37,119 - polygon_api_logger - INFO - Successfully fetched historical data for ETSY
+2024-10-24 17:37:37,340 - polygon_api_logger - INFO - Processed ETSY: Closing Price=49.64, 200 SMA=62.57672500000023, Gap=-20.67, RSI=44.57, Action=No Action
+2024-10-24 17:38:07,343 - polygon_api_logger - INFO - Processing ticker: CBRL
+2024-10-24 17:38:07,631 - polygon_api_logger - INFO - Successfully fetched historical data for CBRL
+2024-10-24 17:38:07,866 - polygon_api_logger - INFO - Processed CBRL: Closing Price=47.07, 200 SMA=54.24005000000001, Gap=-13.22, RSI=52.55, Action=No Action
+2024-10-24 17:38:37,872 - polygon_api_logger - INFO - Processing ticker: CRSP
+2024-10-24 17:38:38,043 - polygon_api_logger - INFO - Successfully fetched historical data for CRSP
+2024-10-24 17:38:38,257 - polygon_api_logger - INFO - Processed CRSP: Closing Price=46.0, 200 SMA=58.69464999999992, Gap=-21.63, RSI=56.14, Action=No Action
+2024-10-24 17:39:08,263 - polygon_api_logger - INFO - Processing ticker: JACK
+2024-10-24 17:39:08,494 - polygon_api_logger - INFO - Successfully fetched historical data for JACK
+2024-10-24 17:39:08,741 - polygon_api_logger - INFO - Processed JACK: Closing Price=46.47, 200 SMA=58.487799999999986, Gap=-20.55, RSI=54.55, Action=No Action
+2024-10-24 17:39:38,746 - polygon_api_logger - INFO - Processing ticker: VICR
+2024-10-24 17:39:38,928 - polygon_api_logger - INFO - Successfully fetched historical data for VICR
+2024-10-24 17:39:39,152 - polygon_api_logger - INFO - Processed VICR: Closing Price=49.39, 200 SMA=37.220025, Gap=32.70, RSI=73.49, Action=Monitor
+2024-10-24 17:40:09,160 - polygon_api_logger - INFO - Processing ticker: SMCI
+2024-10-24 17:40:09,373 - polygon_api_logger - INFO - Successfully fetched historical data for SMCI
+2024-10-24 17:40:09,572 - polygon_api_logger - INFO - Processed SMCI: Closing Price=45.36, 200 SMA=71.90507249999997, Gap=-36.92, RSI=59.74, Action=No Action
+2024-10-24 17:40:39,578 - polygon_api_logger - INFO - Processing ticker: MLTX
+2024-10-24 17:40:43,044 - polygon_api_logger - INFO - Successfully fetched historical data for MLTX
+2024-10-24 17:40:43,249 - polygon_api_logger - INFO - Processed MLTX: Closing Price=46.59, 200 SMA=47.672000000000025, Gap=-2.27, RSI=36.45, Action=No Action
+2024-10-24 17:41:13,259 - polygon_api_logger - INFO - Processing ticker: DCBO
+2024-10-24 17:41:13,435 - polygon_api_logger - INFO - Successfully fetched historical data for DCBO
+2024-10-24 17:41:13,636 - polygon_api_logger - INFO - Processed DCBO: Closing Price=44.96, 200 SMA=43.318499999999965, Gap=3.79, RSI=68.69, Action=No Action
+2024-10-24 17:41:43,643 - polygon_api_logger - INFO - Processing ticker: ZD
+2024-10-24 17:41:43,821 - polygon_api_logger - INFO - Successfully fetched historical data for ZD
+2024-10-24 17:41:44,016 - polygon_api_logger - INFO - Processed ZD: Closing Price=46.02, 200 SMA=55.05059999999994, Gap=-16.40, RSI=62.56, Action=No Action
+2024-10-24 17:42:14,023 - polygon_api_logger - INFO - Processing ticker: W
+2024-10-24 17:42:17,395 - polygon_api_logger - INFO - Successfully fetched historical data for W
+2024-10-24 17:42:17,629 - polygon_api_logger - INFO - Processed W: Closing Price=46.43, 200 SMA=54.45370000000011, Gap=-14.73, RSI=35.29, Action=No Action
+2024-10-24 17:42:47,636 - polygon_api_logger - INFO - Processing ticker: ESTA
+2024-10-24 17:42:47,844 - polygon_api_logger - INFO - Successfully fetched historical data for ESTA
+2024-10-24 17:42:48,050 - polygon_api_logger - INFO - Processed ESTA: Closing Price=44.96, 200 SMA=45.0979, Gap=-0.31, RSI=57.61, Action=No Action
+2024-10-24 17:43:18,056 - polygon_api_logger - INFO - Processing ticker: RYAAY
+2024-10-24 17:43:18,258 - polygon_api_logger - INFO - Successfully fetched historical data for RYAAY
+2024-10-24 17:43:18,450 - polygon_api_logger - INFO - Processed RYAAY: Closing Price=45.21, 200 SMA=49.358430000000055, Gap=-8.40, RSI=66.90, Action=No Action
+2024-10-24 17:43:48,456 - polygon_api_logger - INFO - Processing ticker: SMTC
+2024-10-24 17:43:48,724 - polygon_api_logger - INFO - Successfully fetched historical data for SMTC
+2024-10-24 17:43:48,935 - polygon_api_logger - INFO - Processed SMTC: Closing Price=44.8, 200 SMA=32.456500000000034, Gap=38.03, RSI=65.72, Action=No Action
+2024-10-24 17:44:18,941 - polygon_api_logger - INFO - Processing ticker: CZR
+2024-10-24 17:44:19,148 - polygon_api_logger - INFO - Successfully fetched historical data for CZR
+2024-10-24 17:44:19,343 - polygon_api_logger - INFO - Processed CZR: Closing Price=42.8, 200 SMA=39.626949999999916, Gap=8.01, RSI=45.13, Action=No Action
+2024-10-24 17:44:49,346 - polygon_api_logger - INFO - Processing ticker: RICK
+2024-10-24 17:44:49,521 - polygon_api_logger - INFO - Successfully fetched historical data for RICK
+2024-10-24 17:44:49,714 - polygon_api_logger - INFO - Processed RICK: Closing Price=43.15, 200 SMA=49.595375000000004, Gap=-13.00, RSI=64.34, Action=No Action
+2024-10-24 17:45:19,717 - polygon_api_logger - INFO - Processing ticker: MGA
+2024-10-24 17:45:19,901 - polygon_api_logger - INFO - Successfully fetched historical data for MGA
+2024-10-24 17:45:20,123 - polygon_api_logger - INFO - Processed MGA: Closing Price=42.08, 200 SMA=47.02685000000004, Gap=-10.52, RSI=62.20, Action=No Action
+2024-10-24 17:45:50,128 - polygon_api_logger - INFO - Processing ticker: AFRM
+2024-10-24 17:45:50,300 - polygon_api_logger - INFO - Successfully fetched historical data for AFRM
+2024-10-24 17:45:50,532 - polygon_api_logger - INFO - Processed AFRM: Closing Price=41.81, 200 SMA=35.441675000000004, Gap=17.97, RSI=56.80, Action=No Action
+2024-10-24 17:46:20,537 - polygon_api_logger - INFO - Processing ticker: CPRI
+2024-10-24 17:46:20,732 - polygon_api_logger - INFO - Successfully fetched historical data for CPRI
+2024-10-24 17:46:20,951 - polygon_api_logger - INFO - Processed CPRI: Closing Price=41.81, 200 SMA=39.50224999999998, Gap=5.84, RSI=47.20, Action=No Action
+2024-10-24 17:46:50,957 - polygon_api_logger - INFO - Processing ticker: DOCN
+2024-10-24 17:46:51,141 - polygon_api_logger - INFO - Successfully fetched historical data for DOCN
+2024-10-24 17:46:51,337 - polygon_api_logger - INFO - Processed DOCN: Closing Price=41.08, 200 SMA=36.65119999999999, Gap=12.08, RSI=57.25, Action=No Action
+2024-10-24 17:47:21,343 - polygon_api_logger - INFO - Processing ticker: DAVE
+2024-10-24 17:47:21,520 - polygon_api_logger - INFO - Successfully fetched historical data for DAVE
+2024-10-24 17:47:21,752 - polygon_api_logger - INFO - Processed DAVE: Closing Price=40.28, 200 SMA=34.83602499999999, Gap=15.63, RSI=50.64, Action=No Action
+2024-10-24 17:47:51,758 - polygon_api_logger - INFO - Processing ticker: XPEL
+2024-10-24 17:47:51,986 - polygon_api_logger - INFO - Successfully fetched historical data for XPEL
+2024-10-24 17:47:52,422 - polygon_api_logger - INFO - Processed XPEL: Closing Price=39.88, 200 SMA=44.763099999999994, Gap=-10.91, RSI=40.56, Action=No Action
+2024-10-24 17:48:22,428 - polygon_api_logger - INFO - Processing ticker: MBUU
+2024-10-24 17:48:22,601 - polygon_api_logger - INFO - Successfully fetched historical data for MBUU
+2024-10-24 17:48:22,864 - polygon_api_logger - INFO - Processed MBUU: Closing Price=38.64, 200 SMA=39.164999999999935, Gap=-1.34, RSI=43.97, Action=No Action
+2024-10-24 17:48:52,870 - polygon_api_logger - INFO - Processing ticker: CRMT
+2024-10-24 17:48:53,072 - polygon_api_logger - INFO - Successfully fetched historical data for CRMT
+2024-10-24 17:48:53,269 - polygon_api_logger - INFO - Processed CRMT: Closing Price=39.72, 200 SMA=58.862275000000025, Gap=-32.52, RSI=47.43, Action=No Action
+2024-10-24 17:49:23,279 - polygon_api_logger - INFO - Processing ticker: TARS
+2024-10-24 17:49:23,462 - polygon_api_logger - INFO - Successfully fetched historical data for TARS
+2024-10-24 17:49:23,684 - polygon_api_logger - INFO - Processed TARS: Closing Price=39.0, 200 SMA=31.06822500000003, Gap=25.53, RSI=82.45, Action=Monitor
+2024-10-24 17:49:53,695 - polygon_api_logger - INFO - Processing ticker: DAR
+2024-10-24 17:49:53,866 - polygon_api_logger - INFO - Successfully fetched historical data for DAR
+2024-10-24 17:49:54,060 - polygon_api_logger - INFO - Processed DAR: Closing Price=38.25, 200 SMA=40.486349999999945, Gap=-5.52, RSI=61.15, Action=No Action
+2024-10-24 17:50:24,065 - polygon_api_logger - INFO - Processing ticker: LKQ
+2024-10-24 17:50:24,334 - polygon_api_logger - INFO - Successfully fetched historical data for LKQ
+2024-10-24 17:50:24,560 - polygon_api_logger - INFO - Processed LKQ: Closing Price=37.78, 200 SMA=44.52797500000001, Gap=-15.15, RSI=36.95, Action=No Action
+2024-10-24 17:50:54,565 - polygon_api_logger - INFO - Processing ticker: MTCH
+2024-10-24 17:50:54,767 - polygon_api_logger - INFO - Successfully fetched historical data for MTCH
+2024-10-24 17:50:55,309 - polygon_api_logger - INFO - Processed MTCH: Closing Price=37.61, 200 SMA=34.45909999999998, Gap=9.14, RSI=52.65, Action=No Action
+2024-10-24 17:51:25,315 - polygon_api_logger - INFO - Processing ticker: AAP
+2024-10-24 17:51:25,491 - polygon_api_logger - INFO - Successfully fetched historical data for AAP
+2024-10-24 17:51:25,685 - polygon_api_logger - INFO - Processed AAP: Closing Price=37.85, 200 SMA=62.33200000000004, Gap=-39.28, RSI=45.14, Action=No Action
+2024-10-24 17:51:55,688 - polygon_api_logger - INFO - Processing ticker: FOXF
+2024-10-24 17:51:55,888 - polygon_api_logger - INFO - Successfully fetched historical data for FOXF
+2024-10-24 17:51:56,101 - polygon_api_logger - INFO - Processed FOXF: Closing Price=37.02, 200 SMA=47.80775000000005, Gap=-22.56, RSI=39.11, Action=No Action
+2024-10-24 17:52:26,106 - polygon_api_logger - INFO - Processing ticker: PLAY
+2024-10-24 17:52:26,324 - polygon_api_logger - INFO - Successfully fetched historical data for PLAY
+2024-10-24 17:52:26,558 - polygon_api_logger - INFO - Processed PLAY: Closing Price=34.07, 200 SMA=46.3791, Gap=-26.54, RSI=51.43, Action=No Action
+2024-10-24 17:52:56,564 - polygon_api_logger - INFO - Processing ticker: ZEUS
+2024-10-24 17:52:56,745 - polygon_api_logger - INFO - Successfully fetched historical data for ZEUS
+2024-10-24 17:52:56,993 - polygon_api_logger - INFO - Processed ZEUS: Closing Price=36.53, 200 SMA=53.47887500000001, Gap=-31.69, RSI=43.50, Action=No Action
+2024-10-24 17:53:26,998 - polygon_api_logger - INFO - Processing ticker: FWRD
+2024-10-24 17:53:27,178 - polygon_api_logger - INFO - Successfully fetched historical data for FWRD
+2024-10-24 17:53:27,511 - polygon_api_logger - INFO - Processed FWRD: Closing Price=36.75, 200 SMA=29.904325000000057, Gap=22.89, RSI=58.50, Action=No Action
+2024-10-24 17:53:57,517 - polygon_api_logger - INFO - Processing ticker: YETI
+2024-10-24 17:53:57,752 - polygon_api_logger - INFO - Successfully fetched historical data for YETI
+2024-10-24 17:53:58,087 - polygon_api_logger - INFO - Processed YETI: Closing Price=36.01, 200 SMA=39.9471, Gap=-9.86, RSI=22.67, Action=Might buy call
+2024-10-24 17:54:28,093 - polygon_api_logger - INFO - Processing ticker: SYRE
+2024-10-24 17:54:28,265 - polygon_api_logger - INFO - Successfully fetched historical data for SYRE
+2024-10-24 17:54:28,480 - polygon_api_logger - INFO - Processed SYRE: Closing Price=33.61, 200 SMA=30.371999999999986, Gap=10.66, RSI=72.59, Action=Monitor
+2024-10-24 17:54:58,485 - polygon_api_logger - INFO - Processing ticker: BWA
+2024-10-24 17:54:58,658 - polygon_api_logger - INFO - Successfully fetched historical data for BWA
+2024-10-24 17:54:58,876 - polygon_api_logger - INFO - Processed BWA: Closing Price=34.12, 200 SMA=33.530399999999965, Gap=1.76, RSI=40.83, Action=No Action
+2024-10-24 17:55:28,880 - polygon_api_logger - INFO - Processing ticker: OTEX
+2024-10-24 17:55:29,094 - polygon_api_logger - INFO - Successfully fetched historical data for OTEX
+2024-10-24 17:55:29,291 - polygon_api_logger - INFO - Processed OTEX: Closing Price=32.84, 200 SMA=34.287600000000005, Gap=-4.22, RSI=48.63, Action=No Action
+2024-10-24 17:55:59,298 - polygon_api_logger - INFO - Processing ticker: ZLAB
+2024-10-24 17:55:59,476 - polygon_api_logger - INFO - Successfully fetched historical data for ZLAB
+2024-10-24 17:55:59,678 - polygon_api_logger - INFO - Processed ZLAB: Closing Price=28.94, 200 SMA=19.564574999999987, Gap=47.92, RSI=74.05, Action=Monitor
+2024-10-24 17:56:29,684 - polygon_api_logger - INFO - Processing ticker: PBF
+2024-10-24 17:56:29,956 - polygon_api_logger - INFO - Successfully fetched historical data for PBF
+2024-10-24 17:56:30,182 - polygon_api_logger - INFO - Processed PBF: Closing Price=32.17, 200 SMA=44.39679999999988, Gap=-27.54, RSI=42.45, Action=No Action
+2024-10-24 17:57:00,188 - polygon_api_logger - INFO - Processing ticker: CELH
+2024-10-24 17:57:00,356 - polygon_api_logger - INFO - Successfully fetched historical data for CELH
+2024-10-24 17:57:00,630 - polygon_api_logger - INFO - Processed CELH: Closing Price=30.46, 200 SMA=59.43489999999991, Gap=-48.75, RSI=51.80, Action=No Action
+2024-10-24 17:57:30,636 - polygon_api_logger - INFO - Processing ticker: ASTE
+2024-10-24 17:57:30,840 - polygon_api_logger - INFO - Successfully fetched historical data for ASTE
+2024-10-24 17:57:31,062 - polygon_api_logger - INFO - Processed ASTE: Closing Price=30.68, 200 SMA=34.7559499999999, Gap=-11.73, RSI=52.86, Action=No Action
+2024-10-24 17:58:01,068 - polygon_api_logger - INFO - Processing ticker: ATS
+2024-10-24 17:58:01,297 - polygon_api_logger - INFO - Successfully fetched historical data for ATS
+2024-10-24 17:58:01,490 - polygon_api_logger - INFO - Processed ATS: Closing Price=31.21, 200 SMA=33.056000000000004, Gap=-5.58, RSI=63.40, Action=No Action
+2024-10-24 17:58:31,496 - polygon_api_logger - INFO - Processing ticker: GDEN
+2024-10-24 17:58:31,701 - polygon_api_logger - INFO - Successfully fetched historical data for GDEN
+2024-10-24 17:58:31,940 - polygon_api_logger - INFO - Processed GDEN: Closing Price=29.88, 200 SMA=32.782325000000036, Gap=-8.85, RSI=44.91, Action=No Action
+2024-10-24 17:59:01,945 - polygon_api_logger - INFO - Processing ticker: DGII
+2024-10-24 17:59:02,118 - polygon_api_logger - INFO - Successfully fetched historical data for DGII
+2024-10-24 17:59:02,312 - polygon_api_logger - INFO - Processed DGII: Closing Price=30.0, 200 SMA=27.295150000000035, Gap=9.91, RSI=58.61, Action=No Action
+2024-10-24 17:59:32,317 - polygon_api_logger - INFO - Processing ticker: BBWI
+2024-10-24 17:59:32,514 - polygon_api_logger - INFO - Successfully fetched historical data for BBWI
+2024-10-24 17:59:32,748 - polygon_api_logger - INFO - Processed BBWI: Closing Price=29.47, 200 SMA=40.26239999999995, Gap=-26.81, RSI=49.32, Action=No Action
+2024-10-24 18:00:02,754 - polygon_api_logger - INFO - Processing ticker: ATRC
+2024-10-24 18:00:02,959 - polygon_api_logger - INFO - Successfully fetched historical data for ATRC
+2024-10-24 18:00:03,164 - polygon_api_logger - INFO - Processed ATRC: Closing Price=28.85, 200 SMA=26.902174999999996, Gap=7.24, RSI=63.33, Action=No Action
+2024-10-24 18:00:33,166 - polygon_api_logger - INFO - Processing ticker: SYM
+2024-10-24 18:00:33,339 - polygon_api_logger - INFO - Successfully fetched historical data for SYM
+2024-10-24 18:00:34,182 - polygon_api_logger - INFO - Processed SYM: Closing Price=28.31, 200 SMA=35.92779999999996, Gap=-21.20, RSI=70.75, Action=Buy Put
+2024-10-24 18:01:04,186 - polygon_api_logger - INFO - Processing ticker: STM
+2024-10-24 18:01:04,386 - polygon_api_logger - INFO - Successfully fetched historical data for STM
+2024-10-24 18:01:04,605 - polygon_api_logger - INFO - Processed STM: Closing Price=27.9, 200 SMA=38.64624999999998, Gap=-27.81, RSI=46.60, Action=No Action
+2024-10-24 18:01:34,611 - polygon_api_logger - INFO - Processing ticker: VTLE
+2024-10-24 18:01:34,814 - polygon_api_logger - INFO - Successfully fetched historical data for VTLE
+2024-10-24 18:01:35,038 - polygon_api_logger - INFO - Processed VTLE: Closing Price=27.56, 200 SMA=42.9819, Gap=-35.88, RSI=37.17, Action=No Action
+2024-10-24 18:02:05,044 - polygon_api_logger - INFO - Processing ticker: MNRO
+2024-10-24 18:02:05,248 - polygon_api_logger - INFO - Successfully fetched historical data for MNRO
+2024-10-24 18:02:05,445 - polygon_api_logger - INFO - Processed MNRO: Closing Price=27.26, 200 SMA=27.750099999999907, Gap=-1.77, RSI=42.86, Action=No Action
+2024-10-24 18:02:35,450 - polygon_api_logger - INFO - Processing ticker: TRML
+2024-10-24 18:02:35,677 - polygon_api_logger - INFO - Successfully fetched historical data for TRML
+2024-10-24 18:02:35,892 - polygon_api_logger - INFO - Processed TRML: Closing Price=28.33, 200 SMA=22.803875000000012, Gap=24.23, RSI=59.24, Action=No Action
+2024-10-24 18:03:05,895 - polygon_api_logger - INFO - Processing ticker: SPT
+2024-10-24 18:03:06,102 - polygon_api_logger - INFO - Successfully fetched historical data for SPT
+2024-10-24 18:03:06,325 - polygon_api_logger - INFO - Processed SPT: Closing Price=27.05, 200 SMA=42.618300000000026, Gap=-36.53, RSI=41.73, Action=No Action
+2024-10-24 18:03:36,336 - polygon_api_logger - INFO - Processing ticker: CHWY
+2024-10-24 18:03:36,508 - polygon_api_logger - INFO - Successfully fetched historical data for CHWY
+2024-10-24 18:03:36,742 - polygon_api_logger - INFO - Processed CHWY: Closing Price=27.46, 200 SMA=21.94064999999997, Gap=25.16, RSI=41.54, Action=No Action
+2024-10-24 18:04:06,753 - polygon_api_logger - INFO - Processing ticker: ARVN
+2024-10-24 18:04:06,948 - polygon_api_logger - INFO - Successfully fetched historical data for ARVN
+2024-10-24 18:04:07,169 - polygon_api_logger - INFO - Processed ARVN: Closing Price=26.52, 200 SMA=32.88374999999999, Gap=-19.35, RSI=61.54, Action=No Action
+2024-10-24 18:04:37,180 - polygon_api_logger - INFO - Processing ticker: MOS
+2024-10-24 18:04:37,385 - polygon_api_logger - INFO - Successfully fetched historical data for MOS
+2024-10-24 18:04:37,586 - polygon_api_logger - INFO - Processed MOS: Closing Price=26.47, 200 SMA=29.341950000000093, Gap=-9.79, RSI=47.10, Action=No Action
+2024-10-24 18:05:07,597 - polygon_api_logger - INFO - Processing ticker: INFA
+2024-10-24 18:05:07,773 - polygon_api_logger - INFO - Successfully fetched historical data for INFA
+2024-10-24 18:05:08,005 - polygon_api_logger - INFO - Processed INFA: Closing Price=26.56, 200 SMA=29.163500000000028, Gap=-8.93, RSI=81.86, Action=Buy Put
+2024-10-24 18:05:38,016 - polygon_api_logger - INFO - Processing ticker: SIRI
+2024-10-24 18:05:38,211 - polygon_api_logger - INFO - Successfully fetched historical data for SIRI
+2024-10-24 18:05:38,431 - polygon_api_logger - INFO - Processed SIRI: Closing Price=26.81, 200 SMA=34.627525, Gap=-22.58, RSI=79.23, Action=Buy Put
+2024-10-24 18:06:08,441 - polygon_api_logger - INFO - Processing ticker: LWAY
+2024-10-24 18:06:08,645 - polygon_api_logger - INFO - Successfully fetched historical data for LWAY
+2024-10-24 18:06:08,858 - polygon_api_logger - INFO - Processed LWAY: Closing Price=26.55, 200 SMA=16.87790000000003, Gap=57.31, RSI=56.44, Action=No Action
+2024-10-24 18:06:38,871 - polygon_api_logger - INFO - Processing ticker: AI
+2024-10-24 18:06:39,077 - polygon_api_logger - INFO - Successfully fetched historical data for AI
+2024-10-24 18:06:39,291 - polygon_api_logger - INFO - Processed AI: Closing Price=24.42, 200 SMA=26.22485000000004, Gap=-6.88, RSI=59.01, Action=No Action
+2024-10-24 18:07:09,296 - polygon_api_logger - INFO - Processing ticker: SCHL
+2024-10-24 18:07:09,530 - polygon_api_logger - INFO - Successfully fetched historical data for SCHL
+2024-10-24 18:07:09,755 - polygon_api_logger - INFO - Processed SCHL: Closing Price=25.1, 200 SMA=34.51017500000003, Gap=-27.27, RSI=47.24, Action=No Action
+2024-10-24 18:07:39,758 - polygon_api_logger - INFO - Processing ticker: APA
+2024-10-24 18:07:39,930 - polygon_api_logger - INFO - Successfully fetched historical data for APA
+2024-10-24 18:07:40,171 - polygon_api_logger - INFO - Processed APA: Closing Price=24.49, 200 SMA=29.722799999999985, Gap=-17.61, RSI=31.11, Action=No Action
+2024-10-24 18:08:10,197 - polygon_api_logger - INFO - Processing ticker: XRAY
+2024-10-24 18:08:10,536 - polygon_api_logger - INFO - Successfully fetched historical data for XRAY
+2024-10-24 18:08:10,768 - polygon_api_logger - INFO - Processed XRAY: Closing Price=24.01, 200 SMA=28.832225000000008, Gap=-16.73, RSI=39.46, Action=No Action
+2024-10-24 18:08:40,774 - polygon_api_logger - INFO - Processing ticker: BBIO
+2024-10-24 18:08:41,042 - polygon_api_logger - INFO - Successfully fetched historical data for BBIO
+2024-10-24 18:08:41,242 - polygon_api_logger - INFO - Processed BBIO: Closing Price=24.45, 200 SMA=28.571624999999937, Gap=-14.43, RSI=42.75, Action=No Action
+2024-10-24 18:09:11,248 - polygon_api_logger - INFO - Processing ticker: CVI
+2024-10-24 18:09:11,430 - polygon_api_logger - INFO - Successfully fetched historical data for CVI
+2024-10-24 18:09:11,668 - polygon_api_logger - INFO - Processed CVI: Closing Price=23.91, 200 SMA=28.895900000000026, Gap=-17.25, RSI=42.80, Action=No Action
+2024-10-24 18:09:41,675 - polygon_api_logger - INFO - Processing ticker: KRNT
+2024-10-24 18:09:41,881 - polygon_api_logger - INFO - Successfully fetched historical data for KRNT
+2024-10-24 18:09:42,115 - polygon_api_logger - INFO - Processed KRNT: Closing Price=23.63, 200 SMA=17.75627500000005, Gap=33.08, RSI=32.49, Action=No Action
+2024-10-24 18:10:12,122 - polygon_api_logger - INFO - Processing ticker: VRDN
+2024-10-24 18:10:12,326 - polygon_api_logger - INFO - Successfully fetched historical data for VRDN
+2024-10-24 18:10:12,597 - polygon_api_logger - INFO - Processed VRDN: Closing Price=23.39, 200 SMA=16.973525000000016, Gap=37.80, RSI=46.73, Action=No Action
+2024-10-24 18:10:42,603 - polygon_api_logger - INFO - Processing ticker: MATW
+2024-10-24 18:10:42,811 - polygon_api_logger - INFO - Successfully fetched historical data for MATW
+2024-10-24 18:10:43,502 - polygon_api_logger - INFO - Processed MATW: Closing Price=22.2, 200 SMA=27.12819999999999, Gap=-18.17, RSI=58.09, Action=No Action
+2024-10-24 18:11:13,509 - polygon_api_logger - INFO - Processing ticker: INTC
+2024-10-24 18:11:14,190 - polygon_api_logger - INFO - Successfully fetched historical data for INTC
+2024-10-24 18:11:14,406 - polygon_api_logger - INFO - Processed INTC: Closing Price=21.98, 200 SMA=32.651449999999976, Gap=-32.68, RSI=47.11, Action=No Action
+2024-10-24 18:11:44,414 - polygon_api_logger - INFO - Processing ticker: BEAM
+2024-10-24 18:11:44,668 - polygon_api_logger - INFO - Successfully fetched historical data for BEAM
+2024-10-24 18:11:44,877 - polygon_api_logger - INFO - Processed BEAM: Closing Price=21.82, 200 SMA=26.872874999999986, Gap=-18.80, RSI=44.53, Action=No Action
+2024-10-24 18:12:14,882 - polygon_api_logger - INFO - Processing ticker: ALGM
+2024-10-24 18:12:15,058 - polygon_api_logger - INFO - Successfully fetched historical data for ALGM
+2024-10-24 18:12:15,277 - polygon_api_logger - INFO - Processed ALGM: Closing Price=20.81, 200 SMA=26.902400000000007, Gap=-22.65, RSI=47.39, Action=No Action
+2024-10-24 18:12:45,280 - polygon_api_logger - INFO - Processing ticker: CLMT
+2024-10-24 18:12:45,471 - polygon_api_logger - INFO - Successfully fetched historical data for CLMT
+2024-10-24 18:12:45,701 - polygon_api_logger - INFO - Processed CLMT: Closing Price=21.07, 200 SMA=16.254649999999973, Gap=29.62, RSI=65.30, Action=No Action
+2024-10-24 18:13:15,706 - polygon_api_logger - INFO - Processing ticker: NEP
+2024-10-24 18:13:15,954 - polygon_api_logger - INFO - Successfully fetched historical data for NEP
+2024-10-24 18:13:16,148 - polygon_api_logger - INFO - Processed NEP: Closing Price=21.01, 200 SMA=27.956800000000044, Gap=-24.85, RSI=25.13, Action=Might buy call
+2024-10-24 18:13:46,153 - polygon_api_logger - INFO - Processing ticker: IGT
+2024-10-24 18:13:46,359 - polygon_api_logger - INFO - Successfully fetched historical data for IGT
+2024-10-24 18:13:46,579 - polygon_api_logger - INFO - Processed IGT: Closing Price=20.52, 200 SMA=22.04534999999999, Gap=-6.92, RSI=48.05, Action=No Action
+2024-10-24 18:14:16,583 - polygon_api_logger - INFO - Processing ticker: ADNT
+2024-10-24 18:14:16,754 - polygon_api_logger - INFO - Successfully fetched historical data for ADNT
+2024-10-24 18:14:16,947 - polygon_api_logger - INFO - Processed ADNT: Closing Price=21.29, 200 SMA=27.63725000000001, Gap=-22.97, RSI=45.85, Action=No Action
+2024-10-24 18:14:46,952 - polygon_api_logger - INFO - Processing ticker: PRTC
+2024-10-24 18:14:47,147 - polygon_api_logger - INFO - Successfully fetched historical data for PRTC
+2024-10-24 18:14:47,377 - polygon_api_logger - INFO - Processed PRTC: Closing Price=20.41, 200 SMA=24.677881, Gap=-17.29, RSI=57.61, Action=No Action
+2024-10-24 18:15:17,383 - polygon_api_logger - INFO - Processing ticker: U
+2024-10-24 18:15:17,558 - polygon_api_logger - INFO - Successfully fetched historical data for U
+2024-10-24 18:15:17,786 - polygon_api_logger - INFO - Processed U: Closing Price=20.25, 200 SMA=22.719850000000015, Gap=-10.87, RSI=46.65, Action=No Action
+2024-10-24 18:15:47,753 - polygon_api_logger - INFO - Processing ticker: DXC
+2024-10-24 18:15:47,922 - polygon_api_logger - INFO - Successfully fetched historical data for DXC
+2024-10-24 18:15:48,137 - polygon_api_logger - INFO - Processed DXC: Closing Price=20.07, 200 SMA=20.112399999999983, Gap=-0.21, RSI=39.60, Action=No Action
+2024-10-24 18:16:18,132 - polygon_api_logger - INFO - Processing ticker: JSPR
+2024-10-24 18:16:18,314 - polygon_api_logger - INFO - Successfully fetched historical data for JSPR
+2024-10-24 18:16:18,548 - polygon_api_logger - INFO - Processed JSPR: Closing Price=19.95, 200 SMA=20.65107499999999, Gap=-3.39, RSI=73.31, Action=Buy Put
+2024-10-24 18:16:48,553 - polygon_api_logger - INFO - Processing ticker: ASPN
+2024-10-24 18:16:48,761 - polygon_api_logger - INFO - Successfully fetched historical data for ASPN
+2024-10-24 18:16:48,952 - polygon_api_logger - INFO - Processed ASPN: Closing Price=19.91, 200 SMA=21.49125, Gap=-7.36, RSI=37.95, Action=No Action
+2024-10-24 18:17:18,957 - polygon_api_logger - INFO - Processing ticker: ACMR
+2024-10-24 18:17:19,193 - polygon_api_logger - INFO - Successfully fetched historical data for ACMR
+2024-10-24 18:17:19,461 - polygon_api_logger - INFO - Processed ACMR: Closing Price=19.08, 200 SMA=22.374324999999995, Gap=-14.72, RSI=50.76, Action=No Action
+2024-10-24 18:17:49,462 - polygon_api_logger - INFO - Processing ticker: PENN
+2024-10-24 18:17:49,694 - polygon_api_logger - INFO - Successfully fetched historical data for PENN
+2024-10-24 18:17:49,914 - polygon_api_logger - INFO - Processed PENN: Closing Price=18.62, 200 SMA=18.699149999999978, Gap=-0.42, RSI=52.84, Action=No Action
+2024-10-24 18:18:19,919 - polygon_api_logger - INFO - Processing ticker: FLGT
+2024-10-24 18:18:20,124 - polygon_api_logger - INFO - Successfully fetched historical data for FLGT
+2024-10-24 18:18:20,432 - polygon_api_logger - INFO - Processed FLGT: Closing Price=19.18, 200 SMA=22.29857500000003, Gap=-13.99, RSI=33.49, Action=No Action
+2024-10-24 18:18:50,437 - polygon_api_logger - INFO - Processing ticker: KSS
+2024-10-24 18:18:50,661 - polygon_api_logger - INFO - Successfully fetched historical data for KSS
+2024-10-24 18:18:50,877 - polygon_api_logger - INFO - Processed KSS: Closing Price=19.39, 200 SMA=23.312999999999974, Gap=-16.83, RSI=49.48, Action=No Action
+2024-10-24 18:19:20,883 - polygon_api_logger - INFO - Processing ticker: NVST
+2024-10-24 18:19:21,061 - polygon_api_logger - INFO - Successfully fetched historical data for NVST
+2024-10-24 18:19:21,286 - polygon_api_logger - INFO - Processed NVST: Closing Price=19.09, 200 SMA=19.41334999999999, Gap=-1.67, RSI=56.00, Action=No Action
+2024-10-24 18:19:51,292 - polygon_api_logger - INFO - Processing ticker: ARCT
+2024-10-24 18:19:51,500 - polygon_api_logger - INFO - Successfully fetched historical data for ARCT
+2024-10-24 18:19:51,727 - polygon_api_logger - INFO - Processed ARCT: Closing Price=20.0, 200 SMA=28.279725000000006, Gap=-29.28, RSI=20.54, Action=Might buy call
+2024-10-24 18:20:21,733 - polygon_api_logger - INFO - Processing ticker: IART
+2024-10-24 18:20:25,137 - polygon_api_logger - INFO - Successfully fetched historical data for IART
+2024-10-24 18:20:25,355 - polygon_api_logger - INFO - Processed IART: Closing Price=19.11, 200 SMA=29.485049999999866, Gap=-35.19, RSI=77.98, Action=Buy Put
+2024-10-24 18:20:55,359 - polygon_api_logger - INFO - Processing ticker: CC
+2024-10-24 18:20:55,536 - polygon_api_logger - INFO - Successfully fetched historical data for CC
+2024-10-24 18:20:55,735 - polygon_api_logger - INFO - Processed CC: Closing Price=18.32, 200 SMA=24.361199999999936, Gap=-24.80, RSI=40.85, Action=No Action
+2024-10-24 18:21:25,746 - polygon_api_logger - INFO - Processing ticker: MP
+2024-10-24 18:21:29,085 - polygon_api_logger - INFO - Successfully fetched historical data for MP
+2024-10-24 18:21:29,279 - polygon_api_logger - INFO - Processed MP: Closing Price=17.87, 200 SMA=15.153800000000032, Gap=17.92, RSI=57.47, Action=No Action
+2024-10-24 18:21:59,290 - polygon_api_logger - INFO - Processing ticker: MARA
+2024-10-24 18:21:59,469 - polygon_api_logger - INFO - Successfully fetched historical data for MARA
+2024-10-24 18:21:59,695 - polygon_api_logger - INFO - Processed MARA: Closing Price=18.07, 200 SMA=19.256949999999996, Gap=-6.16, RSI=68.16, Action=No Action
+2024-10-24 18:22:29,706 - polygon_api_logger - INFO - Processing ticker: ERII
+2024-10-24 18:22:29,878 - polygon_api_logger - INFO - Successfully fetched historical data for ERII
+2024-10-24 18:22:30,100 - polygon_api_logger - INFO - Processed ERII: Closing Price=17.88, 200 SMA=15.320049999999966, Gap=16.71, RSI=59.01, Action=No Action
+2024-10-24 18:23:00,108 - polygon_api_logger - INFO - Processing ticker: XP
+2024-10-24 18:23:00,309 - polygon_api_logger - INFO - Successfully fetched historical data for XP
+2024-10-24 18:23:00,497 - polygon_api_logger - INFO - Processed XP: Closing Price=17.5, 200 SMA=20.87204999999999, Gap=-16.16, RSI=43.47, Action=No Action
+2024-10-24 18:23:30,507 - polygon_api_logger - INFO - Processing ticker: SDGR
+2024-10-24 18:23:30,679 - polygon_api_logger - INFO - Successfully fetched historical data for SDGR
+2024-10-24 18:23:30,929 - polygon_api_logger - INFO - Processed SDGR: Closing Price=18.12, 200 SMA=23.051049999999968, Gap=-21.39, RSI=58.76, Action=No Action
+2024-10-24 18:24:00,940 - polygon_api_logger - INFO - Processing ticker: INMD
+2024-10-24 18:24:01,149 - polygon_api_logger - INFO - Successfully fetched historical data for INMD
+2024-10-24 18:24:01,743 - polygon_api_logger - INFO - Processed INMD: Closing Price=17.84, 200 SMA=18.87072499999997, Gap=-5.46, RSI=74.27, Action=Buy Put
+2024-10-24 18:24:31,753 - polygon_api_logger - INFO - Processing ticker: FARO
+2024-10-24 18:24:31,956 - polygon_api_logger - INFO - Successfully fetched historical data for FARO
+2024-10-24 18:24:32,149 - polygon_api_logger - INFO - Processed FARO: Closing Price=17.64, 200 SMA=18.85799999999997, Gap=-6.46, RSI=47.69, Action=No Action
+2024-10-24 18:25:02,160 - polygon_api_logger - INFO - Processing ticker: AAOI
+2024-10-24 18:25:02,370 - polygon_api_logger - INFO - Successfully fetched historical data for AAOI
+2024-10-24 18:25:02,575 - polygon_api_logger - INFO - Processed AAOI: Closing Price=17.01, 200 SMA=12.866775000000004, Gap=32.20, RSI=63.75, Action=No Action
+2024-10-24 18:25:33,065 - polygon_api_logger - INFO - Processing ticker: OSCR
+2024-10-24 18:25:33,243 - polygon_api_logger - INFO - Successfully fetched historical data for OSCR
+2024-10-24 18:25:33,483 - polygon_api_logger - INFO - Processed OSCR: Closing Price=15.94, 200 SMA=17.02605000000001, Gap=-6.38, RSI=28.19, Action=Might buy call
+2024-10-24 18:26:03,471 - polygon_api_logger - INFO - Processing ticker: PUK
+2024-10-24 18:26:03,701 - polygon_api_logger - INFO - Successfully fetched historical data for PUK
+2024-10-24 18:26:03,924 - polygon_api_logger - INFO - Processed PUK: Closing Price=16.95, 200 SMA=18.804399999999962, Gap=-9.86, RSI=32.45, Action=No Action
+2024-10-24 18:28:26,663 - polygon_api_logger - INFO - Processing ticker: MCFT
+2024-10-24 18:28:26,884 - polygon_api_logger - INFO - Successfully fetched historical data for MCFT
+2024-10-24 18:28:27,112 - polygon_api_logger - INFO - Processed MCFT: Closing Price=16.23, 200 SMA=20.107999999999997, Gap=-19.29, RSI=26.30, Action=Might buy call
+2024-10-24 18:28:57,116 - polygon_api_logger - INFO - Processing ticker: DBRG
+2024-10-24 18:28:57,326 - polygon_api_logger - INFO - Successfully fetched historical data for DBRG
+2024-10-24 18:28:57,552 - polygon_api_logger - INFO - Processed DBRG: Closing Price=15.82, 200 SMA=15.587850000000008, Gap=1.49, RSI=75.00, Action=Monitor
+2024-10-24 18:29:27,557 - polygon_api_logger - INFO - Processing ticker: EH
+2024-10-24 18:29:27,765 - polygon_api_logger - INFO - Successfully fetched historical data for EH
+2024-10-24 18:29:27,993 - polygon_api_logger - INFO - Processed EH: Closing Price=16.75, 200 SMA=14.494524999999989, Gap=15.56, RSI=56.20, Action=No Action
+2024-10-24 18:29:57,998 - polygon_api_logger - INFO - Processing ticker: RDUS
+2024-10-24 18:29:58,223 - polygon_api_logger - INFO - Successfully fetched historical data for RDUS
+2024-10-24 18:29:58,435 - polygon_api_logger - INFO - Processed RDUS: Closing Price=16.64, 200 SMA=18.611649999999983, Gap=-10.59, RSI=38.31, Action=No Action
+2024-10-24 18:30:28,440 - polygon_api_logger - INFO - Processing ticker: WDS
+2024-10-24 18:30:28,606 - polygon_api_logger - INFO - Successfully fetched historical data for WDS
+2024-10-24 18:30:28,822 - polygon_api_logger - INFO - Processed WDS: Closing Price=16.08, 200 SMA=18.643849999999972, Gap=-13.75, RSI=27.83, Action=Might buy call
+2024-10-24 18:30:58,828 - polygon_api_logger - INFO - Processing ticker: OPRA
+2024-10-24 18:31:00,007 - polygon_api_logger - INFO - Successfully fetched historical data for OPRA
+2024-10-24 18:31:00,243 - polygon_api_logger - INFO - Processed OPRA: Closing Price=15.72, 200 SMA=13.600200000000019, Gap=15.59, RSI=64.38, Action=No Action
+2024-10-24 18:31:30,248 - polygon_api_logger - INFO - Processing ticker: BLMN
+2024-10-24 18:31:30,462 - polygon_api_logger - INFO - Successfully fetched historical data for BLMN
+2024-10-24 18:31:30,687 - polygon_api_logger - INFO - Processed BLMN: Closing Price=15.94, 200 SMA=22.047375, Gap=-27.70, RSI=49.90, Action=No Action
+2024-10-24 18:32:00,692 - polygon_api_logger - INFO - Processing ticker: NTLA
+2024-10-24 18:32:00,891 - polygon_api_logger - INFO - Successfully fetched historical data for NTLA
+2024-10-24 18:32:01,128 - polygon_api_logger - INFO - Processed NTLA: Closing Price=19.94, 200 SMA=24.23997500000001, Gap=-17.74, RSI=68.56, Action=No Action
+2024-10-24 18:32:31,133 - polygon_api_logger - INFO - Processing ticker: AEHR
+2024-10-24 18:32:31,306 - polygon_api_logger - INFO - Successfully fetched historical data for AEHR
+2024-10-24 18:32:31,528 - polygon_api_logger - INFO - Processed AEHR: Closing Price=15.29, 200 SMA=13.998574999999994, Gap=9.23, RSI=67.96, Action=No Action
+2024-10-24 18:33:01,532 - polygon_api_logger - INFO - Processing ticker: PGNY
+2024-10-24 18:33:04,884 - polygon_api_logger - INFO - Successfully fetched historical data for PGNY
+2024-10-24 18:33:05,098 - polygon_api_logger - INFO - Processed PGNY: Closing Price=15.86, 200 SMA=29.159600000000015, Gap=-45.61, RSI=50.52, Action=No Action
+2024-10-24 18:33:35,105 - polygon_api_logger - INFO - Processing ticker: TXG
+2024-10-24 18:33:35,294 - polygon_api_logger - INFO - Successfully fetched historical data for TXG
+2024-10-24 18:33:35,522 - polygon_api_logger - INFO - Processed TXG: Closing Price=15.1, 200 SMA=28.445700000000034, Gap=-46.92, RSI=26.63, Action=Might buy call
+2024-10-24 18:34:05,528 - polygon_api_logger - INFO - Processing ticker: SEDG
+2024-10-24 18:34:05,734 - polygon_api_logger - INFO - Successfully fetched historical data for SEDG
+2024-10-24 18:34:05,926 - polygon_api_logger - INFO - Processed SEDG: Closing Price=14.945, 200 SMA=45.67167499999985, Gap=-67.28, RSI=26.35, Action=Might buy call
+2024-10-24 18:34:35,931 - polygon_api_logger - INFO - Processing ticker: TRIP
+2024-10-24 18:34:36,160 - polygon_api_logger - INFO - Successfully fetched historical data for TRIP
+2024-10-24 18:34:36,357 - polygon_api_logger - INFO - Processed TRIP: Closing Price=15.3, 200 SMA=19.93150000000002, Gap=-23.24, RSI=66.78, Action=No Action
+2024-10-24 18:35:06,362 - polygon_api_logger - INFO - Processing ticker: MXL
+2024-10-24 18:35:06,525 - polygon_api_logger - INFO - Successfully fetched historical data for MXL
+2024-10-24 18:35:06,708 - polygon_api_logger - INFO - Processed MXL: Closing Price=14.87, 200 SMA=17.987949999999927, Gap=-17.33, RSI=70.66, Action=Buy Put
+2024-10-24 18:35:36,714 - polygon_api_logger - INFO - Processing ticker: LSPD
+2024-10-24 18:35:36,919 - polygon_api_logger - INFO - Successfully fetched historical data for LSPD
+2024-10-24 18:35:37,162 - polygon_api_logger - INFO - Processed LSPD: Closing Price=15.15, 200 SMA=14.401749999999998, Gap=5.20, RSI=21.69, Action=Buy Call
+2024-10-24 18:36:07,167 - polygon_api_logger - INFO - Processing ticker: TITN
+2024-10-24 18:36:07,776 - polygon_api_logger - INFO - Successfully fetched historical data for TITN
+2024-10-24 18:36:07,967 - polygon_api_logger - INFO - Processed TITN: Closing Price=14.72, 200 SMA=19.858024999999977, Gap=-25.87, RSI=65.75, Action=No Action
+2024-10-24 18:36:37,973 - polygon_api_logger - INFO - Processing ticker: DRVN
+2024-10-24 18:36:38,182 - polygon_api_logger - INFO - Successfully fetched historical data for DRVN
+2024-10-24 18:36:38,393 - polygon_api_logger - INFO - Processed DRVN: Closing Price=14.35, 200 SMA=13.467249999999984, Gap=6.55, RSI=48.44, Action=No Action
+2024-10-24 18:37:08,398 - polygon_api_logger - INFO - Processing ticker: EXTR
+2024-10-24 18:37:08,704 - polygon_api_logger - INFO - Successfully fetched historical data for EXTR
+2024-10-24 18:37:08,904 - polygon_api_logger - INFO - Processed EXTR: Closing Price=14.71, 200 SMA=13.150949999999998, Gap=11.86, RSI=46.76, Action=No Action
+2024-10-24 18:37:38,907 - polygon_api_logger - INFO - Processing ticker: PCT
+2024-10-24 18:37:39,128 - polygon_api_logger - INFO - Successfully fetched historical data for PCT
+2024-10-24 18:37:39,359 - polygon_api_logger - INFO - Processed PCT: Closing Price=11.04, 200 SMA=6.0168250000000025, Gap=83.49, RSI=75.06, Action=Monitor
+2024-10-24 18:38:09,365 - polygon_api_logger - INFO - Processing ticker: GYRE
+2024-10-24 18:38:09,587 - polygon_api_logger - INFO - Successfully fetched historical data for GYRE
+2024-10-24 18:38:09,781 - polygon_api_logger - INFO - Processed GYRE: Closing Price=13.9, 200 SMA=14.477675000000009, Gap=-3.99, RSI=69.05, Action=No Action
+2024-10-24 18:38:39,786 - polygon_api_logger - INFO - Processing ticker: TCMD
+2024-10-24 18:38:39,966 - polygon_api_logger - INFO - Successfully fetched historical data for TCMD
+2024-10-24 18:38:40,162 - polygon_api_logger - INFO - Processed TCMD: Closing Price=14.28, 200 SMA=13.854750000000006, Gap=3.07, RSI=46.09, Action=No Action
+2024-10-24 18:39:10,162 - polygon_api_logger - INFO - Processing ticker: SNBR
+2024-10-24 18:39:13,536 - polygon_api_logger - INFO - Successfully fetched historical data for SNBR
+2024-10-24 18:39:13,745 - polygon_api_logger - INFO - Processed SNBR: Closing Price=14.16, 200 SMA=13.451275000000033, Gap=5.27, RSI=34.95, Action=No Action
+2024-10-24 18:39:43,750 - polygon_api_logger - INFO - Processing ticker: LYFT
+2024-10-24 18:39:43,959 - polygon_api_logger - INFO - Successfully fetched historical data for LYFT
+2024-10-24 18:39:44,206 - polygon_api_logger - INFO - Processed LYFT: Closing Price=13.66, 200 SMA=14.394350000000006, Gap=-5.10, RSI=70.31, Action=Buy Put
+2024-10-24 18:40:14,212 - polygon_api_logger - INFO - Processing ticker: PLRX
+2024-10-24 18:40:14,736 - polygon_api_logger - INFO - Successfully fetched historical data for PLRX
+2024-10-24 18:40:14,971 - polygon_api_logger - INFO - Processed PLRX: Closing Price=14.21, 200 SMA=13.731650000000002, Gap=3.48, RSI=72.75, Action=Monitor
+2024-10-24 18:40:44,972 - polygon_api_logger - INFO - Processing ticker: STLA
+2024-10-24 18:40:45,196 - polygon_api_logger - INFO - Successfully fetched historical data for STLA
+2024-10-24 18:40:45,388 - polygon_api_logger - INFO - Processed STLA: Closing Price=13.31, 200 SMA=20.887150000000005, Gap=-36.28, RSI=54.04, Action=No Action
+2024-10-24 18:41:15,389 - polygon_api_logger - INFO - Processing ticker: CLF
+2024-10-24 18:41:15,592 - polygon_api_logger - INFO - Successfully fetched historical data for CLF
+2024-10-24 18:41:15,814 - polygon_api_logger - INFO - Processed CLF: Closing Price=13.0, 200 SMA=16.662550000000007, Gap=-21.98, RSI=52.87, Action=No Action
+2024-10-24 18:41:45,818 - polygon_api_logger - INFO - Processing ticker: EXPI
+2024-10-24 18:41:46,002 - polygon_api_logger - INFO - Successfully fetched historical data for EXPI
+2024-10-24 18:41:46,221 - polygon_api_logger - INFO - Processed EXPI: Closing Price=12.78, 200 SMA=12.059750000000014, Gap=5.97, RSI=30.23, Action=No Action
+2024-10-24 18:42:16,225 - polygon_api_logger - INFO - Processing ticker: AAL
+2024-10-24 18:42:16,652 - polygon_api_logger - INFO - Successfully fetched historical data for AAL
+2024-10-24 18:42:16,957 - polygon_api_logger - INFO - Processed AAL: Closing Price=12.83, 200 SMA=12.63265000000001, Gap=1.56, RSI=83.17, Action=Monitor
+2024-10-24 18:42:46,958 - polygon_api_logger - INFO - Processing ticker: SONO
+2024-10-24 18:42:47,130 - polygon_api_logger - INFO - Successfully fetched historical data for SONO
+2024-10-24 18:42:47,325 - polygon_api_logger - INFO - Processed SONO: Closing Price=12.54, 200 SMA=15.331899999999992, Gap=-18.21, RSI=64.11, Action=No Action
+2024-10-24 18:43:17,332 - polygon_api_logger - INFO - Processing ticker: UPWK
+2024-10-24 18:43:17,540 - polygon_api_logger - INFO - Successfully fetched historical data for UPWK
+2024-10-24 18:43:17,766 - polygon_api_logger - INFO - Processed UPWK: Closing Price=12.73, 200 SMA=11.59384999999998, Gap=9.80, RSI=77.64, Action=Monitor
+2024-10-24 18:43:47,772 - polygon_api_logger - INFO - Processing ticker: SIBN
+2024-10-24 18:43:48,166 - polygon_api_logger - INFO - Successfully fetched historical data for SIBN
+2024-10-24 18:43:48,367 - polygon_api_logger - INFO - Processed SIBN: Closing Price=12.74, 200 SMA=15.673750000000023, Gap=-18.72, RSI=39.18, Action=No Action
+2024-10-24 18:44:18,374 - polygon_api_logger - INFO - Processing ticker: ELAN
+2024-10-24 18:44:18,587 - polygon_api_logger - INFO - Successfully fetched historical data for ELAN
+2024-10-24 18:44:18,792 - polygon_api_logger - INFO - Processed ELAN: Closing Price=12.51, 200 SMA=15.065849999999976, Gap=-16.96, RSI=15.81, Action=Might buy call
+2024-10-24 18:44:48,847 - polygon_api_logger - INFO - Processing ticker: SNCY
+2024-10-24 18:44:49,062 - polygon_api_logger - INFO - Successfully fetched historical data for SNCY
+2024-10-24 18:44:49,251 - polygon_api_logger - INFO - Processed SNCY: Closing Price=12.65, 200 SMA=12.450175000000002, Gap=1.60, RSI=81.80, Action=Monitor
+2024-10-24 18:45:19,262 - polygon_api_logger - INFO - Processing ticker: OI
+2024-10-24 18:45:19,541 - polygon_api_logger - INFO - Successfully fetched historical data for OI
+2024-10-24 18:45:19,767 - polygon_api_logger - INFO - Processed OI: Closing Price=12.28, 200 SMA=13.619450000000004, Gap=-9.83, RSI=41.42, Action=No Action
+2024-10-24 18:45:49,772 - polygon_api_logger - INFO - Processing ticker: CSIQ
+2024-10-24 18:45:50,089 - polygon_api_logger - INFO - Successfully fetched historical data for CSIQ
+2024-10-24 18:45:50,312 - polygon_api_logger - INFO - Processed CSIQ: Closing Price=11.96, 200 SMA=17.15805000000004, Gap=-30.30, RSI=33.55, Action=No Action
+2024-10-24 18:46:20,318 - polygon_api_logger - INFO - Processing ticker: QTRX
+2024-10-24 18:46:20,492 - polygon_api_logger - INFO - Successfully fetched historical data for QTRX
+2024-10-24 18:46:20,685 - polygon_api_logger - INFO - Processed QTRX: Closing Price=12.28, 200 SMA=17.47085000000001, Gap=-29.71, RSI=54.42, Action=No Action
+2024-10-24 18:46:50,691 - polygon_api_logger - INFO - Processing ticker: URGN
+2024-10-24 18:46:54,056 - polygon_api_logger - INFO - Successfully fetched historical data for URGN
+2024-10-24 18:46:54,258 - polygon_api_logger - INFO - Processed URGN: Closing Price=12.13, 200 SMA=14.916574999999996, Gap=-18.68, RSI=47.42, Action=No Action
+2024-10-24 18:47:24,264 - polygon_api_logger - INFO - Processing ticker: COGT
+2024-10-24 18:47:24,520 - polygon_api_logger - INFO - Successfully fetched historical data for COGT
+2024-10-24 18:47:24,733 - polygon_api_logger - INFO - Processed COGT: Closing Price=12.3, 200 SMA=8.207525000000011, Gap=49.86, RSI=76.44, Action=Monitor
+2024-10-24 18:47:54,739 - polygon_api_logger - INFO - Processing ticker: IMNM
+2024-10-24 18:47:55,094 - polygon_api_logger - INFO - Successfully fetched historical data for IMNM
+2024-10-24 18:47:55,324 - polygon_api_logger - INFO - Processed IMNM: Closing Price=11.6, 200 SMA=16.434424999999997, Gap=-29.42, RSI=28.27, Action=Might buy call
+2024-10-24 18:48:25,329 - polygon_api_logger - INFO - Processing ticker: CLSK
+2024-10-24 18:48:28,654 - polygon_api_logger - INFO - Successfully fetched historical data for CLSK
+2024-10-24 18:48:28,871 - polygon_api_logger - INFO - Processed CLSK: Closing Price=11.63, 200 SMA=14.21295, Gap=-18.17, RSI=69.77, Action=No Action
+2024-10-24 18:48:58,877 - polygon_api_logger - INFO - Processing ticker: REPL
+2024-10-24 18:48:59,207 - polygon_api_logger - INFO - Successfully fetched historical data for REPL
+2024-10-24 18:48:59,421 - polygon_api_logger - INFO - Processed REPL: Closing Price=12.01, 200 SMA=8.707149999999979, Gap=37.93, RSI=53.33, Action=No Action
+2024-10-24 18:49:29,425 - polygon_api_logger - INFO - Processing ticker: ASAN
+2024-10-24 18:49:32,720 - polygon_api_logger - INFO - Successfully fetched historical data for ASAN
+2024-10-24 18:49:32,922 - polygon_api_logger - INFO - Processed ASAN: Closing Price=11.76, 200 SMA=14.74234999999999, Gap=-20.23, RSI=62.07, Action=No Action
+2024-10-24 18:50:02,923 - polygon_api_logger - INFO - Processing ticker: SHYF
+2024-10-24 18:50:03,127 - polygon_api_logger - INFO - Successfully fetched historical data for SHYF
+2024-10-24 18:50:03,321 - polygon_api_logger - INFO - Processed SHYF: Closing Price=11.74, 200 SMA=12.044649999999976, Gap=-2.53, RSI=46.10, Action=No Action
+2024-10-24 18:50:33,331 - polygon_api_logger - INFO - Processing ticker: PGY
+2024-10-24 18:50:36,698 - polygon_api_logger - INFO - Successfully fetched historical data for PGY
+2024-10-24 18:50:36,923 - polygon_api_logger - INFO - Processed PGY: Closing Price=10.96, 200 SMA=12.609050000000018, Gap=-13.08, RSI=57.39, Action=No Action
+2024-10-24 18:51:06,933 - polygon_api_logger - INFO - Processing ticker: STNE
+2024-10-24 18:51:07,765 - polygon_api_logger - INFO - Successfully fetched historical data for STNE
+2024-10-24 18:51:07,989 - polygon_api_logger - INFO - Processed STNE: Closing Price=11.16, 200 SMA=14.467025000000014, Gap=-22.86, RSI=55.00, Action=No Action
+2024-10-24 18:51:38,000 - polygon_api_logger - INFO - Processing ticker: RKLB
+2024-10-24 18:51:38,208 - polygon_api_logger - INFO - Successfully fetched historical data for RKLB
+2024-10-24 18:51:38,443 - polygon_api_logger - INFO - Processed RKLB: Closing Price=10.91, 200 SMA=5.385974999999999, Gap=102.56, RSI=69.39, Action=No Action
+2024-10-24 18:52:08,453 - polygon_api_logger - INFO - Processing ticker: GPRE
+2024-10-24 18:52:08,666 - polygon_api_logger - INFO - Successfully fetched historical data for GPRE
+2024-10-24 18:52:08,865 - polygon_api_logger - INFO - Processed GPRE: Closing Price=10.87, 200 SMA=17.88055, Gap=-39.21, RSI=30.24, Action=No Action
+2024-10-24 18:52:38,875 - polygon_api_logger - INFO - Processing ticker: SOFI
+2024-10-24 18:52:39,110 - polygon_api_logger - INFO - Successfully fetched historical data for SOFI
+2024-10-24 18:52:39,304 - polygon_api_logger - INFO - Processed SOFI: Closing Price=10.42, 200 SMA=7.535024999999999, Gap=38.29, RSI=84.35, Action=Monitor
+2024-10-24 18:53:09,315 - polygon_api_logger - INFO - Processing ticker: ENVX
+2024-10-24 18:53:09,524 - polygon_api_logger - INFO - Successfully fetched historical data for ENVX
+2024-10-24 18:53:09,746 - polygon_api_logger - INFO - Processed ENVX: Closing Price=10.515, 200 SMA=10.500200000000007, Gap=0.14, RSI=49.10, Action=No Action
+2024-10-24 18:53:39,755 - polygon_api_logger - INFO - Processing ticker: IAS
+2024-10-24 18:53:39,999 - polygon_api_logger - INFO - Successfully fetched historical data for IAS
+2024-10-24 18:53:40,234 - polygon_api_logger - INFO - Processed IAS: Closing Price=10.51, 200 SMA=11.057050000000013, Gap=-4.95, RSI=53.41, Action=No Action
+2024-10-24 18:54:10,245 - polygon_api_logger - INFO - Processing ticker: XPEV
+2024-10-24 18:54:10,435 - polygon_api_logger - INFO - Successfully fetched historical data for XPEV
+2024-10-24 18:54:10,648 - polygon_api_logger - INFO - Processed XPEV: Closing Price=11.16, 200 SMA=8.768449999999975, Gap=27.27, RSI=39.70, Action=No Action
+2024-10-24 18:54:40,659 - polygon_api_logger - INFO - Processing ticker: ZI
+2024-10-24 18:54:40,870 - polygon_api_logger - INFO - Successfully fetched historical data for ZI
+2024-10-24 18:54:41,103 - polygon_api_logger - INFO - Processed ZI: Closing Price=10.35, 200 SMA=13.155050000000028, Gap=-21.32, RSI=62.07, Action=No Action
+2024-10-24 18:55:11,105 - polygon_api_logger - INFO - Processing ticker: PARA
+2024-10-24 18:55:11,317 - polygon_api_logger - INFO - Successfully fetched historical data for PARA
+2024-10-24 18:55:11,541 - polygon_api_logger - INFO - Processed PARA: Closing Price=10.31, 200 SMA=11.530099999999987, Gap=-10.58, RSI=43.40, Action=No Action
+2024-10-24 18:55:41,551 - polygon_api_logger - INFO - Processing ticker: TALO
+2024-10-24 18:55:41,729 - polygon_api_logger - INFO - Successfully fetched historical data for TALO
+2024-10-24 18:55:41,956 - polygon_api_logger - INFO - Processed TALO: Closing Price=10.02, 200 SMA=12.0926, Gap=-17.14, RSI=33.23, Action=No Action
+2024-10-24 18:56:11,966 - polygon_api_logger - INFO - Processing ticker: VSAT
+2024-10-24 18:56:12,171 - polygon_api_logger - INFO - Successfully fetched historical data for VSAT
+2024-10-24 18:56:12,542 - polygon_api_logger - INFO - Processed VSAT: Closing Price=10.29, 200 SMA=16.852674999999994, Gap=-38.94, RSI=39.42, Action=No Action
+2024-10-24 18:56:42,545 - polygon_api_logger - INFO - Processing ticker: SKYT
+2024-10-24 18:56:45,916 - polygon_api_logger - INFO - Successfully fetched historical data for SKYT
+2024-10-24 18:56:46,112 - polygon_api_logger - INFO - Processed SKYT: Closing Price=10.0, 200 SMA=8.974875000000003, Gap=11.42, RSI=86.43, Action=Monitor
+2024-10-24 18:57:16,122 - polygon_api_logger - INFO - Processing ticker: RIOT
+2024-10-24 18:57:16,329 - polygon_api_logger - INFO - Successfully fetched historical data for RIOT
+2024-10-24 18:57:16,547 - polygon_api_logger - INFO - Processed RIOT: Closing Price=9.77, 200 SMA=10.261099999999999, Gap=-4.79, RSI=81.45, Action=Buy Put
+2024-10-24 18:57:46,559 - polygon_api_logger - INFO - Processing ticker: XRX
+2024-10-24 18:57:46,773 - polygon_api_logger - INFO - Successfully fetched historical data for XRX
+2024-10-24 18:57:46,970 - polygon_api_logger - INFO - Processed XRX: Closing Price=10.08, 200 SMA=13.818975000000012, Gap=-27.06, RSI=46.63, Action=No Action
+2024-10-24 18:58:16,981 - polygon_api_logger - INFO - Processing ticker: RDFN
+2024-10-24 18:58:17,218 - polygon_api_logger - INFO - Successfully fetched historical data for RDFN
+2024-10-24 18:58:17,443 - polygon_api_logger - INFO - Processed RDFN: Closing Price=10.18, 200 SMA=7.905350000000001, Gap=28.77, RSI=39.11, Action=No Action
+2024-10-24 18:58:47,446 - polygon_api_logger - INFO - Processing ticker: NVAX
+2024-10-24 18:58:47,628 - polygon_api_logger - INFO - Successfully fetched historical data for NVAX
+2024-10-24 18:58:47,821 - polygon_api_logger - INFO - Processed NVAX: Closing Price=10.0, 200 SMA=9.616100000000007, Gap=3.99, RSI=9.74, Action=Buy Call
+2024-10-24 18:59:17,831 - polygon_api_logger - INFO - Processing ticker: EYE
+2024-10-24 18:59:18,041 - polygon_api_logger - INFO - Successfully fetched historical data for EYE
+2024-10-24 18:59:18,238 - polygon_api_logger - INFO - Processed EYE: Closing Price=9.8, 200 SMA=15.664825000000024, Gap=-37.44, RSI=40.00, Action=No Action
+2024-10-24 18:59:48,246 - polygon_api_logger - INFO - Processing ticker: RGNX
+2024-10-24 18:59:48,451 - polygon_api_logger - INFO - Successfully fetched historical data for RGNX
+2024-10-24 18:59:48,676 - polygon_api_logger - INFO - Processed RGNX: Closing Price=9.74, 200 SMA=14.658199999999988, Gap=-33.55, RSI=54.11, Action=No Action
+2024-10-24 19:00:18,687 - polygon_api_logger - INFO - Processing ticker: EYPT
+2024-10-24 19:00:18,903 - polygon_api_logger - INFO - Successfully fetched historical data for EYPT
+2024-10-24 19:00:19,139 - polygon_api_logger - INFO - Processed EYPT: Closing Price=9.96, 200 SMA=15.036299999999997, Gap=-33.76, RSI=63.59, Action=No Action
+2024-10-24 19:00:49,150 - polygon_api_logger - INFO - Processing ticker: EVGO
+2024-10-24 19:00:49,367 - polygon_api_logger - INFO - Successfully fetched historical data for EVGO
+2024-10-24 19:00:49,590 - polygon_api_logger - INFO - Processed EVGO: Closing Price=8.01, 200 SMA=3.1825249999999987, Gap=151.69, RSI=67.94, Action=No Action
+2024-10-24 19:01:19,592 - polygon_api_logger - INFO - Processing ticker: APLT
+2024-10-24 19:01:20,004 - polygon_api_logger - INFO - Successfully fetched historical data for APLT
+2024-10-24 19:01:20,250 - polygon_api_logger - INFO - Processed APLT: Closing Price=8.97, 200 SMA=5.389600000000004, Gap=66.43, RSI=68.33, Action=No Action
+2024-10-24 19:01:50,253 - polygon_api_logger - INFO - Processing ticker: NAMSW
+2024-10-24 19:01:50,433 - polygon_api_logger - INFO - Successfully fetched historical data for NAMSW
+2024-10-24 19:01:50,651 - polygon_api_logger - INFO - Processed NAMSW: Closing Price=8.9, 200 SMA=8.823214500000011, Gap=0.87, RSI=72.13, Action=Monitor
+2024-10-24 19:02:20,662 - polygon_api_logger - INFO - Processing ticker: NFE
+2024-10-24 19:02:20,902 - polygon_api_logger - INFO - Successfully fetched historical data for NFE
+2024-10-24 19:02:21,128 - polygon_api_logger - INFO - Processed NFE: Closing Price=8.32, 200 SMA=22.959274999999977, Gap=-63.76, RSI=42.89, Action=No Action
+2024-10-24 19:02:51,139 - polygon_api_logger - INFO - Processing ticker: ORIC
+2024-10-24 19:02:51,346 - polygon_api_logger - INFO - Successfully fetched historical data for ORIC
+2024-10-24 19:02:51,595 - polygon_api_logger - INFO - Processed ORIC: Closing Price=8.82, 200 SMA=10.18654999999999, Gap=-13.42, RSI=35.48, Action=No Action
+2024-10-24 19:03:21,598 - polygon_api_logger - INFO - Processing ticker: CSAN
+2024-10-24 19:03:21,801 - polygon_api_logger - INFO - Successfully fetched historical data for CSAN
+2024-10-24 19:03:22,028 - polygon_api_logger - INFO - Processed CSAN: Closing Price=8.16, 200 SMA=11.257499999999995, Gap=-27.51, RSI=13.99, Action=Might buy call
+2024-10-24 19:03:52,029 - polygon_api_logger - INFO - Processing ticker: APLD
+2024-10-24 19:03:52,404 - polygon_api_logger - INFO - Successfully fetched historical data for APLD
+2024-10-24 19:03:52,625 - polygon_api_logger - INFO - Processed APLD: Closing Price=8.61, 200 SMA=4.945199999999999, Gap=74.11, RSI=54.66, Action=No Action
+2024-10-24 19:04:22,626 - polygon_api_logger - INFO - Processing ticker: FDMT
+2024-10-24 19:04:22,817 - polygon_api_logger - INFO - Successfully fetched historical data for FDMT
+2024-10-24 19:04:23,280 - polygon_api_logger - INFO - Processed FDMT: Closing Price=8.51, 200 SMA=21.26439999999997, Gap=-59.98, RSI=25.34, Action=Might buy call
+2024-10-24 19:04:53,291 - polygon_api_logger - INFO - Processing ticker: AMCX
+2024-10-24 19:04:53,463 - polygon_api_logger - INFO - Successfully fetched historical data for AMCX
+2024-10-24 19:04:53,683 - polygon_api_logger - INFO - Processed AMCX: Closing Price=7.92, 200 SMA=12.084175000000009, Gap=-34.46, RSI=41.13, Action=No Action
+2024-10-24 19:05:23,688 - polygon_api_logger - INFO - Processing ticker: PTEN
+2024-10-24 19:05:23,876 - polygon_api_logger - INFO - Successfully fetched historical data for PTEN
+2024-10-24 19:05:24,077 - polygon_api_logger - INFO - Processed PTEN: Closing Price=7.8, 200 SMA=10.210950000000013, Gap=-23.61, RSI=36.90, Action=No Action
+2024-10-24 19:05:54,083 - polygon_api_logger - INFO - Processing ticker: LRMR
+2024-10-24 19:05:54,261 - polygon_api_logger - INFO - Successfully fetched historical data for LRMR
+2024-10-24 19:05:54,497 - polygon_api_logger - INFO - Processed LRMR: Closing Price=7.35, 200 SMA=7.8431250000000015, Gap=-6.29, RSI=64.87, Action=No Action
+2024-10-24 19:06:24,498 - polygon_api_logger - INFO - Processing ticker: UEC
+2024-10-24 19:06:27,863 - polygon_api_logger - INFO - Successfully fetched historical data for UEC
+2024-10-24 19:06:28,098 - polygon_api_logger - INFO - Processed UEC: Closing Price=7.77, 200 SMA=6.494499999999979, Gap=19.64, RSI=67.40, Action=No Action
+2024-10-24 19:06:58,103 - polygon_api_logger - INFO - Processing ticker: PERI
+2024-10-24 19:06:58,307 - polygon_api_logger - INFO - Successfully fetched historical data for PERI
+2024-10-24 19:06:58,501 - polygon_api_logger - INFO - Processed PERI: Closing Price=7.99, 200 SMA=14.211800000000009, Gap=-43.78, RSI=52.80, Action=No Action
+2024-10-24 19:07:28,507 - polygon_api_logger - INFO - Processing ticker: AG
+2024-10-24 19:07:28,685 - polygon_api_logger - INFO - Successfully fetched historical data for AG
+2024-10-24 19:07:28,881 - polygon_api_logger - INFO - Processed AG: Closing Price=7.79, 200 SMA=5.9920999999999855, Gap=30.00, RSI=76.28, Action=Monitor
+2024-10-24 19:07:58,885 - polygon_api_logger - INFO - Processing ticker: HDSN
+2024-10-24 19:07:59,081 - polygon_api_logger - INFO - Successfully fetched historical data for HDSN
+2024-10-24 19:07:59,291 - polygon_api_logger - INFO - Processed HDSN: Closing Price=8.02, 200 SMA=9.999949999999986, Gap=-19.80, RSI=61.64, Action=No Action
+2024-10-24 19:08:29,294 - polygon_api_logger - INFO - Processing ticker: HCAT
+2024-10-24 19:08:29,504 - polygon_api_logger - INFO - Successfully fetched historical data for HCAT
+2024-10-24 19:08:29,724 - polygon_api_logger - INFO - Processed HCAT: Closing Price=8.08, 200 SMA=7.577700000000005, Gap=6.63, RSI=60.77, Action=No Action
+2024-10-24 19:08:59,729 - polygon_api_logger - INFO - Processing ticker: ETNB
+2024-10-24 19:08:59,932 - polygon_api_logger - INFO - Successfully fetched historical data for ETNB
+2024-10-24 19:09:00,128 - polygon_api_logger - INFO - Processed ETNB: Closing Price=7.81, 200 SMA=9.250600000000015, Gap=-15.57, RSI=61.90, Action=No Action
+2024-10-24 19:09:30,139 - polygon_api_logger - INFO - Processing ticker: TH
+2024-10-24 19:09:30,344 - polygon_api_logger - INFO - Successfully fetched historical data for TH
+2024-10-24 19:09:30,568 - polygon_api_logger - INFO - Processed TH: Closing Price=7.48, 200 SMA=9.54972499999996, Gap=-21.67, RSI=37.76, Action=No Action
+2024-10-24 19:10:00,569 - polygon_api_logger - INFO - Processing ticker: NXE
+2024-10-24 19:10:00,778 - polygon_api_logger - INFO - Successfully fetched historical data for NXE
+2024-10-24 19:10:01,252 - polygon_api_logger - INFO - Processed NXE: Closing Price=7.54, 200 SMA=7.117799999999988, Gap=5.93, RSI=64.73, Action=No Action
+2024-10-24 19:10:31,254 - polygon_api_logger - INFO - Processing ticker: WBD
+2024-10-24 19:10:31,427 - polygon_api_logger - INFO - Successfully fetched historical data for WBD
+2024-10-24 19:10:31,624 - polygon_api_logger - INFO - Processed WBD: Closing Price=7.33, 200 SMA=8.33429999999998, Gap=-12.05, RSI=36.77, Action=No Action
+2024-10-24 19:11:01,634 - polygon_api_logger - INFO - Processing ticker: BMBL
+2024-10-24 19:11:02,215 - polygon_api_logger - INFO - Successfully fetched historical data for BMBL
+2024-10-24 19:11:02,421 - polygon_api_logger - INFO - Processed BMBL: Closing Price=7.29, 200 SMA=9.952074999999983, Gap=-26.75, RSI=74.03, Action=Buy Put
+2024-10-24 19:11:32,428 - polygon_api_logger - INFO - Processing ticker: GOGO
+2024-10-24 19:11:32,729 - polygon_api_logger - INFO - Successfully fetched historical data for GOGO
+2024-10-24 19:11:32,956 - polygon_api_logger - INFO - Processed GOGO: Closing Price=7.16, 200 SMA=8.675549999999989, Gap=-17.47, RSI=69.37, Action=No Action
+2024-10-24 19:12:02,957 - polygon_api_logger - INFO - Processing ticker: AUPH
+2024-10-24 19:12:03,140 - polygon_api_logger - INFO - Successfully fetched historical data for AUPH
+2024-10-24 19:12:03,365 - polygon_api_logger - INFO - Processed AUPH: Closing Price=6.99, 200 SMA=6.096399999999996, Gap=14.66, RSI=48.94, Action=No Action
+2024-10-24 19:12:33,372 - polygon_api_logger - INFO - Processing ticker: SSYS
+2024-10-24 19:12:33,706 - polygon_api_logger - INFO - Successfully fetched historical data for SSYS
+2024-10-24 19:12:33,927 - polygon_api_logger - INFO - Processed SSYS: Closing Price=7.33, 200 SMA=9.717999999999975, Gap=-24.57, RSI=36.99, Action=No Action
+2024-10-24 19:13:03,937 - polygon_api_logger - INFO - Processing ticker: LFST
+2024-10-24 19:13:07,312 - polygon_api_logger - INFO - Successfully fetched historical data for LFST
+2024-10-24 19:13:07,515 - polygon_api_logger - INFO - Processed LFST: Closing Price=6.99, 200 SMA=6.282549999999999, Gap=11.26, RSI=53.67, Action=No Action
+2024-10-24 19:13:37,530 - polygon_api_logger - INFO - Processing ticker: LZ
+2024-10-24 19:13:37,703 - polygon_api_logger - INFO - Successfully fetched historical data for LZ
+2024-10-24 19:13:37,937 - polygon_api_logger - INFO - Processed LZ: Closing Price=6.92, 200 SMA=9.151274999999993, Gap=-24.38, RSI=75.21, Action=Buy Put
+2024-10-24 19:14:07,947 - polygon_api_logger - INFO - Processing ticker: ULCC
+2024-10-24 19:14:08,120 - polygon_api_logger - INFO - Successfully fetched historical data for ULCC
+2024-10-24 19:14:08,345 - polygon_api_logger - INFO - Processed ULCC: Closing Price=6.85, 200 SMA=5.497850000000002, Gap=24.59, RSI=80.39, Action=Monitor
+2024-10-24 19:14:38,346 - polygon_api_logger - INFO - Processing ticker: CYRX
+2024-10-24 19:14:38,578 - polygon_api_logger - INFO - Successfully fetched historical data for CYRX
+2024-10-24 19:14:38,810 - polygon_api_logger - INFO - Processed CYRX: Closing Price=6.93, 200 SMA=11.929225000000013, Gap=-41.91, RSI=35.58, Action=No Action
+2024-10-24 19:15:08,819 - polygon_api_logger - INFO - Processing ticker: MLCO
+2024-10-24 19:15:09,000 - polygon_api_logger - INFO - Successfully fetched historical data for MLCO
+2024-10-24 19:15:09,222 - polygon_api_logger - INFO - Processed MLCO: Closing Price=6.66, 200 SMA=7.137825000000006, Gap=-6.69, RSI=26.33, Action=Might buy call
+2024-10-24 19:15:39,225 - polygon_api_logger - INFO - Processing ticker: SWIM
+2024-10-24 19:15:39,432 - polygon_api_logger - INFO - Successfully fetched historical data for SWIM
+2024-10-24 19:15:39,658 - polygon_api_logger - INFO - Processed SWIM: Closing Price=6.61, 200 SMA=4.042875, Gap=63.50, RSI=52.76, Action=No Action
+2024-10-24 19:16:09,661 - polygon_api_logger - INFO - Processing ticker: ASAI
+2024-10-24 19:16:09,869 - polygon_api_logger - INFO - Successfully fetched historical data for ASAI
+2024-10-24 19:16:10,085 - polygon_api_logger - INFO - Processed ASAI: Closing Price=6.39, 200 SMA=11.255550000000012, Gap=-43.23, RSI=57.00, Action=No Action
+2024-10-24 19:16:40,095 - polygon_api_logger - INFO - Processing ticker: QS
+2024-10-24 19:16:40,280 - polygon_api_logger - INFO - Successfully fetched historical data for QS
+2024-10-24 19:16:40,511 - polygon_api_logger - INFO - Processed QS: Closing Price=5.18, 200 SMA=6.041450000000006, Gap=-14.26, RSI=37.80, Action=No Action
+2024-10-24 19:17:10,513 - polygon_api_logger - INFO - Processing ticker: BYND
+2024-10-24 19:17:10,739 - polygon_api_logger - INFO - Successfully fetched historical data for BYND
+2024-10-24 19:17:10,933 - polygon_api_logger - INFO - Processed BYND: Closing Price=6.19, 200 SMA=6.945600000000005, Gap=-10.88, RSI=41.25, Action=No Action
+2024-10-24 19:17:40,942 - polygon_api_logger - INFO - Processing ticker: CMPS
+2024-10-24 19:17:41,133 - polygon_api_logger - INFO - Successfully fetched historical data for CMPS
+2024-10-24 19:17:41,335 - polygon_api_logger - INFO - Processed CMPS: Closing Price=6.44, 200 SMA=8.098450000000003, Gap=-20.48, RSI=68.21, Action=No Action
+2024-10-24 19:18:11,337 - polygon_api_logger - INFO - Processing ticker: MERC
+2024-10-24 19:18:11,548 - polygon_api_logger - INFO - Successfully fetched historical data for MERC
+2024-10-24 19:18:11,784 - polygon_api_logger - INFO - Processed MERC: Closing Price=6.11, 200 SMA=8.335649999999998, Gap=-26.70, RSI=29.30, Action=Might buy call
+2024-10-24 19:18:41,787 - polygon_api_logger - INFO - Processing ticker: CRSR
+2024-10-24 19:18:41,969 - polygon_api_logger - INFO - Successfully fetched historical data for CRSR
+2024-10-24 19:18:42,162 - polygon_api_logger - INFO - Processed CRSR: Closing Price=6.3, 200 SMA=10.161999999999999, Gap=-38.00, RSI=27.14, Action=Might buy call
+2024-10-24 19:19:12,173 - polygon_api_logger - INFO - Processing ticker: DENN
+2024-10-24 19:19:15,543 - polygon_api_logger - INFO - Successfully fetched historical data for DENN
+2024-10-24 19:19:15,770 - polygon_api_logger - INFO - Processed DENN: Closing Price=5.5, 200 SMA=7.784800000000015, Gap=-29.35, RSI=36.68, Action=No Action
+2024-10-24 19:19:45,776 - polygon_api_logger - INFO - Processing ticker: WULF
+2024-10-24 19:19:45,986 - polygon_api_logger - INFO - Successfully fetched historical data for WULF
+2024-10-24 19:19:46,213 - polygon_api_logger - INFO - Processed WULF: Closing Price=6.4, 200 SMA=3.2584000000000026, Gap=96.42, RSI=71.18, Action=Monitor
+2024-10-24 19:20:16,213 - polygon_api_logger - INFO - Processing ticker: ADTN
+2024-10-24 19:20:16,397 - polygon_api_logger - INFO - Successfully fetched historical data for ADTN
+2024-10-24 19:20:16,591 - polygon_api_logger - INFO - Processed ADTN: Closing Price=6.11, 200 SMA=5.660375000000015, Gap=7.94, RSI=61.61, Action=No Action
+2024-10-24 19:20:46,593 - polygon_api_logger - INFO - Processing ticker: ARRY
+2024-10-24 19:20:46,799 - polygon_api_logger - INFO - Successfully fetched historical data for ARRY
+2024-10-24 19:20:47,000 - polygon_api_logger - INFO - Processed ARRY: Closing Price=6.25, 200 SMA=11.008975000000012, Gap=-43.23, RSI=49.00, Action=No Action
+2024-10-24 19:21:16,980 - polygon_api_logger - INFO - Processing ticker: BAK
+2024-10-24 19:21:17,157 - polygon_api_logger - INFO - Successfully fetched historical data for BAK
+2024-10-24 19:21:17,378 - polygon_api_logger - INFO - Processed BAK: Closing Price=6.18, 200 SMA=7.459149999999991, Gap=-17.15, RSI=14.29, Action=Might buy call
+2024-10-24 19:21:47,380 - polygon_api_logger - INFO - Processing ticker: PTON
+2024-10-24 19:21:50,771 - polygon_api_logger - INFO - Successfully fetched historical data for PTON
+2024-10-24 19:21:50,977 - polygon_api_logger - INFO - Processed PTON: Closing Price=6.27, 200 SMA=4.169749999999994, Gap=50.37, RSI=77.29, Action=Monitor
+2024-10-24 19:22:20,986 - polygon_api_logger - INFO - Processing ticker: SSL
+2024-10-24 19:22:21,194 - polygon_api_logger - INFO - Successfully fetched historical data for SSL
+2024-10-24 19:22:21,407 - polygon_api_logger - INFO - Processed SSL: Closing Price=5.88, 200 SMA=7.537649999999986, Gap=-21.99, RSI=24.33, Action=Might buy call
+2024-10-24 19:22:51,417 - polygon_api_logger - INFO - Processing ticker: JOBY
+2024-10-24 19:22:51,621 - polygon_api_logger - INFO - Successfully fetched historical data for JOBY
+2024-10-24 19:22:51,849 - polygon_api_logger - INFO - Processed JOBY: Closing Price=6.24, 200 SMA=5.367550000000005, Gap=16.25, RSI=62.75, Action=No Action
+2024-10-24 19:23:21,851 - polygon_api_logger - INFO - Processing ticker: MTLS
+2024-10-24 19:23:22,067 - polygon_api_logger - INFO - Successfully fetched historical data for MTLS
+2024-10-24 19:23:22,272 - polygon_api_logger - INFO - Processed MTLS: Closing Price=5.09, 200 SMA=5.324925, Gap=-4.41, RSI=47.42, Action=No Action
+2024-10-24 19:23:52,273 - polygon_api_logger - INFO - Processing ticker: CX
+2024-10-24 19:23:52,531 - polygon_api_logger - INFO - Successfully fetched historical data for CX
+2024-10-24 19:23:52,760 - polygon_api_logger - INFO - Processed CX: Closing Price=5.9, 200 SMA=7.180699999999997, Gap=-17.84, RSI=46.15, Action=No Action
+2024-10-24 19:24:22,771 - polygon_api_logger - INFO - Processing ticker: CCCC
+2024-10-24 19:24:25,298 - polygon_api_logger - INFO - Successfully fetched historical data for CCCC
+2024-10-24 19:24:25,541 - polygon_api_logger - INFO - Processed CCCC: Closing Price=6.04, 200 SMA=6.500250000000006, Gap=-7.08, RSI=60.74, Action=No Action
+2024-10-24 19:24:55,551 - polygon_api_logger - INFO - Processing ticker: RILY
+2024-10-24 19:24:55,730 - polygon_api_logger - INFO - Successfully fetched historical data for RILY
+2024-10-24 19:24:55,929 - polygon_api_logger - INFO - Processed RILY: Closing Price=5.85, 200 SMA=17.647850000000005, Gap=-66.85, RSI=59.07, Action=No Action
+2024-10-24 19:25:25,931 - polygon_api_logger - INFO - Processing ticker: STKL
+2024-10-24 19:25:26,105 - polygon_api_logger - INFO - Successfully fetched historical data for STKL
+2024-10-24 19:25:26,331 - polygon_api_logger - INFO - Processed STKL: Closing Price=5.72, 200 SMA=5.998374999999998, Gap=-4.64, RSI=35.21, Action=No Action
+2024-10-24 19:25:56,332 - polygon_api_logger - INFO - Processing ticker: VALN
+2024-10-24 19:25:56,561 - polygon_api_logger - INFO - Successfully fetched historical data for VALN
+2024-10-24 19:25:56,805 - polygon_api_logger - INFO - Processed VALN: Closing Price=5.834555, 200 SMA=7.513652774999993, Gap=-22.35, RSI=57.98, Action=No Action
+2024-10-24 19:26:26,806 - polygon_api_logger - INFO - Processing ticker: MGTX
+2024-10-24 19:26:26,982 - polygon_api_logger - INFO - Successfully fetched historical data for MGTX
+2024-10-24 19:26:27,180 - polygon_api_logger - INFO - Processed MGTX: Closing Price=5.85, 200 SMA=5.144400000000003, Gap=13.72, RSI=83.02, Action=Monitor
+2024-10-24 19:26:57,182 - polygon_api_logger - INFO - Processing ticker: FBIOP
+2024-10-24 19:26:57,387 - polygon_api_logger - INFO - Successfully fetched historical data for FBIOP
+2024-10-24 19:26:57,603 - polygon_api_logger - INFO - Processed FBIOP: Closing Price=5.76, 200 SMA=12.015462000000019, Gap=-52.06, RSI=70.37, Action=Buy Put
+2024-10-24 19:27:27,605 - polygon_api_logger - INFO - Processing ticker: NNOX
+2024-10-24 19:27:27,808 - polygon_api_logger - INFO - Successfully fetched historical data for NNOX
+2024-10-24 19:27:28,099 - polygon_api_logger - INFO - Processed NNOX: Closing Price=5.66, 200 SMA=7.871149999999991, Gap=-28.09, RSI=31.95, Action=No Action
+2024-10-24 19:27:58,109 - polygon_api_logger - INFO - Processing ticker: VERV
+2024-10-24 19:27:58,322 - polygon_api_logger - INFO - Successfully fetched historical data for VERV
+2024-10-24 19:27:58,564 - polygon_api_logger - INFO - Processed VERV: Closing Price=5.54, 200 SMA=7.976825000000003, Gap=-30.55, RSI=66.02, Action=No Action
+2024-10-24 19:28:28,573 - polygon_api_logger - INFO - Processing ticker: ACB
+2024-10-24 19:28:28,782 - polygon_api_logger - INFO - Successfully fetched historical data for ACB
+2024-10-24 19:28:29,021 - polygon_api_logger - INFO - Processed ACB: Closing Price=5.91, 200 SMA=5.421224999999998, Gap=9.02, RSI=61.80, Action=No Action
+2024-10-24 19:28:59,031 - polygon_api_logger - INFO - Processing ticker: CIFR
+2024-10-24 19:28:59,264 - polygon_api_logger - INFO - Successfully fetched historical data for CIFR
+2024-10-24 19:28:59,493 - polygon_api_logger - INFO - Processed CIFR: Closing Price=5.15, 200 SMA=3.9802249999999977, Gap=29.39, RSI=70.34, Action=Monitor
+2024-10-24 19:29:29,503 - polygon_api_logger - INFO - Processing ticker: SLDB
+2024-10-24 19:29:29,684 - polygon_api_logger - INFO - Successfully fetched historical data for SLDB
+2024-10-24 19:29:29,922 - polygon_api_logger - INFO - Processed SLDB: Closing Price=5.63, 200 SMA=8.671299999999993, Gap=-35.07, RSI=38.24, Action=No Action
+2024-10-24 19:29:59,932 - polygon_api_logger - INFO - Processing ticker: UNIT
+2024-10-24 19:30:00,110 - polygon_api_logger - INFO - Successfully fetched historical data for UNIT
+2024-10-24 19:30:00,331 - polygon_api_logger - INFO - Processed UNIT: Closing Price=5.64, 200 SMA=4.755399999999999, Gap=18.60, RSI=54.84, Action=No Action
+2024-10-24 19:30:30,332 - polygon_api_logger - INFO - Processing ticker: TTEC
+2024-10-24 19:30:33,644 - polygon_api_logger - INFO - Successfully fetched historical data for TTEC
+2024-10-24 19:30:33,840 - polygon_api_logger - INFO - Processed TTEC: Closing Price=5.44, 200 SMA=9.146149999999992, Gap=-40.52, RSI=37.14, Action=No Action
+2024-10-24 19:31:03,846 - polygon_api_logger - INFO - Processing ticker: LPRO
+2024-10-24 19:31:04,023 - polygon_api_logger - INFO - Successfully fetched historical data for LPRO
+2024-10-24 19:31:04,226 - polygon_api_logger - INFO - Processed LPRO: Closing Price=5.47, 200 SMA=6.192424999999981, Gap=-11.67, RSI=39.06, Action=No Action
+2024-10-24 19:31:34,236 - polygon_api_logger - INFO - Processing ticker: BIGC
+2024-10-24 19:31:37,559 - polygon_api_logger - INFO - Successfully fetched historical data for BIGC
+2024-10-24 19:31:38,099 - polygon_api_logger - INFO - Processed BIGC: Closing Price=5.4, 200 SMA=7.075949999999993, Gap=-23.69, RSI=44.76, Action=No Action
+2024-10-24 19:32:08,110 - polygon_api_logger - INFO - Processing ticker: NYMT
+2024-10-24 19:32:08,286 - polygon_api_logger - INFO - Successfully fetched historical data for NYMT
+2024-10-24 19:32:08,481 - polygon_api_logger - INFO - Processed NYMT: Closing Price=5.23, 200 SMA=6.676175000000008, Gap=-21.66, RSI=24.62, Action=Might buy call
+2024-10-24 19:32:38,488 - polygon_api_logger - INFO - Processing ticker: ATEC
+2024-10-24 19:32:38,687 - polygon_api_logger - INFO - Successfully fetched historical data for ATEC
+2024-10-24 19:32:38,885 - polygon_api_logger - INFO - Processed ATEC: Closing Price=5.13, 200 SMA=10.744375000000009, Gap=-52.25, RSI=48.00, Action=No Action
+2024-10-24 19:33:08,887 - polygon_api_logger - INFO - Processing ticker: SHLS
+2024-10-24 19:33:09,138 - polygon_api_logger - INFO - Successfully fetched historical data for SHLS
+2024-10-24 19:33:09,363 - polygon_api_logger - INFO - Processed SHLS: Closing Price=4.89, 200 SMA=8.695174999999987, Gap=-43.76, RSI=43.42, Action=No Action
+2024-10-24 19:33:39,373 - polygon_api_logger - INFO - Processing ticker: NIO
+2024-10-24 19:33:39,557 - polygon_api_logger - INFO - Successfully fetched historical data for NIO
+2024-10-24 19:33:39,781 - polygon_api_logger - INFO - Processed NIO: Closing Price=5.19, 200 SMA=5.105850000000006, Gap=1.65, RSI=14.88, Action=Buy Call
+2024-10-24 19:34:09,791 - polygon_api_logger - INFO - Processing ticker: SBSW
+2024-10-24 19:34:09,990 - polygon_api_logger - INFO - Successfully fetched historical data for SBSW
+2024-10-24 19:34:10,222 - polygon_api_logger - INFO - Processed SBSW: Closing Price=4.4, 200 SMA=4.557200000000001, Gap=-3.45, RSI=47.66, Action=No Action
+2024-10-24 19:34:40,232 - polygon_api_logger - INFO - Processing ticker: MPW
+2024-10-24 19:34:40,469 - polygon_api_logger - INFO - Successfully fetched historical data for MPW
+2024-10-24 19:34:40,685 - polygon_api_logger - INFO - Processed MPW: Closing Price=4.72, 200 SMA=4.577600000000004, Gap=3.11, RSI=26.24, Action=Buy Call
+2024-10-24 19:35:10,695 - polygon_api_logger - INFO - Processing ticker: SKYE
+2024-10-24 19:35:10,904 - polygon_api_logger - INFO - Successfully fetched historical data for SKYE
+2024-10-24 19:35:11,167 - polygon_api_logger - INFO - Processed SKYE: Closing Price=5.2, 200 SMA=8.174882500000002, Gap=-36.39, RSI=83.20, Action=Buy Put
+2024-10-24 19:35:41,178 - polygon_api_logger - INFO - Processing ticker: VMEO
+2024-10-24 19:35:41,358 - polygon_api_logger - INFO - Successfully fetched historical data for VMEO
+2024-10-24 19:35:41,558 - polygon_api_logger - INFO - Processed VMEO: Closing Price=4.68, 200 SMA=4.264924999999996, Gap=9.73, RSI=43.80, Action=No Action
+2024-10-24 19:36:11,568 - polygon_api_logger - INFO - Processing ticker: ADPT
+2024-10-24 19:36:11,774 - polygon_api_logger - INFO - Successfully fetched historical data for ADPT
+2024-10-24 19:36:11,972 - polygon_api_logger - INFO - Processed ADPT: Closing Price=4.72, 200 SMA=3.879224999999991, Gap=21.67, RSI=40.56, Action=No Action
+2024-10-24 19:36:41,978 - polygon_api_logger - INFO - Processing ticker: AUTL
+2024-10-24 19:36:42,155 - polygon_api_logger - INFO - Successfully fetched historical data for AUTL
+2024-10-24 19:36:42,348 - polygon_api_logger - INFO - Processed AUTL: Closing Price=4.47, 200 SMA=4.7322999999999995, Gap=-5.54, RSI=67.92, Action=No Action
+2024-10-24 19:37:12,354 - polygon_api_logger - INFO - Processing ticker: UXIN
+2024-10-24 19:37:12,559 - polygon_api_logger - INFO - Successfully fetched historical data for UXIN
+2024-10-24 19:37:12,783 - polygon_api_logger - INFO - Processed UXIN: Closing Price=4.72, 200 SMA=2.500290374999995, Gap=88.78, RSI=44.41, Action=No Action
+2024-10-24 19:37:42,784 - polygon_api_logger - INFO - Processing ticker: WOOF
+2024-10-24 19:37:46,143 - polygon_api_logger - INFO - Successfully fetched historical data for WOOF
+2024-10-24 19:37:46,356 - polygon_api_logger - INFO - Processed WOOF: Closing Price=4.6, 200 SMA=3.0124250000000155, Gap=52.70, RSI=35.49, Action=No Action
+2024-10-24 19:38:16,364 - polygon_api_logger - INFO - Processing ticker: HPKEW
+2024-10-24 19:38:16,544 - polygon_api_logger - INFO - Successfully fetched historical data for HPKEW
+2024-10-24 19:38:16,781 - polygon_api_logger - WARNING - Not enough data to calculate RSI. Need at least 15 data points.
+2024-10-24 19:38:16,784 - polygon_api_logger - INFO - Processed HPKEW: Closing Price=3.64, 200 SMA=5.804306500000008, Gap=-37.29, RSI=nan, Action=Insufficient Data
+2024-10-24 19:38:46,785 - polygon_api_logger - INFO - Processing ticker: LFMD
+2024-10-24 19:38:46,964 - polygon_api_logger - INFO - Successfully fetched historical data for LFMD
+2024-10-24 19:38:47,174 - polygon_api_logger - INFO - Processed LFMD: Closing Price=4.39, 200 SMA=7.212600000000004, Gap=-39.13, RSI=42.79, Action=No Action
+2024-10-24 19:39:17,183 - polygon_api_logger - INFO - Processing ticker: NKLA
+2024-10-24 19:39:17,400 - polygon_api_logger - INFO - Successfully fetched historical data for NKLA
+2024-10-24 19:39:17,596 - polygon_api_logger - INFO - Processed NKLA: Closing Price=3.97, 200 SMA=14.321845000000069, Gap=-72.28, RSI=21.40, Action=Might buy call
+2024-10-24 19:39:47,601 - polygon_api_logger - INFO - Processing ticker: ICL
+2024-10-24 19:39:47,807 - polygon_api_logger - INFO - Successfully fetched historical data for ICL
+2024-10-24 19:39:48,035 - polygon_api_logger - INFO - Processed ICL: Closing Price=4.1, 200 SMA=4.56030000000001, Gap=-10.09, RSI=48.24, Action=No Action
+2024-10-24 19:40:18,041 - polygon_api_logger - INFO - Processing ticker: RIG
+2024-10-24 19:40:18,317 - polygon_api_logger - INFO - Successfully fetched historical data for RIG
+2024-10-24 19:40:18,515 - polygon_api_logger - INFO - Processed RIG: Closing Price=4.11, 200 SMA=5.276050000000007, Gap=-22.10, RSI=32.06, Action=No Action
+2024-10-24 19:40:48,507 - polygon_api_logger - INFO - Processing ticker: EVLV
+2024-10-24 19:40:48,680 - polygon_api_logger - INFO - Successfully fetched historical data for EVLV
+2024-10-24 19:40:48,908 - polygon_api_logger - INFO - Processed EVLV: Closing Price=4.25, 200 SMA=3.7071750000000048, Gap=14.64, RSI=64.05, Action=No Action
+2024-10-24 19:41:18,916 - polygon_api_logger - INFO - Processing ticker: KOS
+2024-10-24 19:41:19,098 - polygon_api_logger - INFO - Successfully fetched historical data for KOS
+2024-10-24 19:41:19,316 - polygon_api_logger - INFO - Processed KOS: Closing Price=3.98, 200 SMA=5.424750000000008, Gap=-26.63, RSI=29.13, Action=Might buy call
+2024-10-24 19:41:49,323 - polygon_api_logger - INFO - Processing ticker: SEAT
+2024-10-24 19:41:49,573 - polygon_api_logger - INFO - Successfully fetched historical data for SEAT
+2024-10-24 19:41:49,795 - polygon_api_logger - INFO - Processed SEAT: Closing Price=3.87, 200 SMA=5.127249999999988, Gap=-24.52, RSI=71.07, Action=Buy Put
+2024-10-24 19:42:19,805 - polygon_api_logger - INFO - Processing ticker: CABA
+2024-10-24 19:42:20,008 - polygon_api_logger - INFO - Successfully fetched historical data for CABA
+2024-10-24 19:42:20,199 - polygon_api_logger - INFO - Processed CABA: Closing Price=4.03, 200 SMA=12.067125000000003, Gap=-66.60, RSI=45.09, Action=No Action
+2024-10-24 19:42:50,205 - polygon_api_logger - INFO - Processing ticker: SANA
+2024-10-24 19:42:50,417 - polygon_api_logger - INFO - Successfully fetched historical data for SANA
+2024-10-24 19:42:50,638 - polygon_api_logger - INFO - Processed SANA: Closing Price=3.79, 200 SMA=6.703275000000003, Gap=-43.46, RSI=35.63, Action=No Action
+2024-10-24 19:43:20,649 - polygon_api_logger - INFO - Processing ticker: CDLX
+2024-10-24 19:43:20,889 - polygon_api_logger - INFO - Successfully fetched historical data for CDLX
+2024-10-24 19:43:21,085 - polygon_api_logger - INFO - Processed CDLX: Closing Price=3.83, 200 SMA=7.865424999999992, Gap=-51.31, RSI=73.62, Action=Buy Put
+2024-10-24 19:43:51,087 - polygon_api_logger - INFO - Processing ticker: SVC
+2024-10-24 19:43:51,289 - polygon_api_logger - INFO - Successfully fetched historical data for SVC
+2024-10-24 19:43:51,482 - polygon_api_logger - INFO - Processed SVC: Closing Price=3.59, 200 SMA=5.825375000000003, Gap=-38.37, RSI=25.88, Action=Might buy call
+2024-10-24 19:44:21,492 - polygon_api_logger - INFO - Processing ticker: SABR
+2024-10-24 19:44:21,701 - polygon_api_logger - INFO - Successfully fetched historical data for SABR
+2024-10-24 19:44:21,893 - polygon_api_logger - INFO - Processed SABR: Closing Price=3.75, 200 SMA=3.0883749999999965, Gap=21.42, RSI=66.67, Action=No Action
+2024-10-24 19:44:51,895 - polygon_api_logger - INFO - Processing ticker: CBUS
+2024-10-24 19:44:52,089 - polygon_api_logger - INFO - Successfully fetched historical data for CBUS
+2024-10-24 19:44:52,370 - polygon_api_logger - INFO - Processed CBUS: Closing Price=3.59, 200 SMA=12.51897500000001, Gap=-71.32, RSI=63.87, Action=No Action
+2024-10-24 19:45:22,372 - polygon_api_logger - INFO - Processing ticker: EVO
+2024-10-24 19:45:22,577 - polygon_api_logger - INFO - Successfully fetched historical data for EVO
+2024-10-24 19:45:22,942 - polygon_api_logger - INFO - Processed EVO: Closing Price=3.55, 200 SMA=5.453350499999999, Gap=-34.90, RSI=56.83, Action=No Action
+2024-10-24 19:45:52,947 - polygon_api_logger - INFO - Processing ticker: UGP
+2024-10-24 19:45:53,157 - polygon_api_logger - INFO - Successfully fetched historical data for UGP
+2024-10-24 19:45:53,370 - polygon_api_logger - INFO - Processed UGP: Closing Price=3.56, 200 SMA=4.7719, Gap=-25.40, RSI=27.42, Action=Might buy call
+2024-10-24 19:46:23,374 - polygon_api_logger - INFO - Processing ticker: TBLA
+2024-10-24 19:46:26,725 - polygon_api_logger - INFO - Successfully fetched historical data for TBLA
+2024-10-24 19:46:26,951 - polygon_api_logger - INFO - Processed TBLA: Closing Price=3.66, 200 SMA=3.8692249999999966, Gap=-5.41, RSI=75.49, Action=Buy Put
+2024-10-24 19:46:56,955 - polygon_api_logger - INFO - Processing ticker: QRTEB
+2024-10-24 19:46:57,125 - polygon_api_logger - INFO - Successfully fetched historical data for QRTEB
+2024-10-24 19:46:57,364 - polygon_api_logger - INFO - Processed QRTEB: Closing Price=3.62, 200 SMA=4.392862499999998, Gap=-17.59, RSI=44.79, Action=No Action
+2024-10-24 19:47:27,366 - polygon_api_logger - INFO - Processing ticker: STRO
+2024-10-24 19:47:27,567 - polygon_api_logger - INFO - Successfully fetched historical data for STRO
+2024-10-24 19:47:28,020 - polygon_api_logger - INFO - Processed STRO: Closing Price=3.5, 200 SMA=4.051524999999999, Gap=-13.61, RSI=48.82, Action=No Action
+2024-10-24 19:47:58,025 - polygon_api_logger - INFO - Processing ticker: LWLG
+2024-10-24 19:47:58,221 - polygon_api_logger - INFO - Successfully fetched historical data for LWLG
+2024-10-24 19:47:58,412 - polygon_api_logger - INFO - Processed LWLG: Closing Price=3.34, 200 SMA=3.592650000000001, Gap=-7.03, RSI=63.37, Action=No Action
+2024-10-24 19:48:28,416 - polygon_api_logger - INFO - Processing ticker: INDI
+2024-10-24 19:48:28,621 - polygon_api_logger - INFO - Successfully fetched historical data for INDI
+2024-10-24 19:48:28,837 - polygon_api_logger - INFO - Processed INDI: Closing Price=3.44, 200 SMA=5.751749999999998, Gap=-40.19, RSI=30.39, Action=No Action
+2024-10-24 19:48:58,842 - polygon_api_logger - INFO - Processing ticker: FULC
+2024-10-24 19:48:59,018 - polygon_api_logger - INFO - Successfully fetched historical data for FULC
+2024-10-24 19:48:59,207 - polygon_api_logger - INFO - Processed FULC: Closing Price=3.25, 200 SMA=7.597849999999998, Gap=-57.22, RSI=36.21, Action=No Action
+2024-10-24 19:49:29,212 - polygon_api_logger - INFO - Processing ticker: ACCD
+2024-10-24 19:49:29,443 - polygon_api_logger - INFO - Successfully fetched historical data for ACCD
+2024-10-24 19:49:29,635 - polygon_api_logger - INFO - Processed ACCD: Closing Price=3.2, 200 SMA=7.13394999999997, Gap=-55.14, RSI=32.35, Action=No Action
+2024-10-24 19:49:59,641 - polygon_api_logger - INFO - Processing ticker: EDIT
+2024-10-24 19:49:59,852 - polygon_api_logger - INFO - Successfully fetched historical data for EDIT
+2024-10-24 19:50:00,339 - polygon_api_logger - INFO - Processed EDIT: Closing Price=3.21, 200 SMA=5.745249999999999, Gap=-44.13, RSI=50.22, Action=No Action
+2024-10-24 19:50:30,341 - polygon_api_logger - INFO - Processing ticker: GGB
+2024-10-24 19:50:30,546 - polygon_api_logger - INFO - Successfully fetched historical data for GGB
+2024-10-24 19:50:30,770 - polygon_api_logger - INFO - Processed GGB: Closing Price=3.13, 200 SMA=3.449208500000003, Gap=-9.25, RSI=26.47, Action=Might buy call
+2024-10-24 19:51:00,777 - polygon_api_logger - INFO - Processing ticker: ZNTL
+2024-10-24 19:51:00,984 - polygon_api_logger - INFO - Successfully fetched historical data for ZNTL
+2024-10-24 19:51:01,224 - polygon_api_logger - INFO - Processed ZNTL: Closing Price=3.32, 200 SMA=8.747724999999994, Gap=-62.05, RSI=54.84, Action=No Action
+2024-10-24 19:51:31,229 - polygon_api_logger - INFO - Processing ticker: REAL
+2024-10-24 19:51:31,431 - polygon_api_logger - INFO - Successfully fetched historical data for REAL
+2024-10-24 19:51:31,635 - polygon_api_logger - INFO - Processed REAL: Closing Price=2.93, 200 SMA=3.0706749999999965, Gap=-4.58, RSI=46.55, Action=No Action
+2024-10-24 19:52:01,640 - polygon_api_logger - INFO - Processing ticker: LESL
+2024-10-24 19:52:01,811 - polygon_api_logger - INFO - Successfully fetched historical data for LESL
+2024-10-24 19:52:02,192 - polygon_api_logger - INFO - Processed LESL: Closing Price=2.75, 200 SMA=4.762849999999986, Gap=-42.26, RSI=52.04, Action=No Action
+2024-10-24 19:52:32,200 - polygon_api_logger - INFO - Processing ticker: UROY
+2024-10-24 19:52:35,179 - polygon_api_logger - INFO - Successfully fetched historical data for UROY
+2024-10-24 19:52:35,395 - polygon_api_logger - INFO - Processed UROY: Closing Price=2.87, 200 SMA=2.535850000000002, Gap=13.18, RSI=65.31, Action=No Action
+2024-10-24 19:53:05,401 - polygon_api_logger - INFO - Processing ticker: ORGO
+2024-10-24 19:53:05,604 - polygon_api_logger - INFO - Successfully fetched historical data for ORGO
+2024-10-24 19:53:05,824 - polygon_api_logger - INFO - Processed ORGO: Closing Price=2.89, 200 SMA=2.9352750000000043, Gap=-1.54, RSI=51.11, Action=No Action
+2024-10-24 19:53:35,824 - polygon_api_logger - INFO - Processing ticker: LU
+2024-10-24 19:53:39,197 - polygon_api_logger - INFO - Successfully fetched historical data for LU
+2024-10-24 19:53:39,429 - polygon_api_logger - INFO - Processed LU: Closing Price=2.89, 200 SMA=3.1134499999999803, Gap=-7.18, RSI=20.88, Action=Might buy call
+2024-10-24 19:54:09,438 - polygon_api_logger - INFO - Processing ticker: FATE
+2024-10-24 19:54:09,620 - polygon_api_logger - INFO - Successfully fetched historical data for FATE
+2024-10-24 19:54:09,817 - polygon_api_logger - INFO - Processed FATE: Closing Price=3.03, 200 SMA=4.683074999999995, Gap=-35.30, RSI=45.79, Action=No Action
+2024-10-24 19:54:39,822 - polygon_api_logger - INFO - Processing ticker: CLNE
+2024-10-24 19:54:40,034 - polygon_api_logger - INFO - Successfully fetched historical data for CLNE
+2024-10-24 19:54:40,262 - polygon_api_logger - INFO - Processed CLNE: Closing Price=2.79, 200 SMA=2.7845999999999997, Gap=0.19, RSI=36.36, Action=No Action
+2024-10-24 19:55:10,267 - polygon_api_logger - INFO - Processing ticker: TALK
+2024-10-24 19:55:10,469 - polygon_api_logger - INFO - Successfully fetched historical data for TALK
+2024-10-24 19:55:10,699 - polygon_api_logger - INFO - Processed TALK: Closing Price=2.75, 200 SMA=2.5149499999999976, Gap=9.35, RSI=64.12, Action=No Action
+2024-10-24 19:55:40,705 - polygon_api_logger - INFO - Processing ticker: CVAC
+2024-10-24 19:55:40,912 - polygon_api_logger - INFO - Successfully fetched historical data for CVAC
+2024-10-24 19:55:41,140 - polygon_api_logger - INFO - Processed CVAC: Closing Price=2.7, 200 SMA=3.2933250000000025, Gap=-18.02, RSI=26.79, Action=Might buy call
+2024-10-24 19:56:11,141 - polygon_api_logger - INFO - Processing ticker: BBD
+2024-10-24 19:56:11,331 - polygon_api_logger - INFO - Successfully fetched historical data for BBD
+2024-10-24 19:56:11,561 - polygon_api_logger - INFO - Processed BBD: Closing Price=2.62, 200 SMA=2.6843499999999993, Gap=-2.40, RSI=34.37, Action=No Action
+2024-10-24 19:56:41,566 - polygon_api_logger - INFO - Processing ticker: KC
+2024-10-24 19:56:41,795 - polygon_api_logger - INFO - Successfully fetched historical data for KC
+2024-10-24 19:56:42,029 - polygon_api_logger - INFO - Processed KC: Closing Price=2.66, 200 SMA=2.799400000000011, Gap=-4.98, RSI=24.45, Action=Might buy call
+2024-10-24 19:57:12,034 - polygon_api_logger - INFO - Processing ticker: LCID
+2024-10-24 19:57:12,244 - polygon_api_logger - INFO - Successfully fetched historical data for LCID
+2024-10-24 19:57:12,451 - polygon_api_logger - INFO - Processed LCID: Closing Price=2.49, 200 SMA=3.0964250000000026, Gap=-19.58, RSI=17.39, Action=Might buy call
+2024-10-24 19:57:42,454 - polygon_api_logger - INFO - Processing ticker: NVTS
+2024-10-24 19:57:42,662 - polygon_api_logger - INFO - Successfully fetched historical data for NVTS
+2024-10-24 19:57:42,862 - polygon_api_logger - INFO - Processed NVTS: Closing Price=2.49, 200 SMA=4.1861250000000005, Gap=-40.52, RSI=56.76, Action=No Action
+2024-10-24 19:58:12,863 - polygon_api_logger - INFO - Processing ticker: ANGI
+2024-10-24 19:58:13,041 - polygon_api_logger - INFO - Successfully fetched historical data for ANGI
+2024-10-24 19:58:13,254 - polygon_api_logger - INFO - Processed ANGI: Closing Price=2.45, 200 SMA=2.3823250000000056, Gap=2.84, RSI=48.28, Action=No Action
+2024-10-24 19:58:43,259 - polygon_api_logger - INFO - Processing ticker: BBDO
+2024-10-24 19:58:43,464 - polygon_api_logger - INFO - Successfully fetched historical data for BBDO
+2024-10-24 19:58:43,664 - polygon_api_logger - INFO - Processed BBDO: Closing Price=2.29, 200 SMA=2.415895499999995, Gap=-5.21, RSI=29.12, Action=Might buy call
+2024-10-24 19:59:13,668 - polygon_api_logger - INFO - Processing ticker: NNDM
+2024-10-24 19:59:13,874 - polygon_api_logger - INFO - Successfully fetched historical data for NNDM
+2024-10-24 19:59:14,069 - polygon_api_logger - INFO - Processed NNDM: Closing Price=2.3, 200 SMA=2.4389750000000006, Gap=-5.70, RSI=42.37, Action=No Action
+2024-10-24 19:59:44,077 - polygon_api_logger - INFO - Processing ticker: ABEV
+2024-10-24 19:59:44,303 - polygon_api_logger - INFO - Successfully fetched historical data for ABEV
+2024-10-24 19:59:44,511 - polygon_api_logger - INFO - Processed ABEV: Closing Price=2.25, 200 SMA=2.3610000000000015, Gap=-4.70, RSI=17.14, Action=Might buy call
+2024-10-24 20:00:14,517 - polygon_api_logger - INFO - Processing ticker: GMGI
+2024-10-24 20:00:14,692 - polygon_api_logger - INFO - Successfully fetched historical data for GMGI
+2024-10-24 20:00:15,226 - polygon_api_logger - INFO - Processed GMGI: Closing Price=2.17, 200 SMA=2.9585750000000104, Gap=-26.65, RSI=46.39, Action=No Action
+2024-10-24 20:00:45,231 - polygon_api_logger - INFO - Processing ticker: BLNK
+2024-10-24 20:00:45,924 - polygon_api_logger - INFO - Successfully fetched historical data for BLNK
+2024-10-24 20:00:46,141 - polygon_api_logger - INFO - Processed BLNK: Closing Price=1.98, 200 SMA=2.6151500000000114, Gap=-24.29, RSI=63.16, Action=No Action
+2024-10-24 20:01:16,142 - polygon_api_logger - INFO - Processing ticker: PLUG
+2024-10-24 20:01:16,371 - polygon_api_logger - INFO - Successfully fetched historical data for PLUG
+2024-10-24 20:01:16,595 - polygon_api_logger - INFO - Processed PLUG: Closing Price=2.08, 200 SMA=2.8233000000000157, Gap=-26.33, RSI=50.75, Action=No Action
+2024-10-24 20:01:46,600 - polygon_api_logger - INFO - Processing ticker: AVTE
+2024-10-24 20:01:46,805 - polygon_api_logger - INFO - Successfully fetched historical data for AVTE
+2024-10-24 20:01:47,146 - polygon_api_logger - INFO - Processed AVTE: Closing Price=2.2, 200 SMA=12.887249999999986, Gap=-82.93, RSI=62.65, Action=No Action
+2024-10-24 20:02:17,152 - polygon_api_logger - INFO - Processing ticker: SID
+2024-10-24 20:02:17,323 - polygon_api_logger - INFO - Successfully fetched historical data for SID
+2024-10-24 20:02:17,541 - polygon_api_logger - INFO - Processed SID: Closing Price=2.03, 200 SMA=2.6770000000000023, Gap=-24.17, RSI=17.31, Action=Might buy call
+2024-10-24 20:02:47,543 - polygon_api_logger - INFO - Processing ticker: MRSN
+2024-10-24 20:02:47,765 - polygon_api_logger - INFO - Successfully fetched historical data for MRSN
+2024-10-24 20:02:47,962 - polygon_api_logger - INFO - Processed MRSN: Closing Price=2.06, 200 SMA=2.8018750000000017, Gap=-26.48, RSI=52.70, Action=No Action
+2024-10-24 20:03:17,968 - polygon_api_logger - INFO - Processing ticker: EGHT
+2024-10-24 20:03:18,145 - polygon_api_logger - INFO - Successfully fetched historical data for EGHT
+2024-10-24 20:03:18,401 - polygon_api_logger - INFO - Processed EGHT: Closing Price=1.98, 200 SMA=2.4739249999999977, Gap=-19.97, RSI=48.62, Action=No Action
+2024-10-24 20:03:48,406 - polygon_api_logger - INFO - Processing ticker: BITF
+2024-10-24 20:03:48,618 - polygon_api_logger - INFO - Successfully fetched historical data for BITF
+2024-10-24 20:03:48,845 - polygon_api_logger - INFO - Processed BITF: Closing Price=1.97, 200 SMA=2.3053749999999997, Gap=-14.55, RSI=50.00, Action=No Action
+2024-10-24 20:04:18,850 - polygon_api_logger - INFO - Processing ticker: IMMP
+2024-10-24 20:04:19,043 - polygon_api_logger - INFO - Successfully fetched historical data for IMMP
+2024-10-24 20:04:19,266 - polygon_api_logger - INFO - Processed IMMP: Closing Price=1.93, 200 SMA=2.389499999999999, Gap=-19.23, RSI=32.14, Action=No Action
+2024-10-24 20:04:49,268 - polygon_api_logger - INFO - Processing ticker: SOUNW
+2024-10-24 20:04:49,475 - polygon_api_logger - INFO - Successfully fetched historical data for SOUNW
+2024-10-24 20:04:49,693 - polygon_api_logger - INFO - Processed SOUNW: Closing Price=1.81, 200 SMA=1.941529575, Gap=-6.77, RSI=50.82, Action=No Action
+2024-10-24 20:05:19,694 - polygon_api_logger - INFO - Processing ticker: LXRX
+2024-10-24 20:05:19,888 - polygon_api_logger - INFO - Successfully fetched historical data for LXRX
+2024-10-24 20:05:20,081 - polygon_api_logger - INFO - Processed LXRX: Closing Price=1.86, 200 SMA=1.9027000000000016, Gap=-2.24, RSI=65.43, Action=No Action
+2024-10-24 20:05:50,082 - polygon_api_logger - INFO - Processing ticker: OPEN
+2024-10-24 20:05:50,295 - polygon_api_logger - INFO - Successfully fetched historical data for OPEN
+2024-10-24 20:05:50,523 - polygon_api_logger - INFO - Processed OPEN: Closing Price=1.73, 200 SMA=2.4147499999999953, Gap=-28.36, RSI=39.36, Action=No Action
+2024-10-24 20:06:20,524 - polygon_api_logger - INFO - Processing ticker: PROK
+2024-10-24 20:06:20,732 - polygon_api_logger - INFO - Successfully fetched historical data for PROK
+2024-10-24 20:06:20,971 - polygon_api_logger - INFO - Processed PROK: Closing Price=1.7, 200 SMA=2.1311499999999923, Gap=-20.23, RSI=55.82, Action=No Action
+2024-10-24 20:06:50,976 - polygon_api_logger - INFO - Processing ticker: PACB
+2024-10-24 20:06:51,201 - polygon_api_logger - INFO - Successfully fetched historical data for PACB
+2024-10-24 20:06:51,440 - polygon_api_logger - INFO - Processed PACB: Closing Price=1.75, 200 SMA=2.875925000000008, Gap=-39.15, RSI=54.55, Action=No Action
+2024-10-24 20:07:21,443 - polygon_api_logger - INFO - Processing ticker: TLRY
+2024-10-24 20:07:21,643 - polygon_api_logger - INFO - Successfully fetched historical data for TLRY
+2024-10-24 20:07:21,868 - polygon_api_logger - INFO - Processed TLRY: Closing Price=1.68, 200 SMA=1.8505249999999993, Gap=-9.21, RSI=47.62, Action=No Action
+2024-10-24 20:07:51,871 - polygon_api_logger - INFO - Processing ticker: DADA
+2024-10-24 20:07:52,074 - polygon_api_logger - INFO - Successfully fetched historical data for DADA
+2024-10-24 20:07:52,270 - polygon_api_logger - INFO - Processed DADA: Closing Price=1.65, 200 SMA=1.7240250000000046, Gap=-4.29, RSI=34.16, Action=No Action
+2024-10-24 20:08:22,276 - polygon_api_logger - INFO - Processing ticker: BLDP
+2024-10-24 20:08:22,474 - polygon_api_logger - INFO - Successfully fetched historical data for BLDP
+2024-10-24 20:08:22,674 - polygon_api_logger - INFO - Processed BLDP: Closing Price=1.59, 200 SMA=2.549625000000002, Gap=-37.64, RSI=43.10, Action=No Action
+2024-10-24 20:08:52,679 - polygon_api_logger - INFO - Processing ticker: VRCA
+2024-10-24 20:08:52,884 - polygon_api_logger - INFO - Successfully fetched historical data for VRCA
+2024-10-24 20:08:53,105 - polygon_api_logger - INFO - Processed VRCA: Closing Price=1.51, 200 SMA=5.4967000000000015, Gap=-72.53, RSI=53.57, Action=No Action
+2024-10-24 20:09:23,108 - polygon_api_logger - INFO - Processing ticker: CIFRW
+2024-10-24 20:09:23,338 - polygon_api_logger - INFO - Successfully fetched historical data for CIFRW
+2024-10-24 20:09:23,549 - polygon_api_logger - INFO - Processed CIFRW: Closing Price=1.5, 200 SMA=1.1751017449999999, Gap=27.65, RSI=66.10, Action=No Action
+2024-10-24 20:09:53,554 - polygon_api_logger - INFO - Processing ticker: ALXO
+2024-10-24 20:09:53,756 - polygon_api_logger - INFO - Successfully fetched historical data for ALXO
+2024-10-24 20:09:53,977 - polygon_api_logger - INFO - Processed ALXO: Closing Price=1.66, 200 SMA=9.138424999999996, Gap=-81.83, RSI=46.15, Action=No Action
+2024-10-24 20:10:23,981 - polygon_api_logger - INFO - Processing ticker: OPK
+2024-10-24 20:10:24,159 - polygon_api_logger - INFO - Successfully fetched historical data for OPK
+2024-10-24 20:10:24,385 - polygon_api_logger - INFO - Processed OPK: Closing Price=1.46, 200 SMA=1.2845535000000012, Gap=13.66, RSI=40.00, Action=No Action
+2024-10-24 20:10:54,390 - polygon_api_logger - INFO - Processing ticker: STTK
+2024-10-24 20:10:54,596 - polygon_api_logger - INFO - Successfully fetched historical data for STTK
+2024-10-24 20:10:54,841 - polygon_api_logger - INFO - Processed STTK: Closing Price=1.3, 200 SMA=6.464175000000008, Gap=-79.89, RSI=51.06, Action=No Action
+2024-10-24 20:11:24,846 - polygon_api_logger - INFO - Processing ticker: SLDP
+2024-10-24 20:11:28,191 - polygon_api_logger - INFO - Successfully fetched historical data for SLDP
+2024-10-24 20:11:28,414 - polygon_api_logger - INFO - Processed SLDP: Closing Price=1.2, 200 SMA=1.5865500000000015, Gap=-24.36, RSI=39.29, Action=No Action
+2024-10-24 20:11:58,419 - polygon_api_logger - INFO - Processing ticker: AUROW
+2024-10-24 20:11:58,602 - polygon_api_logger - INFO - Successfully fetched historical data for AUROW
+2024-10-24 20:11:58,873 - polygon_api_logger - INFO - Processed AUROW: Closing Price=0.91375, 200 SMA=0.339899205, Gap=168.83, RSI=76.49, Action=Monitor
+2024-10-24 20:12:28,879 - polygon_api_logger - INFO - Processing ticker: TMC
+2024-10-24 20:12:29,059 - polygon_api_logger - INFO - Successfully fetched historical data for TMC
+2024-10-24 20:12:29,250 - polygon_api_logger - INFO - Processed TMC: Closing Price=0.9998, 200 SMA=1.3204260000000005, Gap=-24.28, RSI=34.22, Action=No Action
+2024-10-24 20:12:59,255 - polygon_api_logger - INFO - Processing ticker: LAZR
+2024-10-24 20:12:59,482 - polygon_api_logger - INFO - Successfully fetched historical data for LAZR
+2024-10-24 20:12:59,675 - polygon_api_logger - INFO - Processed LAZR: Closing Price=0.79, 200 SMA=1.6188679999999922, Gap=-51.20, RSI=46.51, Action=No Action
+2024-10-24 20:13:29,678 - polygon_api_logger - INFO - Processing ticker: OTLY
+2024-10-24 20:13:29,891 - polygon_api_logger - INFO - Successfully fetched historical data for OTLY
+2024-10-24 20:13:30,108 - polygon_api_logger - INFO - Processed OTLY: Closing Price=0.7906, 200 SMA=1.0171470000000007, Gap=-22.27, RSI=42.03, Action=No Action
+2024-10-24 20:14:00,113 - polygon_api_logger - INFO - Processing ticker: ADAP
+2024-10-24 20:14:00,323 - polygon_api_logger - INFO - Successfully fetched historical data for ADAP
+2024-10-24 20:14:00,546 - polygon_api_logger - INFO - Processed ADAP: Closing Price=0.7849, 200 SMA=1.1306449999999992, Gap=-30.58, RSI=27.19, Action=Might buy call
+2024-10-24 20:14:30,549 - polygon_api_logger - INFO - Processing ticker: NEGG
+2024-10-24 20:14:33,807 - polygon_api_logger - INFO - Successfully fetched historical data for NEGG
+2024-10-24 20:14:34,027 - polygon_api_logger - INFO - Processed NEGG: Closing Price=0.6014, 200 SMA=0.8716864999999991, Gap=-31.01, RSI=24.11, Action=Might buy call
+2024-10-24 20:15:04,031 - polygon_api_logger - INFO - Processing ticker: AMRN
+2024-10-24 20:15:04,211 - polygon_api_logger - INFO - Successfully fetched historical data for AMRN
+2024-10-24 20:15:04,435 - polygon_api_logger - INFO - Processed AMRN: Closing Price=0.5785, 200 SMA=0.836396999999999, Gap=-30.83, RSI=44.54, Action=No Action
+2024-10-24 20:15:34,441 - polygon_api_logger - INFO - Processing ticker: FCEL
+2024-10-24 20:15:37,837 - polygon_api_logger - INFO - Successfully fetched historical data for FCEL
+2024-10-24 20:15:38,048 - polygon_api_logger - INFO - Processed FCEL: Closing Price=0.3283, 200 SMA=0.8069389999999976, Gap=-59.32, RSI=38.10, Action=No Action
+2024-10-24 20:16:08,055 - polygon_api_logger - INFO - Processing ticker: GRABW
+2024-10-24 20:16:08,229 - polygon_api_logger - INFO - Successfully fetched historical data for GRABW
+2024-10-24 20:16:08,478 - polygon_api_logger - INFO - Processed GRABW: Closing Price=0.2813, 200 SMA=0.19265208000000006, Gap=46.01, RSI=62.30, Action=No Action
+2024-10-24 20:16:38,483 - polygon_api_logger - INFO - Processing ticker: LILM
+2024-10-24 20:16:38,665 - polygon_api_logger - INFO - Successfully fetched historical data for LILM
+2024-10-24 20:16:38,887 - polygon_api_logger - INFO - Processed LILM: Closing Price=0.5439, 200 SMA=0.8690759999999997, Gap=-37.42, RSI=33.14, Action=No Action
+2024-10-24 20:17:08,892 - polygon_api_logger - INFO - Processing ticker: GPS
+2024-10-24 20:17:12,315 - polygon_api_logger - WARNING - No historical data available for GPS
+2024-10-24 20:17:42,320 - polygon_api_logger - INFO - Processing ticker: LSXMK
+2024-10-24 20:17:42,527 - polygon_api_logger - WARNING - No historical data available for LSXMK
+2024-10-24 20:18:12,529 - polygon_api_logger - INFO - Processing ticker: SPWR
+2024-10-24 20:18:12,735 - polygon_api_logger - WARNING - No historical data available for SPWR
+2024-10-24 20:18:42,752 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-24 20:18:42,753 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-24 20:18:42,753 - polygon_api_logger - INFO - Program completed
