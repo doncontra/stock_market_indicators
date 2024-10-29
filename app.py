@@ -106,16 +106,31 @@ def calculate_rsi(data, periods=14):
     gains = close_diff.where(close_diff > 0, 0)
     losses = -close_diff.where(close_diff < 0, 0)
     
-    # Calculate average gains and losses
-    avg_gain = gains.rolling(window=periods, min_periods=periods).mean()
-    avg_loss = losses.rolling(window=periods, min_periods=periods).mean()
+    # First average
+    avg_gain = gains.iloc[:periods].mean()
+    avg_loss = losses.iloc[:periods].mean()
+    
+    # Initialize the arrays
+    avg_gains = np.zeros(len(data))
+    avg_losses = np.zeros(len(data))
+    avg_gains[periods - 1] = avg_gain
+    avg_losses[periods - 1] = avg_loss
+    
+    # Calculate smoothed averages
+    for i in range(periods, len(data)):
+        avg_gain = (avg_gains[i-1] * 13 + gains.iloc[i]) / 14
+        avg_loss = (avg_losses[i-1] * 13 + losses.iloc[i]) / 14
+        avg_gains[i] = avg_gain
+        avg_losses[i] = avg_loss
     
     # Calculate RS and RSI
-    rs = avg_gain / avg_loss
+    rs = np.where(avg_losses != 0, avg_gains / avg_losses, 100.0)  # Handle division by zero
     rsi = 100 - (100 / (1 + rs))
     
-    return rsi.iloc[-1]
-
+    # If there are no losses, RSI should be 100
+    rsi = np.where(avg_losses == 0, 100.0, rsi)
+    
+    return rsi[-1]
 
 # Calculate the percentage gap between closing price and SMA
 def calculate_gap(closing_price, sma):
@@ -127,27 +142,128 @@ def calculate_gap(closing_price, sma):
 # Save results to CSV
 def save_to_csv(output_csv, results):
     df = pd.DataFrame(results)
-    df.to_csv(output_csv, index=False)
+    
+    # Ensure consistent column order
+    columns = [
+        'Ticker',
+        'Closing Price',
+        '200 SMA',
+        'Gap',
+        'RSI',
+        'MACD',
+        'MACD Signal',
+        'Analysis'  # This will be our last column
+    ]
+    
+    # Reorder columns and handle any missing columns
+    existing_columns = [col for col in columns if col in df.columns]
+    df = df[existing_columns]
+    
+    # Save to CSV with proper encoding for special characters
+    df.to_csv(output_csv, index=False, encoding='utf-8')
     logger.info(f"Results saved to {output_csv}")
 
-def determine_action(gap, rsi):
+def calculate_macd(data, short_period=12, long_period=26, signal_period=9):
+    # Calculate the exponential moving averages
+    short_ema = data['c'].ewm(span=short_period, adjust=False).mean()
+    long_ema = data['c'].ewm(span=long_period, adjust=False).mean()
+    
+    # Calculate MACD line
+    macd_line = short_ema - long_ema
+    
+    # Calculate signal line
+    signal_line = macd_line.ewm(span=signal_period, adjust=False).mean()
+    
+    # Calculate MACD histogram
+    macd_histogram = macd_line - signal_line
+    
+    return {
+        'macd': macd_line.iloc[-1],
+        'signal': signal_line.iloc[-1],
+        'histogram': macd_histogram.iloc[-1]
+    }
+
+def determine_action(gap, rsi, macd_data):
     if pd.isna(gap) or pd.isna(rsi):
         return "Insufficient Data"
     
+    action = "No Action"
+    reasons = []
+    warnings = []
+    strength = []
+    
+    # Gap Analysis
+    if gap > 20:
+        warnings.append(f"Stock significantly above 200 SMA (Gap: {gap:.1f}%)")
+    elif gap > 0:
+        strength.append(f"Trading above 200 SMA (Gap: {gap:.1f}%)")
+    else:
+        warnings.append(f"Trading below 200 SMA (Gap: {gap:.1f}%)")
+
+    # RSI Analysis
+    if rsi > 80:
+        warnings.append(f"Extremely overbought (RSI: {rsi:.1f})")
+    elif rsi > 70:
+        warnings.append(f"Overbought (RSI: {rsi:.1f})")
+    elif rsi < 20:
+        strength.append(f"Extremely oversold (RSI: {rsi:.1f})")
+    elif rsi < 30:
+        strength.append(f"Oversold (RSI: {rsi:.1f})")
+    else:
+        strength.append(f"RSI in neutral zone ({rsi:.1f})")
+
+    # MACD Analysis
+    macd_trend = ""
+    if macd_data['macd'] > macd_data['signal']:
+        macd_trend = "bullish"
+        strength.append("MACD above signal line")
+    else:
+        macd_trend = "bearish"
+        warnings.append("MACD below signal line")
+
+    # Determine Action based on combined indicators
     if gap > 0:
         if rsi < 30:
-            return "Buy Call"
+            action = "Buy Call"
+            reasons.append("Primary: RSI indicates oversold condition")
+            reasons.append("Supporting: Positive gap from 200 SMA")
+            if macd_trend == "bullish":
+                reasons.append("Confirming: MACD shows bullish momentum")
         elif rsi > 70:
-            return "Monitor"
+            action = "Monitor"
+            reasons.append("Caution: RSI indicates overbought condition")
+            reasons.append("Risk: Extended gap above 200 SMA")
         else:
-            return "No Action"
+            action = "No Action"
+            reasons.append("RSI in neutral zone")
     else:  # gap <= 0
         if rsi > 70:
-            return "Buy Put"
+            action = "Buy Put"
+            reasons.append("Primary: RSI indicates overbought condition")
+            reasons.append("Supporting: Trading below 200 SMA")
+            if macd_trend == "bearish":
+                reasons.append("Confirming: MACD shows bearish momentum")
         elif rsi < 30:
-            return "Might buy call"
+            if macd_trend == "bullish":
+                action = "Buy Call"
+                reasons.append("Primary: RSI indicates oversold condition")
+                reasons.append("Supporting: MACD shows bullish momentum")
+                reasons.append("Warning: Trading below 200 SMA")
+            else:
+                action = "Monitor"
+                reasons.append("Mixed signals: Oversold but bearish trend")
         else:
-            return "No Action"
+            action = "No Action"
+            reasons.append("No clear signal")
+
+    # Format the analysis as a single line for CSV
+    analysis = f"{action}\n\nReasons:\n- {'\n- '.join(reasons)}"
+    if strength:
+        analysis += f"\nStrength Indicators:\n- {'\n- '.join(strength)}"
+    if warnings:
+        analysis += f"\nWarnings:\n- {'\n- '.join(warnings)}"
+
+    return analysis
 
 def main(input_csv, output_csv):
     tickers = load_tickers(input_csv)
@@ -162,7 +278,9 @@ def main(input_csv, output_csv):
                 sma = get_200_day_sma(ticker)
                 gap = calculate_gap(closing_price, sma)
                 rsi = calculate_rsi(historical_data)
-                action = determine_action(gap, rsi)
+                macd_data = calculate_macd(historical_data)
+                
+                analysis = determine_action(gap, rsi, macd_data)
                 
                 result = {
                     'Ticker': ticker, 
@@ -170,29 +288,29 @@ def main(input_csv, output_csv):
                     '200 SMA': sma, 
                     'Gap': gap,
                     'RSI': rsi,
-                    'Action': action
+                    'MACD': macd_data['macd'],
+                    'MACD Signal': macd_data['signal'],
+                    'Analysis': analysis
                 }
+                
                 results.append(result)
-                
-                # Use a safer logging approach
-                log_message = f"Processed {ticker}: Closing Price={closing_price}"
-                if sma is not None:
-                    log_message += f", 200 SMA={sma}"
-                if gap is not None:
-                    log_message += f", Gap={gap:.2f}"
-                if rsi is not None:
-                    log_message += f", RSI={rsi:.2f}"
-                log_message += f", Action={action}"
-                
-                logger.info(log_message)
+                logger.info(f"Processed {ticker}")
+                logger.debug(f"Analysis for {ticker}:\n{analysis}")
             else:
                 logger.warning(f"No historical data available for {ticker}")
-                results.append({'Ticker': ticker, 'Error': 'No historical data'})
+                results.append({
+                    'Ticker': ticker, 
+                    'Error': 'No historical data',
+                    'Analysis': 'Insufficient Data'
+                })
         except Exception as e:
             logger.error(f"Error processing {ticker}: {str(e)}")
-            results.append({'Ticker': ticker, 'Error': str(e)})
+            results.append({
+                'Ticker': ticker, 
+                'Error': str(e),
+                'Analysis': 'Error in Processing'
+            })
         
-        # Respect rate limit
         time.sleep(DELAY)
 
     save_to_csv(output_csv, results)

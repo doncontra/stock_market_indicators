@@ -1315,3 +1315,71 @@
 2024-10-24 20:18:42,752 - polygon_api_logger - INFO - Results saved to output_data.csv
 2024-10-24 20:18:42,753 - polygon_api_logger - INFO - Results saved to output_data.csv
 2024-10-24 20:18:42,753 - polygon_api_logger - INFO - Program completed
+2024-10-28 22:46:41,456 - polygon_api_logger - INFO - Starting the program
+2024-10-28 22:46:41,461 - polygon_api_logger - INFO - Loaded 1 tickers from input_tickers.csv
+2024-10-28 22:46:41,463 - polygon_api_logger - INFO - Processing ticker: IONQ
+2024-10-28 22:46:41,707 - polygon_api_logger - INFO - Successfully fetched historical data for IONQ
+2024-10-28 22:46:41,954 - polygon_api_logger - INFO - Processed IONQ: Closing Price=17.81, 200 SMA=8.98339999999998, Gap=98.25, RSI=93.38, Action=Monitor
+2024-10-28 22:47:11,965 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:47:11,966 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:47:11,966 - polygon_api_logger - INFO - Program completed
+2024-10-28 22:49:59,996 - polygon_api_logger - INFO - Starting the program
+2024-10-28 22:50:00,001 - polygon_api_logger - INFO - Loaded 1 tickers from input_tickers.csv
+2024-10-28 22:50:00,002 - polygon_api_logger - INFO - Processing ticker: IONQ
+2024-10-28 22:50:00,741 - polygon_api_logger - INFO - Successfully fetched historical data for IONQ
+2024-10-28 22:50:01,327 - polygon_api_logger - INFO - Processed IONQ: Closing Price=17.81, 200 SMA=8.98339999999998, Gap=98.25, RSI=89.14, Action=Monitor
+2024-10-28 22:50:31,340 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:50:31,340 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:50:31,340 - polygon_api_logger - INFO - Program completed
+2024-10-28 22:54:09,925 - polygon_api_logger - INFO - Starting the program
+2024-10-28 22:54:09,928 - polygon_api_logger - INFO - Loaded 1 tickers from input_tickers.csv
+2024-10-28 22:54:10,161 - polygon_api_logger - INFO - Successfully fetched historical data for IONQ
+2024-10-28 22:54:10,419 - polygon_api_logger - INFO - Processed IONQ: Closing Price=17.81, 200 SMA=8.98339999999998, Gap=98.25, RSI=89.14, Action=Monitor (RSI overbought; MACD bullish crossover)
+2024-10-28 22:54:40,429 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:54:40,429 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:54:40,429 - polygon_api_logger - INFO - Program completed
+2024-10-28 22:55:56,144 - polygon_api_logger - INFO - Starting the program
+2024-10-28 22:55:56,146 - polygon_api_logger - INFO - Loaded 1 tickers from input_tickers.csv
+2024-10-28 22:55:56,381 - polygon_api_logger - INFO - Successfully fetched historical data for IONQ
+2024-10-28 22:55:56,629 - polygon_api_logger - INFO - Processed IONQ: Closing Price=17.81, 200 SMA=8.98339999999998, Gap=98.25, RSI=89.14, Action=Monitor (RSI overbought; MACD bullish crossover)
+2024-10-28 22:56:26,644 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:56:26,644 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:56:26,645 - polygon_api_logger - INFO - Program completed
+2024-10-28 22:57:43,401 - polygon_api_logger - INFO - Starting the program
+2024-10-28 22:57:43,406 - polygon_api_logger - INFO - Loaded 1 tickers from input_tickers.csv
+2024-10-28 22:57:43,407 - polygon_api_logger - INFO - Processing ticker: IONQ
+2024-10-28 22:57:43,656 - polygon_api_logger - INFO - Successfully fetched historical data for IONQ
+2024-10-28 22:57:44,976 - polygon_api_logger - INFO - 
+Analysis for IONQ:
+Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 98.3%)
+- Extremely overbought (RSI: 89.1)
+2024-10-28 22:58:14,992 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:58:14,992 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 22:58:14,992 - polygon_api_logger - INFO - Program completed
+2024-10-28 23:02:58,836 - polygon_api_logger - INFO - Starting the program
+2024-10-28 23:02:58,841 - polygon_api_logger - INFO - Loaded 1 tickers from input_tickers.csv
+2024-10-28 23:02:58,842 - polygon_api_logger - INFO - Processing ticker: IONQ
+2024-10-28 23:02:59,138 - polygon_api_logger - INFO - Successfully fetched historical data for IONQ
+2024-10-28 23:02:59,391 - polygon_api_logger - INFO - Processed IONQ
+2024-10-28 23:02:59,391 - polygon_api_logger - DEBUG - Analysis for IONQ:
+Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 98.3%)
+- Extremely overbought (RSI: 89.1)
+2024-10-28 23:03:29,414 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 23:03:29,414 - polygon_api_logger - INFO - Results saved to output_data.csv
+2024-10-28 23:03:29,414 - polygon_api_logger - INFO - Program completed
