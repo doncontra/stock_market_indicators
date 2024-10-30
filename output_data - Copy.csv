@@ -1,193 +1,797 @@
-Ticker,Closing Price,200 SMA,Gap
-SKYE,5.9,7.350812499999996,-19.736763793118065
-DAVE,34.53,24.698875000000008,39.80393843849159
-SEDG,27.45,,
-EYE,13.91,17.960900000000017,-22.553992283237548
-PKX,64.94,79.63794999999983,-18.45596226422185
-ZNTL,4.36,,
-PERI,8.47,20.658650000000016,-59.00022508731212
-MBUU,37.25,42.568874999999956,-12.49475115327798
-ADNT,25.1,,
-AFRM,26.46,33.53550000000001,-21.09853737084585
-AEHR,17.66,18.349674999999994,-3.7585134341616087
-WST,277.16,,
-CABA,6.75,16.049025000000004,-57.94137027015661
-PII,79.03,88.24659999999975,-10.444141757302571
-CRSR,8.045,,
-ATEC,10.87,12.645675000000022,-14.041757359729864
-ROKU,57.45,72.414675,-20.665251898182238
-XRX,10.82,,
-CC,23.89,26.950749999999967,-11.356826804448747
-CYRX,8.96,13.565575,-33.950459158568655
-MARA,20.28,,
-AAL,10.6,13.186600000000016,-19.615367115101794
-ZEUS,49.94,58.45667499999994,-14.569208734502862
-RHI,59.92,,
-SCHL,30.93,37.20452500000002,-16.864951239130228
-SYM,37.84,42.488074999999945,-10.939716614602915
-LVS,39.34,,
-EPAM,207.14,248.72960000000023,-16.7208084602718
-IGT,20.16,24.041949999999993,-16.146568809934276
-U,16.18,,
-FDMT,18.52,21.38129999999999,-13.382254586952106
-RH,260.65,264.30125,-1.381472845852982
-LKQ,38.95,,
-ALGN,226.05,267.0171999999999,-15.342532241368682
-VAC,85.37,89.67139999999999,-4.796847155280265
-MTCH,33.25,,
-AAOI,8.61,13.312024999999997,-35.32163588935566
-ALGT,51.0,66.14762500000008,-22.899726180645274
-SDGR,22.29,,
-ATRC,23.53,30.363275,-22.505065741426115
-BILL,52.83,67.39244999999997,-21.60842943089319
-TRIP,17.61,,
-IMNM,16.03,14.703600000000002,9.02092004679126
-FOXF,51.0,57.36574999999988,-11.09677812980723
-CLSK,16.18,,
-EXTR,13.73,14.401800000000012,-4.664694690941488
-GYRE,14.98,,
-CPRI,33.31,,
-CAR,101.59,140.3092250000008,-27.59563742155982
-KRRO,52.29,,
-EXPI,14.1,,
-PGNY,28.6,33.335199999999986,-14.204804530946227
-MOS,29.3,32.062850000000054,-8.616981958871557
-WDS,17.77,,
-CVI,26.58,31.157699999999977,-14.692034392782466
-RDUS,17.69,21.825750000000056,-18.94894791702482
-WHR,101.57,,
-NTLA,26.42,26.52410000000003,-0.3924732601672715
-LYFT,12.21,14.36525000000001,-15.003219575016152
-MXL,14.02,,
-ARCT,22.98,29.299625000000002,-21.56896206009463
-MGA,43.23,51.207700000000024,-15.579102361558952
-ARRY,11.16,,
-AI,26.84,27.305600000000045,-1.7051447322162632
-ZD,48.63,60.62284999999995,-19.78272219138486
-STNE,13.34,,
-DOCN,32.28,33.63559999999998,-4.030253659812764
-SHYF,13.59,11.692799999999998,16.225369458128096
-ATKR,135.28,,
-CRSP,57.57,61.30127499999989,-6.086782044908359
-ON,67.54,74.7084999999997,-9.595293708212218
-KRUS,52.83,,
-DCBO,37.82,44.065699999999964,-14.17360895208738
-FND,93.44,106.06624999999984,-11.904116530941616
-WK,74.58,,
-ULTA,363.3,444.0279500000004,-18.18082622952008
-UPWK,11.42,12.52442500000001,-8.818169297193355
-ICL,4.61,,
-OSCR,15.32,13.391600000000007,14.400071686728932
-YETI,37.73,41.48609999999998,-9.053875876498354
-BA,184.35,,
-CBRL,43.08,63.85279999999998,-32.532324345995775
-BBWI,33.13,41.326950000000004,-19.834393779361896
-VTLE,43.16,,
-XRAY,26.43,30.96115000000003,-14.634953805010554
-EW,59.7,81.65529999999997,-26.887783156757706
-BWA,32.18,,
-SMTC,28.91,25.757700000000064,12.238282144756436
-BMBL,9.17,12.304100000000037,-25.47199713916522
-SHOP,59.44,,
-ELAN,12.82,14.306949999999983,-10.393200507445572
-CX,6.37,7.418599999999994,-14.134742404227147
-OTEX,31.15,,
-KSS,20.05,24.629449999999988,-18.59339124503385
-PVH,97.11,110.27570000000014,-11.938894969608107
-STM,33.47,,
-INFA,23.99,29.01610000000004,-17.321762745510373
-PUK,17.7,20.293249999999997,-12.778879676739793
-AMD,138.32,,
-INTC,31.1,38.82185,-19.8904740500517
-RICK,48.46,54.14792499999999,-10.504419144408557
-RYAAY,97.74,,
-CSAN,9.55,12.799749999999975,-25.389167757182605
-BRKR,64.23,72.53442499999994,-11.448943036358177
-IPGP,85.49,,
-SOFI,7.27,7.590449999999996,-4.22175233352432
-MCFT,20.69,21.04555,-1.6894307822793768
-SVC,5.58,,
-SEAT,4.81,5.988099999999998,-19.674020139944208
-PZZA,40.96,63.03555000000002,-35.020793821898934
-NYMT,6.52,,
-LZ,6.71,10.567199999999984,-36.50162767809817
-NFE,20.34,30.2603,-32.78321761515914
-VRT,76.48,,
-CHTR,315.23,330.1117000000003,-4.508080143781724
-ASTE,34.56,36.072449999999904,-4.192811965918327
-OI,11.29,,
-PRTC,22.4,24.590909999999976,-8.909430354549627
-OMAB,69.24,73.94644999999986,-6.364673354839713
-RIG,5.82,,
-BAK,6.32,7.820999999999995,-19.19191919191914
-PTEN,10.44,11.287800000000018,-7.510763833519531
-SBSW,4.32,,
-AG,5.85,5.881349999999997,-0.5330408834705828
-LBRDA,55.42,65.71625000000006,-15.667738192608446
-FIVE,71.75,,
-NVST,16.11,21.24614999999996,-24.174497497193475
-LBRDK,56.34,65.79155000000006,-14.365902612113631
-NXE,6.21,,
-AMCX,10.33,14.077525000000001,-26.620624008836785
-NET,78.04,80.85019999999997,-3.4758108205050418
-PLRX,13.31,,
-SIBN,15.97,16.934600000000042,-5.696030611883595
-MDB,256.26,358.5345999999996,-28.525726666268675
-BIGC,8.3,,
-RKLB,5.25,4.496449999999998,16.758776368023725
-INDI,6.03,6.556799999999996,-8.034407027818395
-EXAS,48.36,,
-GOGO,9.39,9.639949999999981,-2.5928557720733103
-ILMN,117.3,122.54877500000032,-4.283008948886113
-MGTX,5.09,,
-RGNX,14.39,16.590999999999994,-13.266228678198988
-ERII,14.84,15.820849999999986,-6.199730102996911
-QRTEB,4.04,,
-SSYS,8.86,11.09029999999999,-20.110366716860614
-LPRO,6.14,6.5409749999999836,-6.130202301644401
-ZI,11.31,,
-DRVN,12.81,13.010949999999998,-1.5444683132284507
-IAS,10.6,11.915349999999995,-11.039121805066538
-CRWD,254.15,,
-RIOT,10.73,11.671000000000008,-8.062719561305862
-JOBY,6.18,5.627350000000004,9.820785982744898
-SPT,38.2,,
-INSP,135.05,178.50155000000024,-24.342393665489272
-TCMD,12.91,13.557025,-4.772617886298796
-KROS,50.29,,
-STKL,5.23,5.506099999999998,-5.014438531810136
-SKYT,7.35,8.36807499999999,-12.166179198919606
-OPRA,11.78,,
-NTNX,49.35,53.58905000000002,-7.910291374823809
-QS,6.88,6.252750000000005,10.031586102114977
-UEC,5.49,,
-EVO,4.71,7.491099499999993,-37.125384598081965
-BBIO,26.7,30.202624999999948,-11.597088001456676
-STRO,4.285,,
-ULCC,4.02,5.503825000000002,-26.959886987685866
-TARS,28.24,26.85272500000001,5.166235456550453
-VSAT,18.88,,
-XPEV,8.2,10.793899999999997,-24.03116575102603
-MPW,5.2,4.501200000000001,15.524748955833983
-COGT,9.22,,
-VRCA,7.25,5.980425000000006,21.228842431766857
-ACB,5.79,5.057440000000015,14.484798633300308
-CDLX,8.37,,
-ESTA,48.14,40.46069999999999,18.979651859705875
-VST,70.38,59.009850000000036,19.268223864320877
-SANA,6.05,,
-NIO,4.27,6.046000000000016,-29.37479325173688
-SHLS,6.74,11.696799999999989,-42.377402366459144
-ALXO,6.1,,
-FULC,8.64,7.064650000000001,22.299052323894305
-HPKEW,5.55,7.235219500000008,-23.291891835486215
-APLD,4.445,,
-REPL,10.48,8.842324999999992,18.520864139239514
-FATE,5.4,4.303825000000003,25.469785597694983
-EYPT,9.46,,
-TTEC,8.05,14.091499999999973,-42.87336337508415
-LRMR,9.42,6.560250000000001,43.59208871613123
-NKLA,9.38,,
-STTK,4.43,6.538810500000006,-32.25067464487622
-FWRD,27.67,40.97362499999993,-32.468752764735726
-CCCC,6.44,,
+Ticker,Closing Price,200 SMA,Gap,RSI,MACD,MACD Signal,Analysis
+IONQ,17.81,8.98339999999998,98.25455840773024,89.13661671029145,2.005811144650126,1.3608589480998743,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 98.3%)
+- Extremely overbought (RSI: 89.1)"
+LULU,307.54,339.9350749999992,-9.529783003415945,70.32295077932051,8.299782091326563,5.984607849709793,"Buy Put
+
+Reasons:
+- Primary: RSI indicates overbought condition
+- Supporting: Trading below 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -9.5%)
+- Overbought (RSI: 70.3)"
+CDLX,4.04,7.817174999999989,-48.31892595470863,69.73366603294473,0.19642757723160775,0.1700611600555654,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (69.7)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -48.3%)"
+SEAT,3.95,5.094449999999987,-22.464642895700017,55.62608776119883,0.07004908313205638,0.0668438689762068,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (55.6)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -22.5%)"
+INFA,26.4,29.137200000000025,-9.394176516618014,56.770902854678674,0.3823741093869977,0.3800432124873107,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (56.8)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -9.4%)"
+FBIOP,6.31,11.912017000000017,-47.02828244788443,71.46945740689476,0.1642452393898468,0.06440531196475514,"Buy Put
+
+Reasons:
+- Primary: RSI indicates overbought condition
+- Supporting: Trading below 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -47.0%)
+- Overbought (RSI: 71.5)"
+TBLA,3.57,3.8584749999999968,-7.47639935466725,54.584619048791104,0.0876975310154191,0.07190261914920158,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (54.6)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -7.5%)"
+MXL,15.64,17.889149999999937,-12.572704684123865,61.33931174855176,0.24402939997501605,0.059304004133160025,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (61.3)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -12.6%)"
+LZ,7.11,9.093774999999996,-21.81464793223932,71.42907574315343,0.16088585138327627,0.1329416047440519,"Buy Put
+
+Reasons:
+- Primary: RSI indicates overbought condition
+- Supporting: Trading below 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -21.8%)
+- Overbought (RSI: 71.4)"
+IART,19.32,29.119249999999862,-33.65213733183344,59.34976654645168,0.308361014034773,0.31197255497915927,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (59.3)
+Warnings:
+- Trading below 200 SMA (Gap: -33.7%)
+- MACD below signal line"
+RIOT,10.56,10.19115,3.619316760130114,74.1856422839008,0.6890363467985203,0.5419019345606118,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 3.6%)
+- MACD above signal line
+Warnings:
+- Overbought (RSI: 74.2)"
+SIRI,27.03,34.226825000000005,-21.026855397776462,66.33481819620174,0.8734536244828384,0.81015346668036,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (66.3)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -21.0%)"
+INMD,17.98,18.810824999999976,-4.416738766109286,56.691361805610796,0.381018449027021,0.21104070262374416,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (56.7)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -4.4%)"
+LYFT,13.89,14.39910000000001,-3.5356376440194777,61.55564189014878,0.28498313718704615,0.2355203741799389,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (61.6)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -3.5%)"
+JSPR,22.02,20.851124999999993,5.605812636008884,65.5326676330368,0.7247814860994417,0.2565854692097078,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 5.6%)
+- RSI in neutral zone (65.5)
+- MACD above signal line"
+BMBL,7.13,9.84592499999998,-27.584254399662655,64.90339970610908,0.2115135288699177,0.18902911888544885,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (64.9)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -27.6%)"
+SYM,28.41,35.70624999999996,-20.434097671976108,59.55703957583128,1.0903826983869642,1.131726715266706,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (59.6)
+Warnings:
+- Trading below 200 SMA (Gap: -20.4%)
+- MACD below signal line"
+SKYE,5.15,8.208182500000003,-37.25773031971452,68.72064721248675,0.3177986919546125,0.21091324909009765,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (68.7)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -37.3%)"
+NVAX,10.25,9.694625000000007,5.728689866807557,38.49976785822239,-0.7818068123900161,-0.5814358022733681,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 5.7%)
+- RSI in neutral zone (38.5)
+Warnings:
+- MACD below signal line"
+LSPD,14.93,14.339299999999998,4.1194479507368,20.117585105933443,-0.34877484479293663,-0.2483565333482999,"Buy Call
+
+Reasons:
+- Primary: RSI indicates oversold condition
+- Supporting: Positive gap from 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 4.1%)
+- Oversold (RSI: 20.1)
+Warnings:
+- MACD below signal line"
+NIO,5.81,5.074250000000006,14.499679755628758,45.5978478237129,-0.35828842174366127,-0.34090510987496553,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 14.5%)
+- RSI in neutral zone (45.6)
+Warnings:
+- MACD below signal line"
+MPW,4.66,4.594500000000004,1.4256175862443468,31.174819636831344,-0.26554983466779625,-0.26125743014814506,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 1.4%)
+- RSI in neutral zone (31.2)
+Warnings:
+- MACD below signal line"
+AUROW,1.1578,0.35047520499999996,230.35147236735338,70.48409265382205,0.061573547217030344,0.03221096426856167,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 230.4%)
+- Overbought (RSI: 70.5)"
+PCT,13.92,6.1883250000000025,124.939705009029,77.02348610790995,1.0289413751145098,0.5304572300427427,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 124.9%)
+- Overbought (RSI: 77.0)"
+ZLAB,32.54,19.66572499999998,65.46554983353032,76.54850675278087,1.8713121005599334,1.1260025852058837,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 65.5%)
+- Overbought (RSI: 76.5)"
+SKYT,11.05,9.000525000000005,22.770616158501806,77.94639361749168,0.39652379953559347,0.250981270653028,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 22.8%)
+- Overbought (RSI: 77.9)"
+CIFR,5.66,4.008149999999998,41.21227997954176,69.40692443588529,0.4400615180678056,0.31954302889189734,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- RSI in neutral zone (69.4)
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 41.2%)"
+SOFI,11.19,7.575725,47.708635147131126,84.16584886528804,0.7774563992111307,0.6258344368362642,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 47.7%)
+- Extremely overbought (RSI: 84.2)"
+WULF,6.85,3.3252500000000027,105.9995489060971,71.30375781712124,0.5304673903965735,0.3014613289543035,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 106.0%)
+- Overbought (RSI: 71.3)"
+ULCC,7.27,5.526299999999999,31.552756817400446,75.96212169893141,0.44050996032145306,0.33653647700855166,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 31.6%)
+- Overbought (RSI: 76.0)"
+AAL,13.6,12.613700000000005,7.819275866716302,77.48772079078606,0.5083328767859463,0.39934486266722863,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 7.8%)
+- MACD above signal line
+Warnings:
+- Overbought (RSI: 77.5)"
+KRUS,98.56,86.92177499999998,13.38930895049028,74.32625183218124,3.971271126308352,2.65228409191582,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 13.4%)
+- MACD above signal line
+Warnings:
+- Overbought (RSI: 74.3)"
+JANX,54.36,39.80877499999999,36.55280776662938,70.28047022117504,2.094082932923264,1.5566891603181483,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 36.6%)
+- Overbought (RSI: 70.3)"
+DBRG,16.56,15.567900000000003,6.372728499026812,72.7305363249433,0.5785722158326578,0.469304502081444,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 6.4%)
+- MACD above signal line
+Warnings:
+- Overbought (RSI: 72.7)"
+PLRX,14.86,13.680900000000007,8.618585034610241,68.01279609803107,0.8501409959344599,0.7847909300013727,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 8.6%)
+- RSI in neutral zone (68.0)
+- MACD above signal line"
+UPST,51.98,30.607374999999983,69.82835019337668,67.76493597165162,2.915563999246551,2.8624000963704033,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- RSI in neutral zone (67.8)
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 69.8%)"
+SNCY,13.04,12.427375,4.92964121546183,65.38880211227263,0.49826617476824175,0.27614169926590393,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 4.9%)
+- RSI in neutral zone (65.4)
+- MACD above signal line"
+SYRE,34.4,30.554149999999986,12.58699718368868,65.73234467827757,1.4105077090558673,0.9496121769618804,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 12.6%)
+- RSI in neutral zone (65.7)
+- MACD above signal line"
+PTON,6.4,4.1727999999999925,53.37423312883464,72.55579693273297,0.40803497169348013,0.2736536256268614,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 53.4%)
+- Overbought (RSI: 72.6)"
+TARS,39.67,31.341225000000037,26.574503708773207,77.88018612744217,1.5688327583827757,1.226122421370907,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 26.6%)
+- Overbought (RSI: 77.9)"
+ALGT,63.8,58.01057500000015,9.979947621618695,65.01233296919067,2.155560759905015,1.8604109407213578,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 10.0%)
+- RSI in neutral zone (65.0)
+- MACD above signal line"
+MGTX,5.88,5.131400000000003,14.588611295163048,76.5109804162376,0.4726873144058743,0.3962930670697979,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 14.6%)
+- MACD above signal line
+Warnings:
+- Overbought (RSI: 76.5)"
+NAMSW,8.9,8.823214500000011,0.87026672648601,74.8913824899197,0.46625373089117694,0.3889226628505282,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 0.9%)
+- MACD above signal line
+Warnings:
+- Overbought (RSI: 74.9)"
+UPWK,12.57,11.554549999999981,8.788312829145408,73.12105302086913,0.4504891902004271,0.1833362641461063,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- Trading above 200 SMA (Gap: 8.8%)
+- MACD above signal line
+Warnings:
+- Overbought (RSI: 73.1)"
+AG,7.66,6.0265499999999905,27.104230446939166,73.70393483587043,0.4342802696293653,0.3252691485461445,"Monitor
+
+Reasons:
+- Caution: RSI indicates overbought condition
+- Risk: Extended gap above 200 SMA
+Strength Indicators:
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 27.1%)
+- Overbought (RSI: 73.7)"
+VICR,47.99,37.341925,28.51506717985213,63.83915006776088,1.3164434183516605,0.5934136540628466,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- RSI in neutral zone (63.8)
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 28.5%)"
+COGT,11.89,8.30727500000001,43.12755987974381,61.71755754287831,0.32420972749972954,0.2677793990582878,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- RSI in neutral zone (61.7)
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 43.1%)"
+KRRO,63.85,50.78869999999997,25.716940973090548,66.42190045581248,9.492266148381908,8.466406639650494,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- RSI in neutral zone (66.4)
+- MACD above signal line
+Warnings:
+- Stock significantly above 200 SMA (Gap: 25.7%)"
+NKLA,5.31,14.050765000000043,-62.20846338259886,63.20378427528616,-0.03421708936009171,-0.10737804199913159,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (63.2)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -62.2%)"
+SEDG,17.46,44.736549999999845,-60.97150987279962,37.4827105108413,-1.4955816384357448,-1.3893684452513513,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (37.5)
+Warnings:
+- Trading below 200 SMA (Gap: -61.0%)
+- MACD below signal line"
+NEGG,0.67,0.8651089999999988,-22.55311180440835,44.380588222442455,-0.025285275838831778,-0.02345896722170164,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (44.4)
+Warnings:
+- Trading below 200 SMA (Gap: -22.6%)
+- MACD below signal line"
+MERC,6.73,8.299525000000003,-18.911022016320235,52.64634099078237,-0.11209299385650429,-0.06532213281029715,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (52.6)
+Warnings:
+- Trading below 200 SMA (Gap: -18.9%)
+- MACD below signal line"
+ENPH,84.68,112.91509999999973,-25.00560155373355,26.579253686100586,-7.141449226662317,-5.891485663562079,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 26.6)
+Warnings:
+- Trading below 200 SMA (Gap: -25.0%)
+- MACD below signal line"
+MCFT,17.41,20.037199999999995,-13.11161240093424,46.3924243727811,-0.2778522010166,-0.2833766426698063,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (46.4)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -13.1%)"
+IMNM,12.43,16.437424999999998,-24.379883102128215,36.38635055526498,-0.527166137464917,-0.5897841937320365,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (36.4)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -24.4%)"
+KC,2.83,2.7971500000000127,1.174409666982008,49.68755060273337,-0.1216718271732029,-0.07299742248403199,"No Action
+
+Reasons:
+- RSI in neutral zone
+Strength Indicators:
+- Trading above 200 SMA (Gap: 1.2%)
+- RSI in neutral zone (49.7)
+Warnings:
+- MACD below signal line"
+PII,74.05,84.97444999999995,-12.856158527651495,35.062175796101556,-2.6349353632665213,-1.6687022169610948,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (35.1)
+Warnings:
+- Trading below 200 SMA (Gap: -12.9%)
+- MACD below signal line"
+CRSR,6.63,10.05335,-34.05183346844584,46.39719870895717,-0.14002450659779608,-0.10574160158185394,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (46.4)
+Warnings:
+- Trading below 200 SMA (Gap: -34.1%)
+- MACD below signal line"
+TXG,15.86,27.940650000000023,-43.23682519912748,27.292287047170774,-1.6361604105064558,-1.664505307314043,"Buy Call
+
+Reasons:
+- Primary: RSI indicates oversold condition
+- Supporting: MACD shows bullish momentum
+- Warning: Trading below 200 SMA
+Strength Indicators:
+- Oversold (RSI: 27.3)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -43.2%)"
+MLCO,6.99,7.11502500000001,-1.7571969177903035,41.30533892795235,-0.28914922222127526,-0.20538954041940738,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (41.3)
+Warnings:
+- Trading below 200 SMA (Gap: -1.8%)
+- MACD below signal line"
+SID,2.13,2.653900000000002,-19.74075888315316,37.52936452768738,-0.07403110244202438,-0.07560613671598608,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (37.5)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -19.7%)"
+CVAC,2.83,3.277475000000001,-13.653040831737867,46.750960557647204,-0.04822555094417513,-0.04171596517300957,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (46.8)
+Warnings:
+- Trading below 200 SMA (Gap: -13.7%)
+- MACD below signal line"
+ALGN,215.8,264.37959999999975,-18.37494269603244,28.632907968802044,-8.85581038998319,-8.913468748500959,"Buy Call
+
+Reasons:
+- Primary: RSI indicates oversold condition
+- Supporting: MACD shows bullish momentum
+- Warning: Trading below 200 SMA
+Strength Indicators:
+- Oversold (RSI: 28.6)
+- MACD above signal line
+Warnings:
+- Trading below 200 SMA (Gap: -18.4%)"
+CSAN,8.46,11.145899999999997,-24.097650257045167,35.848368430467715,-0.3290178852790131,-0.30606135798316103,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (35.8)
+Warnings:
+- Trading below 200 SMA (Gap: -24.1%)
+- MACD below signal line"
+UGP,3.68,4.7426499999999985,-22.40624967054281,44.044442419774136,-0.06768211427675919,-0.060007150900466946,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (44.0)
+Warnings:
+- Trading below 200 SMA (Gap: -22.4%)
+- MACD below signal line"
+PKX,62.68,71.34024999999988,-12.139360319034344,35.35098497015771,-2.2758290340362777,-1.917476260704023,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (35.4)
+Warnings:
+- Trading below 200 SMA (Gap: -12.1%)
+- MACD below signal line"
+BAK,6.32,7.4338999999999915,-14.98405951115824,30.70648797276958,-0.28651553359214255,-0.24881245851595074,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (30.7)
+Warnings:
+- Trading below 200 SMA (Gap: -15.0%)
+- MACD below signal line"
+GGB,3.18,3.4409330000000016,-7.583204904018801,34.06484971355118,-0.09296406485144004,-0.07912761612378873,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (34.1)
+Warnings:
+- Trading below 200 SMA (Gap: -7.6%)
+- MACD below signal line"
+ABEV,2.28,2.353400000000001,-3.1188918160959127,38.62822401466923,-0.04605763347865599,-0.04088660813712821,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (38.6)
+Warnings:
+- Trading below 200 SMA (Gap: -3.1%)
+- MACD below signal line"
+LCID,2.52,3.082575000000003,-18.250164229580868,22.768784692742685,-0.26243788715093563,-0.19806779900083912,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 22.8)
+Warnings:
+- Trading below 200 SMA (Gap: -18.3%)
+- MACD below signal line"
+NYMT,5.28,6.628875000000005,-20.348475420037396,21.94928140141114,-0.23295703625949216,-0.21193174576201834,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 21.9)
+Warnings:
+- Trading below 200 SMA (Gap: -20.3%)
+- MACD below signal line"
+FDMT,8.57,21.101899999999965,-59.38754330178793,31.671447216883763,-0.5567344455463683,-0.5447120545510472,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (31.7)
+Warnings:
+- Trading below 200 SMA (Gap: -59.4%)
+- MACD below signal line"
+BBDO,2.3,2.405583999999995,-4.3891213110826826,36.68259651501146,-0.03356298430567728,-0.031655664593006776,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (36.7)
+Warnings:
+- Trading below 200 SMA (Gap: -4.4%)
+- MACD below signal line"
+KOS,3.98,5.38725000000001,-26.121861803332074,46.97402415802338,-0.025798045529130675,0.01111169092646523,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (47.0)
+Warnings:
+- Trading below 200 SMA (Gap: -26.1%)
+- MACD below signal line"
+ELAN,12.51,15.021849999999974,-16.721309292796683,19.882765237437425,-0.5862526694056474,-0.44705189500407494,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Extremely oversold (RSI: 19.9)
+Warnings:
+- Trading below 200 SMA (Gap: -16.7%)
+- MACD below signal line"
+WDS,16.02,18.57414999999997,-13.751100319529968,37.457300657074285,-0.34619058330978447,-0.22078780517005092,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (37.5)
+Warnings:
+- Trading below 200 SMA (Gap: -13.8%)
+- MACD below signal line"
+YETI,35.84,39.7843,-9.914212390314768,23.68303090841586,-1.3612278879392932,-0.8197817141134845,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 23.7)
+Warnings:
+- Trading below 200 SMA (Gap: -9.9%)
+- MACD below signal line"
+FND,101.84,110.98739999999985,-8.241836460715234,16.929091052936215,-4.906951381580257,-4.107377682955827,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Extremely oversold (RSI: 16.9)
+Warnings:
+- Trading below 200 SMA (Gap: -8.2%)
+- MACD below signal line"
+SSL,5.76,7.48549999999999,-23.051232382606276,33.91960574846749,-0.23721878940094854,-0.13362771877566415,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (33.9)
+Warnings:
+- Trading below 200 SMA (Gap: -23.1%)
+- MACD below signal line"
+BRKR,58.46,72.372425,-19.22337824109114,24.88539263176962,-2.442066360746999,-2.011398718445679,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 24.9)
+Warnings:
+- Trading below 200 SMA (Gap: -19.2%)
+- MACD below signal line"
+ARCT,19.57,28.071475000000007,-30.285102581891422,36.15694826683908,-1.0179867095989223,-0.7971125756101141,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (36.2)
+Warnings:
+- Trading below 200 SMA (Gap: -30.3%)
+- MACD below signal line"
+NEP,20.4,27.82700000000005,-26.689905487476334,18.04659179514063,-1.4511198259103288,-0.9084681624298865,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Extremely oversold (RSI: 18.0)
+Warnings:
+- Trading below 200 SMA (Gap: -26.7%)
+- MACD below signal line"
+OSCR,15.35,17.120500000000007,-10.341403580502945,27.317701755995714,-1.1985753818433231,-1.0989616737587293,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 27.3)
+Warnings:
+- Trading below 200 SMA (Gap: -10.3%)
+- MACD below signal line"
+SVC,3.41,5.7557750000000025,-40.7551546055918,29.60201397147479,-0.2909466597793089,-0.19888582818784262,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 29.6)
+Warnings:
+- Trading below 200 SMA (Gap: -40.8%)
+- MACD below signal line"
+LU,2.74,3.1162999999999808,-12.075217405255684,35.19044344615794,-0.20052681249589588,-0.13287589405041067,"No Action
+
+Reasons:
+- No clear signal
+Strength Indicators:
+- RSI in neutral zone (35.2)
+Warnings:
+- Trading below 200 SMA (Gap: -12.1%)
+- MACD below signal line"
+ADAP,0.7372,1.128291499999999,-34.66227477562308,20.32603012865397,-0.04726080251045339,-0.03370266352903972,"Monitor
+
+Reasons:
+- Mixed signals: Oversold but bearish trend
+Strength Indicators:
+- Oversold (RSI: 20.3)
+Warnings:
+- Trading below 200 SMA (Gap: -34.7%)
+- MACD below signal line"

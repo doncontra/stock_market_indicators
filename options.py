@@ -16,8 +16,6 @@ API_KEY = 'ppisGP51Q3ZPNYFSX8hCdWleFNzKa5I0'
 BASE_URL_AGG = 'https://api.polygon.io/v2/aggs/ticker/'  # For closing prices
 BASE_URL_SMA = 'https://api.polygon.io/v1/indicators/sma/'  # For SMA
 BASE_URL_AGG = 'https://api.polygon.io/v2/aggs/ticker/'  # For historical data
-CALL_LIMIT = 2  # API calls per minute
-DELAY = 60 / CALL_LIMIT  # Delay to respect API rate limit
 
 # Set up logger
 def setup_logger():
@@ -94,43 +92,6 @@ def get_historical_data(ticker, days=15):
         logger.error(f"Error fetching historical data for {ticker}: {response.status_code}")
     return pd.DataFrame()
 
-# Calculate RSI# Calculate RSI
-# def calculate_rsi(data, periods=14):
-#     if len(data) < periods + 1:
-#         logger.warning(f"Not enough data to calculate RSI. Need at least {periods + 1} data points.")
-#         return np.nan
-    
-#     close_diff = data['c'].diff()
-    
-#     # Separate gains and losses
-#     gains = close_diff.where(close_diff > 0, 0)
-#     losses = -close_diff.where(close_diff < 0, 0)
-    
-#     # First average
-#     avg_gain = gains.iloc[:periods].mean()
-#     avg_loss = losses.iloc[:periods].mean()
-    
-#     # Initialize the arrays
-#     avg_gains = np.zeros(len(data))
-#     avg_losses = np.zeros(len(data))
-#     avg_gains[periods - 1] = avg_gain
-#     avg_losses[periods - 1] = avg_loss
-    
-#     # Calculate smoothed averages
-#     for i in range(periods, len(data)):
-#         avg_gain = (avg_gains[i-1] * 13 + gains.iloc[i]) / 14
-#         avg_loss = (avg_losses[i-1] * 13 + losses.iloc[i]) / 14
-#         avg_gains[i] = avg_gain
-#         avg_losses[i] = avg_loss
-    
-#     # Calculate RS and RSI
-#     rs = np.where(avg_losses != 0, avg_gains / avg_losses, 100.0)  # Handle division by zero
-#     rsi = 100 - (100 / (1 + rs))
-    
-#     # If there are no losses, RSI should be 100
-#     rsi = np.where(avg_losses == 0, 100.0, rsi)
-    
-#     return rsi[-1]
 
 def calculate_rsi(ticker, timespan='day', window=14):
     """
@@ -177,8 +138,6 @@ def calculate_rsi(ticker, timespan='day', window=14):
         logger.error(f"Exception calculating RSI for {ticker}: {str(e)}")
         return np.nan
 
-
-
 # Calculate the percentage gap between closing price and SMA
 def calculate_gap(closing_price, sma):
     if sma is None:
@@ -218,25 +177,6 @@ def save_to_csv(output_csv, results):
     df.to_csv(output_csv, index=False, encoding='utf-8')
     logger.info(f"Results saved to {output_csv}")
 
-# def calculate_macd(data, short_period=12, long_period=26, signal_period=9):
-#     # Calculate the exponential moving averages
-#     short_ema = data['c'].ewm(span=short_period, adjust=False).mean()
-#     long_ema = data['c'].ewm(span=long_period, adjust=False).mean()
-    
-#     # Calculate MACD line
-#     macd_line = short_ema - long_ema
-    
-#     # Calculate signal line
-#     signal_line = macd_line.ewm(span=signal_period, adjust=False).mean()
-    
-#     # Calculate MACD histogram
-#     macd_histogram = macd_line - signal_line
-    
-#     return {
-#         'macd': macd_line.iloc[-1],
-#         'signal': signal_line.iloc[-1],
-#         'histogram': macd_histogram.iloc[-1]
-#     }
 
 def calculate_macd(ticker, timespan='day', short_window=12, long_window=26, signal_window=9):
     """
@@ -411,56 +351,6 @@ def get_latest_price(ticker):
         logger.error(f"Exception getting latest price for {ticker}: {str(e)}")
         return None
 
-# def main(input_csv, output_csv):
-#     tickers = load_tickers(input_csv)
-#     results = []
-
-#     for ticker in tickers:
-#         logger.info(f"Processing ticker: {ticker}")
-#         try:
-#             historical_data = get_historical_data(ticker, days=30)
-#             if not historical_data.empty:
-#                 closing_price = historical_data['c'].iloc[-1]
-#                 sma = get_200_day_sma(ticker)
-#                 gap = calculate_gap(closing_price, sma)
-#                 rsi = calculate_rsi(historical_data)
-#                 macd_data = calculate_macd(historical_data)
-                
-#                 analysis = determine_action(gap, rsi, macd_data)
-                
-#                 result = {
-#                     'Ticker': ticker, 
-#                     'Closing Price': closing_price, 
-#                     '200 SMA': sma, 
-#                     'Gap': gap,
-#                     'RSI': rsi,
-#                     'MACD': macd_data['macd'],
-#                     'MACD Signal': macd_data['signal'],
-#                     'Analysis': analysis
-#                 }
-                
-#                 results.append(result)
-#                 logger.info(f"Processed {ticker}")
-#                 logger.debug(f"Analysis for {ticker}:\n{analysis}")
-#             else:
-#                 logger.warning(f"No historical data available for {ticker}")
-#                 results.append({
-#                     'Ticker': ticker, 
-#                     'Error': 'No historical data',
-#                     'Analysis': 'Insufficient Data'
-#                 })
-#         except Exception as e:
-#             logger.error(f"Error processing {ticker}: {str(e)}")
-#             results.append({
-#                 'Ticker': ticker, 
-#                 'Error': str(e),
-#                 'Analysis': 'Error in Processing'
-#             })
-        
-#         time.sleep(DELAY)
-
-#     save_to_csv(output_csv, results)
-#     logger.info(f"Results saved to {output_csv}")
 
 def main(input_csv, output_csv):
     tickers = load_tickers(input_csv)
@@ -502,7 +392,6 @@ def main(input_csv, output_csv):
                 'Analysis': f'Error in Processing: {str(e)}'
             })
         
-        time.sleep(DELAY)
 
     save_to_csv(output_csv, results)
     logger.info(f"Results saved to {output_csv}")
