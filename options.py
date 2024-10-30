@@ -273,8 +273,26 @@ def determine_action(gap, rsi, macd_data):
         macd_trend = "bearish"
         warnings.append("MACD below signal line")
 
-    # Determine Action based on combined indicators
-    if gap > 0:
+    # Sweet Spot Check
+    if (gap > 0 and  # Above 200 SMA
+        30 <= rsi <= 70 and  # RSI between 30-70
+        macd_data['macd'] > macd_data['signal'] and  # Bullish crossover
+        macd_data['histogram'] > 0):  # Rising histogram
+        
+        action = "Sweet Spot"
+        reasons = [
+            f"Primary: Trading above 200 SMA (Gap: {gap:.1f}%)",
+            f"Supporting: RSI in optimal range ({rsi:.1f})",
+            f"Confirming: MACD shows bullish momentum (Crossover: {macd_data['macd']:.3f} > {macd_data['signal']:.3f})",
+            f"Confirming: Rising MACD histogram ({macd_data['histogram']:.3f})"
+        ]
+        
+        # Additional strength indicators for near-oversold condition
+        if 30 <= rsi <= 40:
+            reasons.append("Bonus: RSI near oversold territory - potential reversal point")
+    
+    # Regular Action Determination (only if not Sweet Spot)
+    elif gap > 0:
         if rsi < 30:
             action = "Buy Call"
             reasons.append("Primary: RSI indicates oversold condition")
@@ -309,6 +327,9 @@ def determine_action(gap, rsi, macd_data):
             reasons.append("No clear signal")
 
     # Format the analysis as a single line for CSV
+    if action == "No Action" and not warnings:
+        action = "No Warning - No Action"
+        
     analysis = f"{action}\n\nReasons:\n- {'\n- '.join(reasons)}"
     if strength:
         analysis += f"\nStrength Indicators:\n- {'\n- '.join(strength)}"
