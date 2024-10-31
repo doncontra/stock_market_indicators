@@ -3,9 +3,13 @@ import requests
 import numpy as np
 import logging
 from logging.handlers import RotatingFileHandler
-import streamlit as st
-import plotly.express as px
-import plotly.graph_objects as go
+try:
+    import streamlit as st
+    import plotly.express as px
+    import plotly.graph_objects as go
+except ImportError as e:
+    print(f"Error importing libraries: {e}")
+
 
 # Constants
 BASE_URL_AGG = 'https://api.polygon.io/v2/aggs/ticker/'
