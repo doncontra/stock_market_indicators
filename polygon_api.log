@@ -2616,3 +2616,8 @@
 2024-10-30 13:50:32,310 - polygon_api_logger - INFO - Successfully fetched RSI for BECN: 59.06
 2024-10-30 13:50:32,489 - polygon_api_logger - INFO - Successfully fetched MACD for BECN: {'macd': 1.6464238224121033, 'signal': 1.781159959987759, 'histogram': -0.13473613757565572}
 2024-10-30 13:50:32,490 - polygon_api_logger - INFO - Processing ticker: NVMI
+2024-10-30 13:50:32,686 - polygon_api_logger - INFO - Successfully fetched latest price for NVMI: 199.67
+2024-10-30 13:50:33,104 - polygon_api_logger - INFO - Successfully fetched RSI for NVMI: 52.02
+2024-10-30 13:50:33,410 - polygon_api_logger - INFO - Successfully fetched MACD for NVMI: {'macd': -3.6451611341364583, 'signal': -4.325123838359252, 'histogram': 0.6799627042227936}
+2024-10-30 13:50:33,411 - polygon_api_logger - INFO - Processing ticker: LAZ
+2024-10-30 13:50:33,578 - polygon_api_logger - INFO - Successfully fetched latest price for LAZ: 51.31
